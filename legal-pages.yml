@@ -1,0 +1,24 @@
+name: Build legal pages (manual, run after editing config.py)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  legal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python generate_legal_pages.py
+      - name: Commit
+        run: |
+          git config user.name  "bothsiders-bot"
+          git config user.email "bothsiders-bot@users.noreply.github.com"
+          git add privacy-policy.html terms.html
+          git diff --cached --quiet || git commit -m "Rebuild legal pages"
+          git push
