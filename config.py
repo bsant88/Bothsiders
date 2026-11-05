@@ -9,7 +9,7 @@ nothing else in the codebase needs to change.
 # Your live site's base URL, no trailing slash. Used to build links in the
 # email newsletter back to the full web page. Update this once you know
 # your GitHub Pages URL or custom domain.
-SITE_BASE_URL = "https://yourusername.github.io/bothsiders"
+SITE_BASE_URL = "https://bsant88.github.io/bothsiders"
 
 # Your Buttondown username (the part after buttondown.email/ in your
 # newsletter's URL). Used for the signup form embedded on every page.
