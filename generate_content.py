@@ -123,25 +123,29 @@ def main():
         f"stories using web search, then produce exactly {NUM_STORIES} "
         f"stories as a JSON array following the schema and rules in your "
         f"system prompt. Search thoroughly (at least 8-10 searches across "
-        f"different topics/categories) before writing anything."
+        f"different topics/categories) before writing anything. Keep the "
+        f"answer compact: every bullet and sentence short, no more text "
+        f"than the schema needs. Your final message must contain only the "
+        f"JSON array."
     )
 
     tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 20}]
     messages = [{"role": "user", "content": user_prompt}]
+    MAX_TOKENS = 32000
 
     def text_of(resp):
         return "".join(b.text for b in resp.content if b.type == "text")
 
+    def ask(**kwargs):
+        # Streaming is required by the API for requests with large token
+        # limits; this collects the finished message the same way.
+        with client.messages.stream(model=MODEL, max_tokens=MAX_TOKENS, system=SYSTEM_PROMPT, **kwargs) as stream:
+            return stream.get_final_message()
+
     # The web search tool can pause a long turn; keep going until it finishes.
     response = None
     for _ in range(6):
-        response = client.messages.create(
-            model=MODEL,
-            max_tokens=16000,
-            system=SYSTEM_PROMPT,
-            tools=tools,
-            messages=messages,
-        )
+        response = ask(tools=tools, messages=messages)
         if response.stop_reason != "pause_turn":
             break
         messages.append({"role": "assistant", "content": response.content})
@@ -150,25 +154,28 @@ def main():
     print(f"stop_reason={response.stop_reason}, text length={len(full_text)}")
 
     try:
+        if response.stop_reason == "max_tokens":
+            raise ValueError("Answer was cut off")
         stories = extract_json_array(full_text)
     except (ValueError, json.JSONDecodeError):
-        # Ask once more, without tools, for just the JSON array.
-        print("First answer had no usable JSON. Asking for the JSON array only.")
-        print("Start of that answer:", full_text[:500])
-        messages.append({"role": "assistant", "content": response.content})
-        messages.append({
-            "role": "user",
-            "content": (
-                f"Output only the final JSON array of {NUM_STORIES} stories "
-                "from your research, exactly following the schema. No prose, "
-                "no markdown fences."
-            ),
-        })
-        retry = client.messages.create(
-            model=MODEL,
-            max_tokens=16000,
-            system=SYSTEM_PROMPT,
-            messages=messages,
+        # Start a fresh request (no tools, no earlier reasoning blocks) and
+        # hand over the earlier text as plain text to turn into a clean array.
+        print("First answer was unusable. Asking for a clean JSON array.")
+        print("Start of that answer:", full_text[:300])
+        retry = ask(
+            messages=[{
+                "role": "user",
+                "content": (
+                    f"Today's date is {date_str}. Below is a draft of "
+                    f"today's Bothsiders stories, possibly cut off or mixed "
+                    f"with other text. Output the complete, valid JSON array "
+                    f"of exactly {NUM_STORIES} stories following the schema "
+                    f"in your system prompt, keeping every bullet short. If "
+                    f"the draft has fewer complete stories, return only the "
+                    f"complete ones. Output only the JSON array, with no "
+                    f"other text.\n\nDRAFT:\n{full_text}"
+                ),
+            }],
         )
         retry_text = text_of(retry)
         print(f"retry stop_reason={retry.stop_reason}, text length={len(retry_text)}")
