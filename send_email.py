@@ -196,7 +196,13 @@ def main():
 
     response = requests.post(
         BUTTONDOWN_API_URL,
-        headers={"Authorization": f"Token {api_key}"},
+        headers={
+            "Authorization": f"Token {api_key}",
+            # Buttondown's safety check: required to send for real (not as a
+            # draft). Remove this line and set status to "draft" to test
+            # without emailing anyone.
+            "X-Buttondown-Live-Dangerously": "true",
+        },
         json={
             "subject": subject,
             "body": body,
