@@ -6,7 +6,7 @@ Takes content.json (produced by generate_content.py) and:
   2. Writes/overwrites index.html as a copy of today's issue (the homepage
      always shows the latest issue).
   3. Updates manifest.json (the running list of every issue ever published).
-  4. Regenerates library.html from the manifest, grouped by month.
+  4. Regenerates past-issues.html from the manifest, grouped by month.
 
 The visual design lives entirely in templates/*.html and assets/style.css —
 this script only ever fills in placeholders, so the site's look is stable
@@ -24,7 +24,8 @@ CONTENT_PATH = "content.json"
 MANIFEST_PATH = "manifest.json"
 ISSUES_DIR = "issues"
 ISSUE_TEMPLATE_PATH = "templates/issue.html"
-LIBRARY_TEMPLATE_PATH = "templates/library.html"
+LIBRARY_TEMPLATE_PATH = "templates/past-issues.html"
+MASTHEAD_TEMPLATE_PATH = "templates/masthead.html"
 
 CATEGORY_KICKER_FALLBACK = {
     "politics": "POLITICS",
@@ -142,21 +143,23 @@ def render_issue_page(date_str: str, stories: list, asset_prefix: str, is_today:
 
     stories_html = "\n\n".join(render_story(s, i + 1) for i, s in enumerate(stories))
     coverage_html = render_coverage_card(stories)
-    back_link = "" if is_today else f'<a class="back-link" href="{asset_prefix}library.html">&larr; Back to Library</a>'
-    nav_today_class = "active" if is_today else ""
-    nav_library_class = "" if is_today else "active"
+    back_link = "" if is_today else f'<a class="back-link" href="{asset_prefix}past-issues.html">&larr; Back to Past Issues</a>'
 
     return (
         template
+        .replace("{{MASTHEAD}}", load_masthead())
         .replace("{{ASSET_PREFIX}}", asset_prefix)
         .replace("{{BUTTONDOWN_USERNAME}}", BUTTONDOWN_USERNAME)
         .replace("{{DATELINE}}", esc(date_str))
         .replace("{{BACK_LINK}}", back_link)
-        .replace("{{NAV_TODAY_CLASS}}", nav_today_class)
-        .replace("{{NAV_LIBRARY_CLASS}}", nav_library_class)
         .replace("{{COVERAGE}}", coverage_html)
         .replace("{{STORIES}}", stories_html)
     )
+
+
+def load_masthead() -> str:
+    with open(MASTHEAD_TEMPLATE_PATH, "r", encoding="utf-8") as f:
+        return f.read()
 
 
 def load_manifest() -> list:
@@ -213,6 +216,8 @@ def render_library(manifest: list) -> str:
 
     return (
         template
+        .replace("{{MASTHEAD}}", load_masthead())
+        .replace("{{ASSET_PREFIX}}", "")
         .replace("{{MONTH_GROUPS}}", "\n\n".join(groups_html))
         .replace("{{BUTTONDOWN_USERNAME}}", BUTTONDOWN_USERNAME)
     )
@@ -247,10 +252,10 @@ def main():
 
     # 4. Library page, rebuilt from the full manifest.
     library_page = render_library(manifest)
-    with open("library.html", "w", encoding="utf-8") as f:
+    with open("past-issues.html", "w", encoding="utf-8") as f:
         f.write(library_page)
 
-    print(f"Wrote index.html, issues/{date_iso}.html and library.html "
+    print(f"Wrote index.html, issues/{date_iso}.html and past-issues.html "
           f"({len(manifest)} issues total)")
 
 

@@ -3,7 +3,7 @@
 Fully automated pipeline: every day, a script researches the day's top
 stories with Claude, writes structured content, renders it into the
 Bothsiders template, and publishes it — no human step required. Every
-day's issue is kept forever and browsable from a Library page grouped by
+day's issue is kept forever and browsable from a Past Issues page grouped by
 month.
 
 ## How it works
@@ -17,8 +17,8 @@ month.
    - overwrites `index.html` with the same content (the homepage always
      shows the latest issue),
    - updates `manifest.json` (the running list of every issue published),
-   - rebuilds `library.html` from that manifest, grouped by month.
-3. **`templates/issue.html`** and **`templates/library.html`** are the only
+   - rebuilds `past-issues.html` from that manifest, grouped by month.
+3. **`templates/issue.html`** and **`templates/past-issues.html`** are the only
    places page structure lives; **`assets/style.css`** is the only place
    visual design lives. The generation scripts only ever fill in
    placeholders, so the site's look can't drift day to day.
@@ -33,7 +33,7 @@ month.
 
 ```
 index.html          → always the latest issue (the homepage)
-library.html         → every issue, grouped by month
+past-issues.html         → every issue, grouped by month
 issues/2026-09-25.html, issues/2026-09-26.html, ...  → permanent per-day archive
 manifest.json         → plain-text record of every published date
 assets/               → logo files + the one shared stylesheet
@@ -162,12 +162,12 @@ else here has been tested end to end.
 
 6. **Test it manually first**: Actions tab → "Generate daily Bothsiders
    issue" → "Run workflow" → watch it run once before trusting the cron
-   schedule. Open the resulting `index.html` and `library.html` and check
+   schedule. Open the resulting `index.html` and `past-issues.html` and check
    they look right before letting it run unattended.
 
 That's it — after this, the workflow fires daily on its own schedule
 (edit the cron line in `daily.yml` to change the time) and the live site
-updates itself every morning, with the Library filling in one date at a
+updates itself every morning, with Past Issues filling in one date at a
 time.
 
 ## Running it locally (to test or tweak before deploying)
@@ -177,13 +177,13 @@ pip install -r requirements.txt
 export ANTHROPIC_API_KEY=sk-ant-...
 export BUTTONDOWN_API_KEY=...
 python generate_content.py   # writes content.json
-python render.py             # writes index.html, issues/<date>.html, library.html
+python render.py             # writes index.html, issues/<date>.html, past-issues.html
 python send_email.py         # sends (or drafts, per the status you set) today's email
 open index.html              # preview in your browser
 ```
 
 Running `render.py` again with a new `content.json` (a new date) adds to
-the archive rather than replacing it — `manifest.json` and `library.html`
+the archive rather than replacing it — `manifest.json` and `past-issues.html`
 accumulate, they never get overwritten.
 
 ## Tuning it

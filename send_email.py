@@ -132,7 +132,7 @@ def coverage_html(stories: list) -> str:
 def build_email_html(content: dict) -> str:
     date_iso = datetime.strptime(content["date"], "%B %d, %Y").strftime("%Y-%m-%d")
     issue_url = f"{SITE_BASE_URL}/issues/{date_iso}.html"
-    library_url = f"{SITE_BASE_URL}/library.html"
+    library_url = f"{SITE_BASE_URL}/past-issues.html"
     logo_url = f"{SITE_BASE_URL}/assets/logo-full.png"
     mark_url = f"{SITE_BASE_URL}/assets/logo-mark.png"
 
@@ -143,20 +143,20 @@ def build_email_html(content: dict) -> str:
     return f"""
 <div style="max-width:600px;margin:0 auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
 
-  <div style="text-align:center;padding:8px 0 4px;">
-    <img src="{logo_url}" width="220" alt="Bothsiders" style="display:block;margin:0 auto;max-width:220px;height:auto;border:0;">
+  <div style="text-align:center;padding:20px 0 10px;">
+    <img src="{logo_url}" width="300" alt="Bothsiders" style="display:block;margin:0 auto;width:300px;max-width:80%;height:auto;border:0;">
   </div>
-  <div style="background:#F7F7F8;border:1px solid #E7E7EA;border-radius:14px;padding:16px 10px;margin:16px 0 18px;">
+  <div style="background:#F7F7F8;border:1px solid #E7E7EA;border-radius:14px;padding:28px 14px;margin:26px 0 30px;">
     <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0"><tr>
-      <td width="33%" valign="top" style="padding:0 6px;text-align:center;">
-        <div style="border-top:3px solid #E4241A;padding-top:8px;font-size:11px;font-weight:800;letter-spacing:0.09em;color:#E4241A;">EXPLORE</div>
-        <div style="font-size:12.5px;line-height:1.45;color:#63666E;padding-top:6px;">Both sides of today&rsquo;s top stories, plus the plain, simple facts.</div>
-      </td><td width="33%" valign="top" style="padding:0 6px;text-align:center;">
-        <div style="border-top:3px solid #3F7A4C;padding-top:8px;font-size:11px;font-weight:800;letter-spacing:0.09em;color:#3F7A4C;">COMPARE</div>
-        <div style="font-size:12.5px;line-height:1.45;color:#63666E;padding-top:6px;">No spin. No lecture. Sourced.</div>
-      </td><td width="33%" valign="top" style="padding:0 6px;text-align:center;">
-        <div style="border-top:3px solid #0A84C7;padding-top:8px;font-size:11px;font-weight:800;letter-spacing:0.09em;color:#0A84C7;">YOU DECIDE</div>
-        <div style="font-size:12.5px;line-height:1.45;color:#63666E;padding-top:6px;">How do you see it?</div>
+      <td width="33%" valign="top" style="padding:0 12px;text-align:center;">
+        <div style="border-top:4px solid #E4241A;padding-top:12px;font-size:12px;font-weight:800;letter-spacing:0.1em;color:#E4241A;">EXPLORE</div>
+        <div style="font-size:13.5px;line-height:1.55;color:#63666E;padding-top:9px;">Both sides of today&rsquo;s top stories, plus the plain, simple facts.</div>
+      </td><td width="33%" valign="top" style="padding:0 12px;text-align:center;">
+        <div style="border-top:4px solid #3F7A4C;padding-top:12px;font-size:12px;font-weight:800;letter-spacing:0.1em;color:#3F7A4C;">COMPARE</div>
+        <div style="font-size:13.5px;line-height:1.55;color:#63666E;padding-top:9px;">No spin. No lecture. Sourced.</div>
+      </td><td width="33%" valign="top" style="padding:0 12px;text-align:center;">
+        <div style="border-top:4px solid #0A84C7;padding-top:12px;font-size:12px;font-weight:800;letter-spacing:0.1em;color:#0A84C7;">DECIDE</div>
+        <div style="font-size:13.5px;line-height:1.55;color:#63666E;padding-top:9px;">How do <strong style="color:#16181D;">YOU</strong> see it?</div>
       </td>
     </tr></table>
   </div>
@@ -167,7 +167,7 @@ def build_email_html(content: dict) -> str:
 
   {coverage_html(content['stories'])}
 
-  <div style="border-top:3px solid {BRAND_NAVY};margin-bottom:32px;"></div>
+  <div style="border-top:4px solid {BRAND_NAVY};margin-bottom:32px;"></div>
 
   {stories_html}
 
@@ -175,7 +175,7 @@ def build_email_html(content: dict) -> str:
     <img src="{mark_url}" width="30" alt="" style="display:block;margin:0 auto 12px;border:0;">
     <p style="font-size:12px;color:#999999;margin:0 0 6px;">Bothsiders &mdash; Explore. Compare. Decide.</p>
     <p style="font-size:12px;margin:0;">
-      <a href="{library_url}" style="color:#0A84C7;text-decoration:none;">Browse every past issue</a>
+      <a href="{library_url}" style="color:#0A84C7;text-decoration:none;">Browse past issues</a>
     </p>
   </div>
 
