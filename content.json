@@ -4,212 +4,212 @@
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "MIDTERM FALLOUT",
-      "headline": "Democrats Sweep Congress as Speaker Johnson Steps Aside",
-      "dek": "Trump concedes the Iran war hurt Republicans but says he would do it again, while Democrats promise oversight, an end to the war and lower costs.",
+      "kicker": "MIDTERM AFTERMATH",
+      "headline": "Democrats Sweep Congress as GOP Blames the Iran War",
+      "dek": "Democrats flipped the House and Senate, and Republicans are arguing over whether the war, Trump or the economy sank them.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Midterms are routinely hard on a sitting president's party, and this result fits the pattern of Obama in 2010. It does not show that voters rejected limited-government or pro-security ideas. Trump was not on the ballot, and his personal popularity did not carry over to other candidates.",
-        "Preventing a nuclear-armed Iran is a long-term security need that justifies short-term political pain. The gas-price spike that hurt Republicans is a temporary cost of a decision that will matter for decades.",
-        "Divided government still leaves the president a veto and executive authority over tariffs, foreign policy and enforcement. Trump argues Democrats will eventually have to negotiate if they want legislation to become law.",
-        "Democratic control raises a real risk of partisan subpoenas, attempts to reverse Medicaid and tax reforms, and a binding war-powers resolution. Many conservatives say that would tie the commander in chief's hands and signal weakness to Tehran in the middle of a conflict."
+        "The losses trace to war-driven gas prices, a specific and fixable cost, not a rejection of conservative policy.",
+        "Midterms punish the president's party, and Trump wasn't on the ballot. His handpicked candidates carried that burden.",
+        "Divided government limits new spending and taxes. Markets liked the gridlock, with the Dow up about 1,500 points Wednesday.",
+        "The president still commands the military. Democratic probes risk turning national security into partisan theater."
       ],
       "pole_b_bullets": [
-        "Voters gave a broad, unmistakable mandate. Democrats flipped seats in Texas, Kansas and South Carolina, plus a long list of House districts Trump had carried. Cost of living was the dominant concern, and the president's approval was historically low for a midterm.",
-        "The Iran war, launched without a formal congressional authorization, drove up gas prices and is unpopular. Congress has a constitutional duty either to authorize it or to end it, and Democrats say they will force that vote.",
-        "Oversight was missing for two years. Democrats argue subpoena power is needed to examine alleged corruption and abuse of power, and that the House should stop acting as an arm of the White House.",
-        "The first priorities are affordability measures. These include restoring the expired enhanced health-insurance subsidies, reversing the Medicaid cuts and reasserting Congress's role over tariffs. Democrats say these answer what voters actually asked for."
+        "Voters rejected a costly war, corruption and high prices, and Democrats won even in deep-red Texas, Kansas and South Carolina.",
+        "Congress controls the purse. Schumer says the war must end, and Jeffries wants Trump to stop before January.",
+        "Oversight is overdue. Senate Democrats have already sent document-preservation letters ahead of investigations.",
+        "The mandate is affordability. Tariffs and war-driven oil prices raised costs, and Jeffries says easing them comes first."
       ],
-      "pole_a_who": "Positions commonly voiced by President Trump, Vice President Vance, House GOP leaders and conservative commentators.",
-      "pole_b_who": "Positions commonly voiced by Democratic leaders such as Hakeem Jeffries and Chuck Schumer, newly elected Democratic members and liberal commentators.",
+      "pole_a_who": "Positions commonly voiced by Republican strategists, GOP leaders and conservative commentators.",
+      "pole_b_who": "Positions commonly voiced by Democratic leaders, progressive lawmakers and liberal commentators.",
       "evidence_left": [
-        "<cite index=\"14-5\">CNN projects Democrats will win more than 250 House seats, their largest majority in nearly two decades.</cite>",
-        "<cite index=\"16-4,16-6\">CBS News reports Democrats have secured at least 54 Senate seats, with Mississippi and Alaska still toss-ups.</cite>"
+        "Democrats hold 54 Senate seats to the GOP's 44, with Alaska and Mississippi still unresolved, per CBS and Yahoo News.",
+        "CBS projects House Democrats will hold 251 to 268 seats."
       ],
       "evidence_right": [
-        "<cite index=\"87-4\">Speaker Mike Johnson told staff Wednesday he will step down as Republican leader, a day after Democrats took both chambers.</cite>",
-        "<cite index=\"86-3,86-4\">Trump acknowledged the Iran war affected the midterms, citing surging gas prices, and said it had to be done and would continue.</cite>"
+        "Vance said the war was why Republicans lost. Trump also called it part of the reason but defended launching it.",
+        "Speaker Mike Johnson won't seek re-election as House GOP leader, TIME reported."
       ],
-      "sources_line": "Sourced from CNN, CBS News, NBC News, CNBC, AFP and the Associated Press, November 5, 2026."
-    },
-    {
-      "category": "economy",
-      "category_label": "ECONOMY",
-      "kicker": "MARKETS",
-      "headline": "Post-Midterm Rally Lasts One Day as AI Selloff Pushes Nasdaq Into Correction",
-      "dek": "The Dow gained 1,500 points on Wednesday and lost 1,833 on Thursday as chip stocks sank, leaving investors to argue over whether this is a reset or a turn.",
-      "pole_a_tag": "BULL",
-      "pole_b_tag": "BEAR",
-      "center_label": "BULL vs BEAR",
-      "pole_a_label": "Bull case",
-      "pole_b_label": "Bear case",
-      "pole_a_bullets": [
-        "Underlying AI demand is intact. AMD's data-center revenue nearly doubled and its CEO expects growth to accelerate. A selloff triggered by mixed results from two chipmakers, Qualcomm and Arm, is a reaction to company-specific news, not a verdict on the whole buildout.",
-        "Selloffs like this reset stretched valuations in crowded trades. A Nasdaq correction after a record high last month is a normal part of a bull market, and analysts are already raising price targets on the dips.",
-        "Breadth is healthier than the headlines suggest. On Wednesday, economically sensitive stocks rallied and Apple and Microsoft hit records. Money rotating out of AI names into the rest of the market is not a flight from equities.",
-        "Divided government usually means fewer sweeping policy shocks. The market's relief at the end of election uncertainty was a rational response, and the AI-regulation worry may prove far smaller than feared given the White House's executive powers."
-      ],
-      "pole_b_bullets": [
-        "About $2 trillion of market value disappeared in a day, and the VIX jumped to its highest level since March. When a handful of AI stocks carry the index, a 12% drop in semiconductors can become a market-wide problem.",
-        "The AI boom drives much of U.S. economic growth, and investors are asking about returns. Nvidia was already down about 15% over three months, and few companies outside tech have shown that AI is improving their business.",
-        "The macro backdrop is unforgiving. Inflation was 3.7% in September, oil is in the mid-$90s, and the 10-year Treasury yield is near 4.9%. There is little room for error if the AI capital-spending cycle slows.",
-        "Washington is now a risk instead of a tailwind. Democratic committee control raises the odds of data-center scrutiny, trimmed tax incentives and new safety rules for the sector holding up the market."
-      ],
-      "pole_a_who": "Positions commonly voiced by sell-side analysts, dip-buying strategists and growth-oriented fund managers.",
-      "pole_b_who": "Positions commonly voiced by volatility-focused strategists, valuation skeptics and macro economists wary of inflation and AI concentration.",
-      "evidence_left": [
-        "<cite index=\"24-4,24-6,24-7\">On Thursday the Nasdaq fell 5.52% to 24,315.00, the S&P 500 fell 4.36% to 7,353.73, and the Dow lost 1,833.06 points to 51,523.06.</cite>",
-        "<cite index=\"24-5,24-8\">The Nasdaq closed more than 10% below its record from last month, a day after the Dow jumped more than 1,500 points for its best day since April 2025.</cite>"
-      ],
-      "evidence_right": [
-        "<cite index=\"59-8,59-9\">NBC News reported the selloff was triggered by earnings from Qualcomm and Arm Holdings, which investors generally viewed as mixed.</cite>",
-        "<cite index=\"148-8\">CNBC reported that September consumer price inflation was 3.7%, up from 2.3% in April 2025.</cite>"
-      ],
-      "sources_line": "Sourced from CNBC, NBC News, Yahoo Finance, Benzinga, Schwab and the Irish Times, November 5, 2026."
-    },
-    {
-      "category": "business",
-      "category_label": "BUSINESS",
-      "kicker": "HEALTHCARE",
-      "headline": "CVS to Spin Off Its Drugstores in One of Healthcare's Biggest Breakups",
-      "dek": "The retail pharmacy chain will separate from Aetna and Caremark by 2028, and the stock fell about 10% on the news.",
-      "pole_a_tag": "GROWTH-FOCUSED",
-      "pole_b_tag": "RISK-FOCUSED",
-      "center_label": "GROWTH vs RISK",
-      "pole_a_label": "Growth-focused view",
-      "pole_b_label": "Risk-focused view",
-      "pole_a_bullets": [
-        "The split separates a slower-growing, lower-margin drugstore business from faster-growing, higher-margin insurance and health services. Each can set its own capital priorities and be valued on its own merits.",
-        "Management says it wants more agility and room to grow the drugstore business. Standalone leadership under Prem Shah can invest in stores, pharmacy services and clinics without competing with the insurer for capital.",
-        "The move gets ahead of regulation. A bipartisan Warren-Hawley bill would bar pharmacy benefit managers from owning pharmacies, and two states have passed laws on the issue. Splitting voluntarily avoids a forced and possibly messier breakup later.",
-        "Shareholders get stakes in both companies in a transaction intended to be tax-free, and long-run value creation matters more than one day's share drop. The pharmacy unit's recent pricing reform makes it easier to run at arm's length."
-      ],
-      "pole_b_bullets": [
-        "The market's reaction was blunt, with shares down roughly 10-12% on a day CVS beat earnings and raised guidance. One analyst called the split 'a complete shock' because the drugstore unit had been performing.",
-        "CVS spent years arguing that integration lowers costs, and it fought state laws by warning that a split would force store closures and raise consumer costs. Now it is doing the thing it warned about, and critics fear closures of underperforming locations.",
-        "Execution risk is large. Untangling contracts, systems and a roughly 9,000-store footprint is complex, and a standalone retailer will be more exposed to thin margins and competition from mail-order and big-box rivals.",
-        "The structure may not settle the policy fight. The pharmacy benefit manager, the most criticized piece, stays with the insurer, so lawmakers could keep pressing on PBM practices even after the breakup."
-      ],
-      "pole_a_who": "Positions commonly voiced by CVS management, activist-minded investors and analysts who favor focused business models.",
-      "pole_b_who": "Positions commonly voiced by skeptical sell-side analysts, pharmacy-industry observers and some patient and independent-pharmacy advocates.",
-      "evidence_left": [
-        "<cite index=\"75-2,75-3\">CVS plans to spin off its retail pharmacy business as CVS Pharmacy in the first half of 2028, separating it from Aetna and Caremark.</cite>",
-        "<cite index=\"76-5\">Shareholders will own shares in both companies, and the transaction is intended to be tax-free for federal income tax purposes.</cite>"
-      ],
-      "evidence_right": [
-        "<cite index=\"79-5,79-6\">In May, Sens. Elizabeth Warren and Josh Hawley reintroduced legislation to bar PBMs from owning pharmacies, and two states have passed laws against co-ownership, which CVS has sued to block.</cite>",
-        "<cite index=\"80-4\">CEO David Joyner said on CNBC that political and regulatory pressure was one of the external factors weighed in the decision.</cite>"
-      ],
-      "sources_line": "Sourced from Bloomberg, CNBC, the New York Times (via DNYUZ), Morning Brew, AJMC and Fox Business, November 5, 2026."
+      "sources_line": "Sourced from CBS News, CNN, TIME, MS NOW, Yahoo News and CNBC, November 5, 2026."
     },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "AI POLICY",
-      "headline": "Democratic Congress Raises Odds of Tougher AI and Data-Center Rules",
-      "dek": "Investors are pricing in tighter oversight of AI after the midterms, reigniting the debate over how to balance speed, safety and cost.",
+      "kicker": "AI & DATA CENTERS",
+      "headline": "AI Chip Stocks Crater on Fears of Data-Center Curbs",
+      "dek": "The Nasdaq-100 fell 6.4% as investors bet Democratic officials will slow the AI buildout.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "The U.S. is in a race with China, and a hostile regulatory climate could hand the lead to Beijing. Growth in AI and data centers needs permits, power and capital, and stacking new rules on top slows all three.",
-        "Rolling back tax incentives and shifting grid costs onto developers would raise the cost of building the infrastructure that powers AI. That could slow investment and push projects to friendlier jurisdictions.",
-        "Rulemaking by Congress risks locking in rules before anyone understands the technology. Even the FTC chair has said he is 'suspicious' of AI companies that seek regulation and antitrust exemptions, a warning that rules can end up protecting incumbents.",
-        "Voluntary standards, existing consumer-protection and antitrust law, and targeted fixes for specific harms can address real risks without a broad new regime. Committee gavels do not change the law, and the executive branch still sets much of AI policy."
+        "Demand hasn't gone away. AMD's Lisa Su says demand outstrips supply and expects revenue growth above 80% in 2027.",
+        "Blanket moratoria would hit hardest in Texas, which holds a large share of planned US data-center capacity.",
+        "A patchwork of state rules and pauses slows the US in its race with China. Federal policy has aimed at a single standard.",
+        "The selloff looks overdone. Nvidia's forward P/E is at a five-year low while analysts see its earnings more than doubling."
       ],
       "pole_b_bullets": [
-        "Self-regulation has not worked. Bill Gates has said that no one thinks self-regulation is enough, and leaders such as Microsoft's Brad Smith have called for global rules, saying AI faces fewer safety rules than milk.",
-        "Data centers impose real costs on the public, including electricity demand, grid upgrades and local tax breaks. Oversight advocates say those costs should be paid by the developers who profit from them rather than by ratepayers.",
-        "Democrats will chair the congressional committees covering technology, cybersecurity and commerce, and will have more power to question nominees. That gives Congress a way to demand safety testing and transparency before problems become crises.",
-        "States such as Maryland and New York are already moving on AI governance. Federal standards would give businesses one rulebook instead of a growing patchwork and would give the public a baseline of protection."
+        "Voters asked for limits. Most of the 41 ballot measures on slowing data centers passed.",
+        "Power-hungry data centers raise electricity bills. Developers should pay their own grid costs.",
+        "Ohio's Gov.-elect Acton backs a conditional pause unless builders cover 100% of utility costs, a middle path rather than a ban.",
+        "Early safety rules and scaled-back tax breaks are overdue. Some analysts say pushback could deflate a bubble without popping it."
       ],
-      "pole_a_who": "Positions commonly voiced by AI and chip executives, venture investors, White House technology advisers and pro-growth policy analysts.",
-      "pole_b_who": "Positions commonly voiced by Democratic lawmakers and governors, AI-safety researchers, consumer advocates and some tech leaders who support regulation.",
+      "pole_a_who": "Positions commonly voiced by chipmakers, AI-industry executives and pro-buildout analysts.",
+      "pole_b_who": "Positions commonly voiced by Democratic governors-elect, consumer advocates and AI-safety and utility-cost critics.",
       "evidence_left": [
-        "<cite index=\"42-5\">Democrats will take control of key congressional committees overseeing technology, cybersecurity and commerce in January.</cite>",
-        "<cite index=\"42-7\">Lombard Odier's Michael Strobaek said in a note that Democrats may scale back tax incentives, shift more grid costs onto developers and introduce early safety rules.</cite>"
+        "The Nasdaq-100 fell 6.4%, wiping out $2.3 trillion in its worst session since March 2020, per Bloomberg.",
+        "The Philadelphia Semiconductor Index fell more than 12%, and Nvidia fell about 9%, per Fox Business."
       ],
       "evidence_right": [
-        "<cite index=\"40-5\">The Irish Times reported that Qualcomm's poor results and fears a Democratic Congress could tighten AI regulation sparked a fresh tech selloff on Thursday.</cite>",
-        "<cite index=\"39-8,39-9\">Maryland Gov. Wes Moore and New York Gov. Kathy Hochul each released AI-regulation plans in recent weeks, according to NBC News.</cite>"
+        "Texas Gov.-elect Gina Hinojosa pledged an immediate data-center moratorium. Ohio's Amy Acton backs a conditional one.",
+        "UBS estimates roughly 30% of expected 2028 US data-center capacity additions could face construction pauses."
       ],
-      "sources_line": "Sourced from The National, the Irish Times, NBC News, MLex and SBS News, November 5, 2026."
+      "sources_line": "Sourced from Bloomberg, Fortune, Forbes, Fox Business, Yahoo Finance and The National, November 5, 2026."
+    },
+    {
+      "category": "economy",
+      "category_label": "ECONOMY",
+      "kicker": "MARKETS",
+      "headline": "Wall Street's Post-Election Rally Reverses in an AI Rout",
+      "dek": "The S&P 500 fell 4.4% and the Nasdaq entered a correction, a day after the Dow's best session since April 2025.",
+      "pole_a_tag": "BULL",
+      "pole_b_tag": "BEAR",
+      "center_label": "BULL vs BEAR",
+      "pole_a_label": "Bull view",
+      "pole_b_label": "Bear view",
+      "pole_a_bullets": [
+        "The Wednesday rally showed investors welcome divided government, and the Dow gained about 3%.",
+        "This looks like a sector reset tied to data-center politics, not a broken economy. Earnings from AMD and others remain strong.",
+        "Oil fell after the midterms on hopes of a deal to end the Iran war, which would ease inflation pressure.",
+        "The S&P 500 is still up for 2026, and fear-driven selloffs like this often create buying opportunities."
+      ],
+      "pole_b_bullets": [
+        "The selloff was broad. All 11 S&P 500 sectors fell, and the VIX hit its highest level since March.",
+        "Inflation is reaccelerating. Cleveland Fed nowcasts point to PCE near 3.8% in October, keeping a December hike in play.",
+        "The Fed held at 3.75%-4.00% with two dissents for a hike, so relief from rates is not coming soon.",
+        "AI spending drove market gains. If data-center growth slows, a heavy part of the market loses its engine."
+      ],
+      "pole_a_who": "Positions commonly voiced by equity strategists and dip-buying market commentators.",
+      "pole_b_who": "Positions commonly voiced by inflation-focused economists and valuation skeptics.",
+      "evidence_left": [
+        "The Dow fell 1,833 points, or 3.44%, to 51,523. The S&P 500 fell 4.36% to 7,353.73, and the Nasdaq Composite fell 5.52% to 24,315, per CNBC.",
+        "On Wednesday the Dow jumped more than 1,500 points, its best day since April 2025."
+      ],
+      "evidence_right": [
+        "The Fed held rates at 3.75%-4.00% on Oct. 28, with Lisa Cook and Beth Hammack dissenting in favor of a hike.",
+        "The economy added just 29,000 jobs in September, and the October jobs report is due Friday, per Schwab."
+      ],
+      "sources_line": "Sourced from CNBC, Yahoo Finance, Bloomberg, Schwab and The Motley Fool, November 5, 2026."
+    },
+    {
+      "category": "business",
+      "category_label": "BUSINESS",
+      "kicker": "EARNINGS",
+      "headline": "Novo Raises Outlook Again as Wegovy Pill Beats Forecasts",
+      "dek": "The obesity drugmaker lifted 2026 guidance for the third time even as US injectable sales slid.",
+      "pole_a_tag": "GROWTH-FOCUSED",
+      "pole_b_tag": "RISK-FOCUSED",
+      "center_label": "GROWTH vs RISK",
+      "pole_a_label": "Growth-focused view",
+      "pole_b_label": "Risk-focused view",
+      "pole_a_bullets": [
+        "Pill sales of DKK 5.39 billion beat forecasts and grew 53% from the prior quarter.",
+        "Novo estimates it holds about 80% of new US pill prescriptions, so it is winning the funnel for future refills.",
+        "Rollout to more than 20 markets next year widens the addressable base.",
+        "Adjusted operating profit rose 27%, which shows the turnaround is reaching profits."
+      ],
+      "pole_b_bullets": [
+        "Management still expects US sales to fall in 2026, so this is a smaller decline, not growth.",
+        "US injectable Wegovy fell 13%, and the pill is still a small share of expected Wegovy sales.",
+        "Eli Lilly remains a strong competitor, and patent expiries loom.",
+        "The stock has lost about two-thirds of its value since June 2024, and one good quarter doesn't rebuild that."
+      ],
+      "pole_a_who": "Positions commonly voiced by pharma bulls and growth investors.",
+      "pole_b_who": "Positions commonly voiced by cautious analysts and risk-focused investors.",
+      "evidence_left": [
+        "Wegovy pill sales were DKK 5.39 billion (about $810 million) against about DKK 4.62 billion expected.",
+        "Guidance is now -2% to +2% at constant exchange rates, raised from an earlier range allowing declines of up to 6%."
+      ],
+      "evidence_right": [
+        "US injectable Wegovy sales fell 13%, though combined US Wegovy sales rose 21%.",
+        "Novo still expects US sales to decline in 2026 and lists slowing pill prescriptions and Lilly competition as risks."
+      ],
+      "sources_line": "Sourced from Reuters (via Euronext), BioPharma Dive, Finimize and Value the Markets, November 4-5, 2026."
     },
     {
       "category": "sports",
       "category_label": "SPORTS",
       "kicker": "MLB LABOR",
-      "headline": "MLB Moves Salary Cap to 2028, Players Still Say No as Lockout Looms",
-      "dek": "With the labor deal expiring Dec. 1, owners raised their proposed cap to $258.2 million and delayed it a year, and the union rejected it.",
+      "headline": "MLB Pitches Delayed Salary Cap; Players Say No",
+      "dek": "Owners moved the cap to 2028 and raised its figure, but the union rejected it with a Dec. 1 lockout looming.",
       "pole_a_tag": "TAKE",
       "pole_b_tag": "COUNTER-TAKE",
       "center_label": "TAKE vs COUNTER-TAKE",
       "pole_a_label": "Take",
       "pole_b_label": "Counter-take",
       "pole_a_bullets": [
-        "Baseball is the only major U.S. league with no cap, and the gap between its richest and poorest clubs is the core competitive-balance problem. A cap and a floor would force big spenders down and small-market teams up.",
-        "The floor matters as much as the cap. The league's own numbers show 12 clubs would have to raise payroll by $636 million to reach the floor, money that would flow to players.",
-        "The offer is a real concession. It raised the cap from $245.3 million, delayed it to 2028 so free agency can proceed this winter, and included a $1 million minimum salary and earlier free agency for players 30 and older.",
-        "The league says the structure would benefit the majority of players who earn close to the minimum. Owners say they are united, and a clearer system could grow the sport's revenue."
+        "Revenue gaps between clubs are huge, and a cap and floor is the clearest fix for competitive balance.",
+        "The NBA, NFL and NHL all run on caps, and their players still thrive.",
+        "The floor would force 12 clubs to add about $636 million in payroll, money that would reach players.",
+        "Delaying the cap to 2028 and raising it to $258.2 million shows real flexibility."
       ],
       "pole_b_bullets": [
-        "A cap is a limit on what players can earn, however it is presented, and the union has opposed one for its entire history. Players say that giving up a free-market system for owner-set limits is a non-starter.",
-        "The cap figure includes benefits, and teams would not have to reach the floor every season. Critics say the floor is soft while the ceiling is hard.",
-        "The incentives are conditional. Earlier free agency is offered only if the union accepts a cap, which looks to players like paying for their own rights with their own pay.",
-        "The union wants expanded free agency and arbitration, a much higher minimum, more revenue sharing and a tax on teams that gut payrolls. It argues that small-market owners can fix competitive balance by spending, and that the last cap attempt in 1994 ended with a canceled World Series."
+        "A cap that caps player pay is a non-starter. The union has opposed one for decades.",
+        "Owners last proposed a cap in 1994, and that fight ended in a strike that cancelled the World Series.",
+        "The cap includes benefits, and teams wouldn't have to hit the floor every season, so the floor is weaker than advertised.",
+        "Players want expanded free agency, a nearly doubled minimum and more revenue sharing. Offering earlier free agency only if they take a cap is a bargaining chip."
       ],
-      "pole_a_who": "Positions commonly voiced by MLB owners, commissioner Rob Manfred's office and fans who favor competitive-balance reform.",
-      "pole_b_who": "Positions commonly voiced by the MLB Players Association, player agents and fans and commentators who see the cap as a pay cut.",
+      "pole_a_who": "Positions commonly voiced by owners, Commissioner Manfred and cap-friendly analysts.",
+      "pole_b_who": "Positions commonly voiced by the MLBPA, players and labor-side commentators.",
       "evidence_left": [
-        "<cite index=\"94-9,94-10,94-11\">MLB proposed delaying the cap to 2028, with a $258.2 million cap and $180.2 million floor, up from $245.3 million and $171.2 million.</cite>",
-        "<cite index=\"94-6\">The current collective bargaining agreement expires Dec. 1, and ESPN reported a lockout appears imminent.</cite>"
+        "MLB's new cap is $258.2 million and its floor $180.2 million, up from $245.3 million and $171.2 million.",
+        "The league would grant free agency at five service years, down from six, for players 30 and older, but only if the union accepts the cap."
       ],
       "evidence_right": [
-        "<cite index=\"93-10\">The players' union, which has consistently opposed a salary cap, was unmoved by the latest proposal.</cite>",
-        "<cite index=\"97-3,97-7\">Owners have proposed a cap for the first time since their 1994 plan led to a strike that canceled the World Series. The NBA has had a cap since 1984-85, the NFL since 1994 and the NHL since 2005-06.</cite>"
+        "The labor deal expires Dec. 1, and a lockout appears imminent, per ESPN.",
+        "The union quickly rejected the proposal, and baseball players have said they will never agree to a cap."
       ],
-      "sources_line": "Sourced from Sports Illustrated, ESPN, Yahoo Sports, NBC Sports and Forbes, November 5, 2026."
+      "sources_line": "Sourced from ESPN, Sports Illustrated, NBC Sports, Yahoo Sports and Forbes, November 3-5, 2026."
     },
     {
-      "category": "general",
-      "category_label": "GENERAL",
-      "kicker": "UKRAINE",
-      "headline": "Russian and Ukrainian Envoys Appear Together at White House After Local Ceasefire",
-      "dek": "Melania Trump hosted officials from both countries to mark a six-day truce around Oleshky, and Russia has rejected a wider ceasefire.",
-      "pole_a_tag": "OPTIMIST",
-      "pole_b_tag": "SKEPTIC",
-      "center_label": "OPTIMIST vs SKEPTIC",
-      "pole_a_label": "Optimist view",
-      "pole_b_label": "Skeptic view",
+      "category": "sports",
+      "category_label": "SPORTS",
+      "kicker": "NBA",
+      "headline": "Wembanyama Drops 52 as Spurs Edge Mavericks, 112-111",
+      "dek": "His career night sparked MVP chants, but betting markets still have Luka Doncic as the favorite.",
+      "pole_a_tag": "TAKE",
+      "pole_b_tag": "COUNTER-TAKE",
+      "center_label": "TAKE vs COUNTER-TAKE",
+      "pole_a_label": "Take",
+      "pole_b_label": "Counter-take",
       "pole_a_bullets": [
-        "Small steps are how big ones start. Hostile delegations had never met face to face at the White House, and the Oleshky truce shows both governments will agree to specific, verifiable terms when the humanitarian case is clear.",
-        "The Oleshky deal built on a channel that already existed from earlier family-reunification work involving 34 children. Quiet, low-profile diplomacy can open doors that formal summits cannot.",
-        "Residents were able to choose whether to evacuate to Ukrainian-held or Russian-held territory or stay with restocked food and medical supplies. That is a concrete benefit and a template that could be repeated in other besieged towns.",
-        "Momentum is building, with U.S.-led trilateral talks in the UAE set for next week. Both sides have now publicly praised the arrangement, which makes it harder to walk back."
+        "Wemby is the MVP. No one else scores 52 and grabs 24 rebounds with eight blocks in one game.",
+        "He is the first player in 30 seasons with 25 points, 10 rebounds and five blocks in a half.",
+        "He scored 10 of the Spurs' last 12 points and hit the winning free throw. Stars are supposed to close like that.",
+        "San Antonio has won six straight with him as the center of everything."
       ],
       "pole_b_bullets": [
-        "The truce covered one city and ended after six days, while strikes and drone attacks continued elsewhere. Humanitarian pauses are not peace, and the war is approaching its fifth year.",
-        "Ukraine accused Russia of using the pause to reinforce its military positions in Oleshky. If the ceasefire helped one side's military position, it may make a broader deal harder.",
-        "Russia has repeatedly rejected calls for a wider ceasefire. A photo opportunity with a Putin envoy gives Moscow legitimacy without any change in its battlefield demands.",
-        "Peace has eluded the Trump administration for nearly two years. Skeptics say the real test is whether Moscow accepts a monitored, wider ceasefire at the UAE talks, not whether it will sign one local arrangement."
+        "One game is not a season. Kalshi still lists Luka Doncic as MVP frontrunner after a hot start.",
+        "The Spurs blew a 19-point lead and won by one. A missed Kyrie Irving shot saved them.",
+        "Wemby shot 1 of 8 from three. Efficiency and durability decide MVP races.",
+        "It's early November. MVP voters reward team records over an 82-game season, not a single box score."
       ],
-      "pole_a_who": "Positions commonly voiced by White House officials, supporters of the administration's diplomacy and advocates of humanitarian ceasefires.",
-      "pole_b_who": "Positions commonly voiced by Ukraine-aligned analysts, Russia hawks and critics of the administration's Ukraine diplomacy.",
+      "pole_a_who": "Positions commonly voiced by Spurs fans and Wembanyama-MVP advocates.",
+      "pole_b_who": "Positions commonly voiced by Doncic backers and skeptics of early-season MVP talk.",
       "evidence_left": [
-        "<cite index=\"133-3\">Russian and Ukrainian officials appeared side by side at the White House as Melania Trump brought representatives together after the temporary ceasefire she helped broker.</cite>",
-        "<cite index=\"137-3\">The U.S. is set to lead renewed trilateral talks with Russia and Ukraine in the United Arab Emirates next week.</cite>"
+        "Wembanyama had 52 points, 24 rebounds and eight blocks in the 112-111 win, per Al Jazeera and SI.",
+        "His winning free throw came with 24.2 seconds left, and it was the Spurs' sixth straight win."
       ],
       "evidence_right": [
-        "<cite index=\"132-5,132-6\">The six-day Oleshky ceasefire ended Monday, and Ukraine accused Russia of using it to reinforce its military positions in the city.</cite>",
-        "<cite index=\"137-5\">NBC News reports Russia has repeatedly rejected calls for a wider ceasefire since launching its full-scale invasion nearly five years ago.</cite>"
+        "Kalshi lists Luka Doncic as the NBA MVP frontrunner after a hot start, per Sports Illustrated.",
+        "San Antonio had to rally after giving up a 19-point lead, and Wembanyama made one of eight three-pointers."
       ],
-      "sources_line": "Sourced from the Associated Press, NBC News, CNBC, Newsweek and the White House, November 5, 2026."
+      "sources_line": "Sourced from Al Jazeera, Sports Illustrated, Yahoo Sports/ClutchPoints and ESPN, November 5, 2026."
     }
   ]
 }
