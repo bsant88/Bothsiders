@@ -13,11 +13,11 @@ SITE_BASE_URL = "https://bsant88.github.io/bothsiders"
 
 # Your Buttondown username (the part after buttondown.email/ in your
 # newsletter's URL). Used for the signup form embedded on every page.
-BUTTONDOWN_USERNAME = "yourusername"
+BUTTONDOWN_USERNAME = "Bothsiders"
 
 # The email address shown on the Privacy Policy and Terms & Conditions
 # pages for legal/privacy inquiries. Use a real inbox you check.
-CONTACT_EMAIL = "hello@yourdomain.com"
+CONTACT_EMAIL = "info@bothsiders.com"
 
 # The state whose law governs the Terms & Conditions. Plain text, used
 # as-is in the "Governing Law" section.
