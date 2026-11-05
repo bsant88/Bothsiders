@@ -126,22 +126,57 @@ def main():
         f"different topics/categories) before writing anything."
     )
 
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=8000,
-        system=SYSTEM_PROMPT,
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 20}],
-        messages=[{"role": "user", "content": user_prompt}],
-    )
+    tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 20}]
+    messages = [{"role": "user", "content": user_prompt}]
 
-    # Concatenate all text blocks in the final response (tool calls/results
-    # are handled server-side for web_search, so this is the model's
-    # finished answer after searching).
-    full_text = "".join(
-        block.text for block in response.content if block.type == "text"
-    )
+    def text_of(resp):
+        return "".join(b.text for b in resp.content if b.type == "text")
 
-    stories = extract_json_array(full_text)
+    # The web search tool can pause a long turn; keep going until it finishes.
+    response = None
+    for _ in range(6):
+        response = client.messages.create(
+            model=MODEL,
+            max_tokens=16000,
+            system=SYSTEM_PROMPT,
+            tools=tools,
+            messages=messages,
+        )
+        if response.stop_reason != "pause_turn":
+            break
+        messages.append({"role": "assistant", "content": response.content})
+
+    full_text = text_of(response)
+    print(f"stop_reason={response.stop_reason}, text length={len(full_text)}")
+
+    try:
+        stories = extract_json_array(full_text)
+    except (ValueError, json.JSONDecodeError):
+        # Ask once more, without tools, for just the JSON array.
+        print("First answer had no usable JSON. Asking for the JSON array only.")
+        print("Start of that answer:", full_text[:500])
+        messages.append({"role": "assistant", "content": response.content})
+        messages.append({
+            "role": "user",
+            "content": (
+                f"Output only the final JSON array of {NUM_STORIES} stories "
+                "from your research, exactly following the schema. No prose, "
+                "no markdown fences."
+            ),
+        })
+        retry = client.messages.create(
+            model=MODEL,
+            max_tokens=16000,
+            system=SYSTEM_PROMPT,
+            messages=messages,
+        )
+        retry_text = text_of(retry)
+        print(f"retry stop_reason={retry.stop_reason}, text length={len(retry_text)}")
+        try:
+            stories = extract_json_array(retry_text)
+        except (ValueError, json.JSONDecodeError):
+            print("Start of retry answer:", retry_text[:500])
+            sys.exit("Could not get a valid JSON story list from the model")
 
     if not isinstance(stories, list) or len(stories) == 0:
         sys.exit("Model did not return a valid story list")
