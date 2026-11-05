@@ -1,0 +1,28 @@
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="mast-logo" href="{{ASSET_PREFIX}}index.html" aria-label="Bothsiders home"><img src="{{ASSET_PREFIX}}assets/logo-full.png" alt="Bothsiders: Explore, Compare, Decide"></a>
+    <div class="mast-main">
+      <div class="pillars">
+        <div class="pillar" style="--pc:#E4241A"><span class="pillar-word">Explore</span><p>Both sides of today&rsquo;s top stories, plus the plain, simple facts.</p></div>
+        <div class="pillar" style="--pc:#3F7A4C"><span class="pillar-word">Compare</span><p>No spin. No lecture. Sourced.</p></div>
+        <div class="pillar" style="--pc:#0A84C7"><span class="pillar-word">Decide</span><p>How do <strong>YOU</strong> see it?</p></div>
+      </div>
+      <div class="mast-actions">
+        <div class="signup">
+          <p class="signup-label">Get tomorrow&rsquo;s issue in your inbox</p>
+          <form
+            action="https://buttondown.email/api/emails/embed-subscribe/{{BUTTONDOWN_USERNAME}}"
+            method="post"
+            target="popupwindow"
+            onsubmit="window.open('https://buttondown.email/{{BUTTONDOWN_USERNAME}}', 'popupwindow')"
+            class="signup-form"
+          >
+            <input type="email" name="email" placeholder="Your email address" aria-label="Email address" required>
+            <button type="submit">Subscribe</button>
+          </form>
+        </div>
+        <a class="past-link" href="{{ASSET_PREFIX}}past-issues.html">Past Issues &rarr;</a>
+      </div>
+    </div>
+  </div>
+</header>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bothsiders — Library</title>
+<link rel="icon" href="assets/logo-mark.png">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<nav class="topnav">
+  <a class="navmark" href="index.html">
+    <img class="mark" src="assets/logo-mark.png" alt="">
+    <img class="wordmark" src="assets/logo-wordmark.png" alt="Bothsiders">
+  </a>
+  <div class="navlinks">
+    <a href="index.html">Today</a>
+    <a href="library.html" class="active">Library</a>
+  </div>
+</nav>
+
+<div class="wrap">
+
+  <div class="hero">
+    <img src="assets/logo-full.png" alt="Bothsiders — Explore, Compare, Decide">
+  </div>
+
+  <div class="masthead-card">
+    <div class="pillars">
+      <div class="pillar" style="--pc:#E4241A"><span class="pillar-word">Explore</span><p>Both sides of today&rsquo;s top stories, plus the plain, simple facts.</p></div>
+      <div class="pillar" style="--pc:#3F7A4C"><span class="pillar-word">Compare</span><p>No spin. No lecture. Sourced.</p></div>
+      <div class="pillar" style="--pc:#0A84C7"><span class="pillar-word">You decide</span><p>How do you see it?</p></div>
+    </div>
+
+    <div class="masthead-divider"></div>
+
+    <div class="legend-compact">
+      <span class="chip" style="background:#E4241A">POLITICS</span>
+      <span class="chip" style="background:#9A6B00">ECONOMY</span>
+      <span class="chip" style="background:#3E4C82">BUSINESS</span>
+      <span class="chip" style="background:#6B4C8A">TECH</span>
+      <span class="chip" style="background:#1F7A73">SPORTS</span>
+      <span class="chip" style="background:#7A5C3E">GENERAL</span>
+    </div>
+
+    <div class="masthead-divider"></div>
+
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/{{BUTTONDOWN_USERNAME}}"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/{{BUTTONDOWN_USERNAME}}', 'popupwindow')"
+      class="signup-form"
+    >
+      <input type="email" name="email" placeholder="Get tomorrow's issue by email" required>
+      <button type="submit">Subscribe</button>
+    </form>
+  </div>
+
+  <p class="library-title">Library</p>
+  <p class="library-sub">Every issue, by date.</p>
+
+{{MONTH_GROUPS}}
+
+  <footer class="note">
+    <p class="footer-legal"><a href="index.html">Home</a> · <a href="privacy-policy.html">Privacy Policy</a> · <a href="terms.html">Terms &amp; Conditions</a></p>
+    Bothsiders — Explore. Compare. Decide.
+  </footer>
+
+</div>
+</body>
+</html>

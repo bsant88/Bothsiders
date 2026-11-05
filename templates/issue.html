@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bothsiders — {{DATELINE}}</title>
+<link rel="icon" href="{{ASSET_PREFIX}}assets/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ASSET_PREFIX}}assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="{{ASSET_PREFIX}}assets/icon-192.png">
+<link rel="apple-touch-icon" href="{{ASSET_PREFIX}}assets/apple-touch-icon.png">
+<link rel="stylesheet" href="{{ASSET_PREFIX}}assets/style.css">
+</head>
+<body>
+
+{{MASTHEAD}}
+
+<div class="wrap">
+
+  {{BACK_LINK}}
+  <div class="issue-top">
+    <h1 class="issue-dateline">{{DATELINE}}</h1>
+    <div class="issue-chips">
+      <span class="chip" style="background:#E4241A">POLITICS</span>
+      <span class="chip" style="background:#9A6B00">ECONOMY</span>
+      <span class="chip" style="background:#3E4C82">BUSINESS</span>
+      <span class="chip" style="background:#6B4C8A">TECH</span>
+      <span class="chip" style="background:#1F7A73">SPORTS</span>
+      <span class="chip" style="background:#7A5C3E">GENERAL</span>
+    </div>
+  </div>
+
+  <div class="issue-cols">
+{{COVERAGE}}
+
+    <div class="issue-stories">
+{{STORIES}}
+    </div>
+  </div>
+
+  <footer class="note">
+    <p class="footer-legal"><a href="{{ASSET_PREFIX}}index.html">Home</a> · <a href="{{ASSET_PREFIX}}privacy-policy.html">Privacy Policy</a> · <a href="{{ASSET_PREFIX}}terms.html">Terms &amp; Conditions</a></p>
+    Bothsiders — Explore. Compare. Decide.
+  </footer>
+
+</div>
+</body>
+</html>
