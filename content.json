@@ -1,325 +1,329 @@
 {
-  "date": "November 05, 2026",
+  "date": "November 06, 2026",
   "stories": [
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "MIDTERMS",
-      "headline": "Democrats Win Congress; Republicans Split Over Blame for Losses",
-      "dek": "Trump and Vance tied the party's worst midterm losses in half a century to the Iran war and prices, while Democrats vow to focus on affordability and oversight.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "The loss traces to the Iran war's effect on oil prices, as Trump said, and does not reflect a rejection of conservative policy.",
-        "Midterms usually punish the sitting president's party. Trump said Republicans would have won had he been on the ballot.",
-        "A Democratic majority is not a blank check: Trump has signaled he will veto rollbacks of his agenda.",
-        "Voters were promised affordability. Republicans argue that investigations and impeachments would not deliver it."
-      ],
-      "pole_b_bullets": [
-        "Voters rejected Trump's agenda, including in deep-red states, and that is a clear repudiation.",
-        "The message was to do more on affordability and corruption, and Jeffries has pledged to focus on cost of living.",
-        "Unified control lets Democrats investigate the administration and reject nominees. They argue the president has faced too few checks.",
-        "Trump's tariffs and the Iran war now face congressional scrutiny, and Trump and Vance have both acknowledged the war hurt the party."
-      ],
-      "pole_a_who": "Positions commonly voiced by Republican officials and conservative commentators.",
-      "pole_b_who": "Positions commonly voiced by Democratic leaders such as Hakeem Jeffries and liberal commentators.",
-      "evidence_left": [
-        "NBC News projects Democrats will control both the House and Senate from January. Yahoo News reported Democrats flipped seven Senate seats to lead 54-44, with Mississippi still being counted.",
-        "CNN reported Democrats were projected to win over 250 House seats, ousting 30 GOP incumbents."
-      ],
-      "evidence_right": [
-        "The Washington Post reported Trump and Vance both acknowledged the Iran war and its effect on prices contributed to the losses. MS NOW reported Vance asked on X whether the war was worth losing the majorities.",
-        "NBC News (citing four sources on a staff call) and The Washington Post (citing a top aide) reported House Speaker Mike Johnson will not stay on as GOP leader."
-      ],
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-live-updates-rcna607376"
-        },
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/politics/2026/11/04/election-2026-live-updates-democrats-take-control-house-senate-trump-distances-himself-historic-losses/"
-        },
-        {
-          "name": "MS NOW",
-          "url": "https://www.ms.now/liveblog/midterms-who-won-senate-house-live-updates"
-        },
-        {
-          "name": "Yahoo News",
-          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
-        }
-      ],
-      "sources_date": "November 05, 2026",
-      "sources_line": "Sourced from NBC News, The Washington Post, MS NOW, Yahoo News, November 05, 2026."
-    },
     {
       "category": "economy",
       "category_label": "ECONOMY",
-      "kicker": "MARKETS",
-      "headline": "Nasdaq Falls 5.5% Into Correction as AI Stocks Sell Off After Midterms",
-      "dek": "The Dow lost about 1,800 points a day after a post-election rally, as investors weighed possible limits on data center construction.",
+      "kicker": "JOBS & THE FED",
+      "headline": "October jobs report beats forecasts, with 165,000 added and unemployment at 4.1%",
+      "dek": "The strong payrolls print lands as the Fed weighs another rate hike and markets recover from a sharp tech sell-off.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "The selloff is driven by policy fear, not earnings. AMD's CEO says demand outstrips supply and expects revenue growth above 80% in 2027.",
-        "No AI restrictions have been enacted. Trump has signaled vetoes, and Democrats are divided on a blanket freeze.",
-        "UBS puts about 30% of expected 2028 data center capacity additions at risk, which leaves most of the buildout intact.",
-        "Indexes remain up for the year, and some strategists, such as Jim Cramer, say the AI trade is not going away."
+        "Payrolls of 165,000 far exceeded forecasts of roughly 59,000 to 65,000, which bulls read as a rebuttal to slowdown fears.",
+        "August and September were revised up by a combined 84,000 jobs, so the trend is firmer than first reported.",
+        "Challenger counted 43,994 announced job cuts in October, down 71% from a year earlier, which points to few layoffs.",
+        "Unemployment fell to 4.1%, and AI-related construction and manufacturing hiring suggests the capex boom is feeding into jobs."
       ],
       "pole_b_bullets": [
-        "Valuations had priced in perfection. One fund manager said the market is moving from the promise of AI to the price of AI.",
-        "The policy risk is real: Democrats hold Congress and gained governorships, and Texas holds an estimated 27% of planned U.S. data center capacity.",
-        "Credit stress is showing: CoreWeave's five-year default spreads hit a record, and The Hill reported AI-debt worries.",
-        "The damage is broad. The Russell 2000 also entered a correction, and the VIX surged the most since April."
+        "A hot labor market raises the odds of a December rate hike. One market-pricing tracker put it at 69% as of Nov. 6.",
+        "Inflation remains elevated. Two Fed officials dissented in October in favor of a hike, and the 10-year Treasury yield is near 5%.",
+        "The broader U-6 unemployment measure rose 0.3 point to 7.9%, and average unemployment duration hit its highest since September 2021.",
+        "NBC noted workers have so far seen few benefits from the AI boom, and some of the hiring may be tied to AI construction that is now under market stress."
       ],
-      "pole_a_who": "Positions commonly voiced by market strategists and AI-sector executives.",
-      "pole_b_who": "Positions commonly voiced by valuation-focused fund managers and credit analysts.",
+      "pole_a_who": "Positions commonly voiced by strategists such as Principal Asset Management's Seema Shah and Wells Fargo analysts.",
+      "pole_b_who": "Positions commonly voiced by rate-hike hawks and analysts focused on inflation and long-term unemployment.",
       "evidence_left": [
-        "CBS News and CNBC reported the Nasdaq Composite fell 5.52% to close at 24,315, more than 10% below its October record. CNBC data showed the S&P 500 down 4.36% to 7,353.73.",
-        "Value lost differs by outlet: CNN reported $2.5 trillion wiped from the market; Reuters, via The Globe and Mail, reported $3 trillion lost from S&P 500 companies."
+        "BLS reported nonfarm payrolls up 165,000 in October and unemployment at 4.1%, down from 4.2%.",
+        "The consensus forecast was 59,000 jobs per CNBC and 65,000 per FactSet as cited by CNN. August was revised up 53,000 to 186,000 and September to 60,000 from 29,000, per CNN."
       ],
       "evidence_right": [
-        "CNBC reported the Dow rose more than 1,500 points on Wednesday, its best day since April 2025. The Globe and Mail, citing Reuters, reported the S&P 500 was still up 7.4% for 2026 and the Nasdaq up 4.6% after Thursday.",
-        "Yahoo Finance reported AMD fell about 13% in morning trading despite a record quarter. Reuters, via Yahoo, reported UBS estimates about 30% of expected 2028 U.S. data center capacity additions could face construction pauses."
+        "The Fed held its target range at 3.75%-4.00% on Oct. 28 by a 10-2 vote. Lisa Cook and Beth Hammack dissented in favor of a quarter-point hike.",
+        "CNBC reported the U-6 rate at 7.9% and average unemployment duration at 27.1 weeks. The 69% hike-odds figure comes from a single pricing tracker (rateprobability.com)."
       ],
       "sources": [
         {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/"
-        },
-        {
           "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
         },
         {
-          "name": "Reuters via Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-stocks-slip-112314079.html"
+          "name": "CNN via KRDO",
+          "url": "https://krdo.com/money/cnn-business-consumer/2026/11/06/the-us-economy-added-165000-jobs-in-october-and-the-unemployment-rate-fell/"
         },
         {
-          "name": "The Globe and Mail",
-          "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-ai-stocks-oil-fall-as-investors-bet-on-change-after-us/"
+          "name": "Federal Reserve FOMC statement",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/business/economy/us-added-jobs-october-risks-stagnation-rcna607812"
         }
       ],
-      "sources_date": "November 05, 2026",
-      "sources_line": "Sourced from CBS News, CNBC, Reuters via Yahoo Finance, The Globe and Mail, November 05, 2026."
+      "sources_date": "November 06, 2026",
+      "sources_line": "Sourced from CNBC, CNN via KRDO, Federal Reserve FOMC statement, NBC News, November 06, 2026."
     },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "AI POLICY",
-      "headline": "Democrats Push to Curb AI Data Centers as OpenAI Offers Voluntary Pledges",
-      "dek": "After midterm wins, Sanders and others called for a national moratorium, and OpenAI published data center commitments two days after the vote.",
+      "kicker": "AI & DATA CENTERS",
+      "headline": "AI stocks sell off as midterm results raise data-center regulation fears",
+      "dek": "The Nasdaq fell into correction Thursday before a partial rebound Friday, as voters and newly elected Democrats pushed to limit data centers.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "A national moratorium would only move demand overseas, since one analyst said location is fungible.",
-        "Targeted rules, such as paying full power costs and publishing plans, can address local concerns without a freeze.",
-        "Some Democrats warn a blanket freeze could hamper AI progress and undermine national security.",
-        "Investors and workers tied to the buildout already face losses on mere policy fear."
+        "Yardeni Research called the sell-off an overreaction to political risk and said the setbacks are speed bumps, not roadblocks.",
+        "President Trump backs data centers, favors light AI regulation, and said he would work with states on them.",
+        "Data centers are the infrastructure behind AI, and the Fed's October statement cited strong productivity and robust capital investment.",
+        "State-by-state moratoria risk slowing construction and the jobs tied to it, as with Texas Gov.-elect Gina Hinojosa's pledge to hold off on approving new projects."
       ],
       "pole_b_bullets": [
-        "Voters rejected data centers at the ballot. Sanders says communities want limits on harm to the environment, jobs and electricity bills.",
-        "Company pledges are voluntary and cover only data centers the company owns and operates.",
-        "OpenAI itself urged policymakers to turn its commitments into law, which supports binding rules.",
-        "Concentrated buildout, such as Texas's large share of planned capacity, makes state and federal oversight timely."
+        "Backlash over data centers' environmental and community effects became a key midterm issue, per CNN.",
+        "Sen. Maria Cantwell, expected to retake the Commerce chair, has outlined enforceable safety standards, testing, audits and developer liability.",
+        "Rep. Greg Casar urged incoming House members to make AI regulation a priority and to have AI CEOs testify.",
+        "The scale of the sell-off shows how concentrated market risk has become in AI spending, which supporters of oversight say justifies scrutiny."
       ],
-      "pole_a_who": "Positions commonly voiced by AI-industry analysts and moderate Democrats.",
-      "pole_b_who": "Positions commonly voiced by Sen. Bernie Sanders, Rep. Alexandria Ocasio-Cortez and local anti-data-center campaigners.",
+      "pole_a_who": "Positions commonly voiced by the Trump administration, AI-industry backers and market strategists such as Yardeni Research.",
+      "pole_b_who": "Positions commonly voiced by Democratic lawmakers such as Cantwell and Casar, and by data-center opponents.",
       "evidence_left": [
-        "Sanders posted \"National data center moratorium now\" on Nov. 4. He and Ocasio-Cortez had introduced an AI Data Center Moratorium Act earlier this year.",
-        "A CNBC voter poll, as summarized by Briefs Finance, found 56% saw AI and data centers as a key consideration and 65% of them chose a Democrat. Ballot-measure counts differ: Gate reported voters rejected 40 of 41 measures across 10 states, while Sanders cited 43 of 44 communities."
+        "The Nasdaq Composite fell 5.5% Thursday and closed more than 10% below its high. The S&P 500 fell 4.4% per CNBC and 4.3% per Yahoo Finance, and the Dow fell over 1,800 points.",
+        "The Nasdaq-100 lost $2.3 trillion in value, a 6.3% drop per Yahoo Finance and 6.4% per Bloomberg. The Nasdaq Composite rose over 1.4% Friday, per Yahoo Finance."
       ],
       "evidence_right": [
-        "CNBC reported OpenAI published commitments Thursday to pay the full cost of data center power, solicit community input, and publish construction plans. Crypto Briefing noted they cover only company-owned and operated sites.",
-        "Quartz, citing TechCrunch, reported Color of Change's Nadine Smith said a blanket freeze is contested even among Democrats. Benzinga reported analyst Daniel Newman said demand would move abroad."
+        "Truthout reported that 40 of 41 data-center ballot measures passed in 13 states. This figure was not independently confirmed in the sources reviewed.",
+        "Trump posted that Democrats caused the market drop, per Axios and Fox Business. Hinojosa pledged to hold off on new Texas data-center approvals until protections exist, per Yahoo Finance."
       ],
       "sources": [
         {
-          "name": "CNBC (Democrats and data centers)",
-          "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html"
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
         },
         {
-          "name": "Quartz",
-          "url": "https://qz.com/sanders-national-data-center-moratorium-midterms-110526"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
         },
         {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/tech/26/11/62902720/bernie-sanders-data-center-moratorium-daniel-newman-demand-abroad"
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/06/trump-stock-market-sell-off"
+        },
+        {
+          "name": "Truthout",
+          "url": "https://truthout.org/articles/the-gop-wasnt-the-only-midterms-loser-voters-slapped-data-centers-with-limits/"
         }
       ],
-      "sources_date": "November 05, 2026",
-      "sources_line": "Sourced from CNBC (Democrats and data centers), Quartz, Benzinga, November 05, 2026."
+      "sources_date": "November 06, 2026",
+      "sources_line": "Sourced from CNBC, Yahoo Finance, Axios, Truthout, November 06, 2026."
     },
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "CRIME & JUSTICE",
-      "headline": "Newsom Moves to Commute All 548 California Death Sentences",
-      "dek": "The outgoing governor announced the largest mass commutation in modern U.S. history, drawing praise from reform advocates and criticism from victims' groups.",
+      "kicker": "MIDTERM AFTERMATH",
+      "headline": "Democrats win Congress as Republicans reckon with losses; Johnson will not stay as GOP leader",
+      "dek": "Trump says he will use his veto while staying open to negotiation, and Democrats are expected to launch investigations.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Voters kept the death penalty, and a governor should not nullify it unilaterally for the whole death row.",
-        "Victims' families say the move tells them the killers' lives matter more than their loved ones' lives.",
-        "Prosecutors and police argue sentences imposed by juries and courts should be carried out or left to the courts, not wiped away in one stroke.",
-        "Critics see a political motive, noting Newsom is outgoing and a potential 2028 presidential candidate."
+        "Voters were reacting to prices and the Iran war, and Republicans can recover by delivering on economic promises, as Sen. Ted Cruz urged.",
+        "The presidential veto remains a check on a Democratic Congress, and Trump says he is open to negotiating.",
+        "Planned Democratic investigations of Trump's family and associates, reported by SBS and the Washington Post, risk looking like political retribution rather than governing.",
+        "A Democratic Senate that blocks judicial and Supreme Court nominees is a major cost of the loss, as Fox News noted."
       ],
       "pole_b_bullets": [
-        "Newsom calls state-sanctioned killing incompatible with California's values and undermines the legal system.",
-        "The system is error-prone, and death sentences fall unevenly by race and county.",
-        "California has not executed anyone in 20 years, so the sentences were symbolic. Life without parole keeps these inmates imprisoned.",
-        "The order does not repeal the death penalty, and some cases still need California Supreme Court approval."
+        "Democrats flipped seats in deep-red states, which they read as a broad rejection of Trump's agenda and GOP governance.",
+        "AP said voters were frustrated by high prices, the Iran war and concerns about government corruption, which supporters say justifies oversight.",
+        "Senate control lets Democrats scrutinize Cabinet and judicial nominees, as the Hegseth confirmation timeline shows.",
+        "Newly empowered Democrats plan to take up health care and AI and data-center regulation."
       ],
-      "pole_a_who": "Positions commonly voiced by victims' rights groups, prosecutors, police and Republican officials.",
-      "pole_b_who": "Positions commonly voiced by death penalty opponents, reform advocates and Newsom.",
+      "pole_a_who": "Positions commonly voiced by Republican officials and conservative commentators, including Sen. Ted Cruz and President Trump.",
+      "pole_b_who": "Positions commonly voiced by Democratic leaders such as Hakeem Jeffries and Chuck Schumer, and liberal commentators.",
       "evidence_left": [
-        "The San Francisco Chronicle reported Newsom announced Thursday he will commute all 548 sentences to life without parole. The group includes 19 women and 529 men.",
-        "CBS Sacramento reported the move does not repeal the death penalty. Some cases need California Supreme Court review because of multiple-felony rules."
+        "AP reported Democrats retook the Senate on Nov. 3. CNN projected 54 Senate seats for Democrats, with Alaska and Mississippi still uncalled per NBC Washington.",
+        "House projections differ: CNN reported over 250 Democratic seats and NBC News estimated at least 259."
       ],
       "evidence_right": [
-        "The Marshall Project reported the move would shrink the U.S. death row population by nearly a third, while The Washington Post reported about a quarter. It also reported criticism from victims' groups, prosecutors and police began last month.",
-        "Al Jazeera reported California has not executed a prisoner in 20 years. Newsom wrote that voters chose to keep the death penalty and he respects that."
+        "The Washington Post reported that House Speaker Mike Johnson will not seek to stay on as GOP leader. It also reported that Trump and Vice President JD Vance acknowledged the Iran war and prices contributed to the losses.",
+        "Fox News reported Trump said he plans to use his veto power to block legislation he opposes while remaining open to negotiations."
       ],
       "sources": [
         {
-          "name": "San Francisco Chronicle",
-          "url": "https://www.sfchronicle.com/politics/article/newsom-death-penalty-california-22512509.php"
+          "name": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/politics/democrats-take-control-of-the-senate-after-winning-key-midterm-races"
         },
         {
-          "name": "The Marshall Project",
-          "url": "https://www.themarshallproject.org/2026/11/05/newsom-commutation-california-death-sentences"
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress"
         },
         {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/nation/2026/11/05/newsom-begins-commuting-sentences-california-death-row-inmates/"
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/11/04/election-2026-live-updates-democrats-take-control-house-senate-trump-distances-himself-historic-losses/"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/live-news/election-day-results-11-3-2026"
+        }
+      ],
+      "sources_date": "November 06, 2026",
+      "sources_line": "Sourced from PBS NewsHour (AP), CNN, Washington Post, Fox News, November 06, 2026."
+    },
+    {
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "WASHINGTON",
+      "headline": "Federal judge halts Trump's 250-foot arch hours after planning panel approves it",
+      "dek": "A 14-day restraining order pauses construction while courts weigh challenges from D.C., Virginia and veterans.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
+      "pole_a_bullets": [
+        "The National Capital Planning Commission approved the project 8-4 after a roughly 10-hour meeting, so the review process was followed.",
+        "The White House praised the commission's decision and says it is confident the arch will be completed.",
+        "The order is temporary and only preserves the status quo while the court hears the case.",
+        "Supporters say Democratic officials and lawmakers are using lawsuits and procedure to obstruct the president's agenda in the capital."
+      ],
+      "pole_b_bullets": [
+        "D.C. and Virginia argue the project requires specific congressional authorization that the administration did not seek.",
+        "The attorneys general also cite effects on traffic, public safety and the historic area near Arlington Cemetery.",
+        "A separate veterans' lawsuit challenges the project, and many people spoke against it at the commission meeting.",
+        "Rep. Jared Huffman said the arch would dishonor American ideals and laws. NBC noted the commission is led by Trump appointees."
+      ],
+      "pole_a_who": "Positions commonly voiced by the White House and administration allies.",
+      "pole_b_who": "Positions commonly voiced by D.C. and Virginia officials, veterans' groups and Democratic lawmakers.",
+      "evidence_left": [
+        "U.S. District Judge Tanya Chutkan issued a 14-day order barring construction, excavation, land disturbance, utility installation and road closures tied to the arch (Axios).",
+        "The commission voted 8-4 for the arch, which would stand 250 feet, more than twice the height of the 99-foot Lincoln Memorial (ABC7, National Desk)."
+      ],
+      "evidence_right": [
+        "D.C. and Virginia attorneys general sued Oct. 31, and the judge has consolidated the veterans' suits (National Desk, MS NOW). Outlets differ on timing: NBC and MS NOW say late Thursday, Fox and Axios say early Friday.",
+        "Trump has said he wants the arch finished before his term ends. ArtNews reported a Nov. 9 compliance deadline for the administration, which is a single-outlet detail."
+      ],
+      "sources": [
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/local/washington-dc/2026/11/06/trump-arch-dc-arlington-cemetery-construction-lawsuits"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-triumphal-arch-approval-opposition-asks-judge-to-block-rcna607642"
+        },
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/politics/trumps-massive-arlington-triumphal-arch-approved-construction-federal-planning-commission"
+        },
+        {
+          "name": "The National Desk",
+          "url": "https://thenationaldesk.com/news/americas-news-now/trump-triumphal-arch-blocked-judge-chutkan-federal-construction-temporary-restraining-order-national-capital-planning-commission-vote-approval-arlington-memorial-circle-dc-virginia-lawsuit"
+        }
+      ],
+      "sources_date": "November 06, 2026",
+      "sources_line": "Sourced from Axios, NBC News, Fox News, The National Desk, November 06, 2026."
+    },
+    {
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "CALIFORNIA",
+      "headline": "Newsom moves to commute all 548 California death sentences",
+      "dek": "The outgoing governor announced the largest mass clemency in U.S. history, though many cases still need court approval.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
+      "pole_a_bullets": [
+        "A blanket commutation skips case-by-case review, and some prosecutors and victims' advocates urged Newsom to meet individual families first.",
+        "Victims' families were reportedly not notified, and one critic called the decision offensive and outrageous.",
+        "The state constitution requires California Supreme Court approval for multiple-felony cases, so a blanket order may not hold up legally, per attorney Schubert.",
+        "Sentences were imposed by juries and judges, and opponents cite cases such as Polly Klaas's killer. They see a departing governor overriding those verdicts."
+      ],
+      "pole_b_bullets": [
+        "Newsom wrote that state-sanctioned killing is incompatible with California's values and undermines the legal system.",
+        "California has not executed anyone in 20 years, and Newsom cited morality, cost and the risk of human error.",
+        "Criminal justice groups call the death penalty outdated, inefficient and immoral, and praised the decision.",
+        "The action does not repeal the death penalty. Life without parole is the most severe punishment clemency allows, and Biden commuted 37 of 40 federal death sentences in 2024."
+      ],
+      "pole_a_who": "Positions commonly voiced by prosecutors, victims' rights advocates and Republican critics of Newsom.",
+      "pole_b_who": "Positions commonly voiced by death-penalty opponents, criminal justice reform groups and Newsom.",
+      "evidence_left": [
+        "Newsom announced Thursday in an open letter that he would commute 548 sentences (529 men, 19 women) to life without parole. The Washington Post described it as starting the process, and Fox News reported it as announced.",
+        "Most commutations need court approval, and the state constitution requires California Supreme Court review for people with multiple felony convictions (CalMatters, CBS Sacramento)."
+      ],
+      "evidence_right": [
+        "The Death Penalty Information Center called it the largest mass clemency in U.S. history (CalMatters).",
+        "Reports differ on share of U.S. death sentences affected: about a quarter per the Washington Post and AP, nearly 30% per Al Jazeera."
+      ],
+      "sources": [
+        {
+          "name": "CalMatters",
+          "url": "https://calmatters.org/justice/2026/11/gavin-newsom-death-penalty-commutation/"
         },
         {
           "name": "CBS Sacramento",
           "url": "https://www.cbsnews.com/sacramento/news/gavin-newsom-california-death-row-commuted-life-in-prison/"
+        },
+        {
+          "name": "Washington Post",
+          "url": "https://www.washingtonpost.com/nation/2026/11/05/newsom-begins-commuting-sentences-california-death-row-inmates/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row"
         }
       ],
-      "sources_date": "November 05, 2026",
-      "sources_line": "Sourced from San Francisco Chronicle, The Marshall Project, The Washington Post, CBS Sacramento, November 05, 2026."
-    },
-    {
-      "category": "business",
-      "category_label": "BUSINESS",
-      "kicker": "HEALTHCARE",
-      "headline": "CVS Health to Split Into Two Companies, Reversing Its Aetna-Era Strategy",
-      "dek": "The company will separate Aetna and Caremark from its retail pharmacies, and shares fell more than 10% on the news.",
-      "pole_a_tag": "GROWTH-FOCUSED",
-      "pole_b_tag": "RISK-FOCUSED",
-      "center_label": "GROWTH vs RISK",
-      "pole_a_label": "Growth-focused view",
-      "pole_b_label": "Risk-focused view",
-      "pole_a_bullets": [
-        "Each company gets a sharper strategy, its own capital structure and more agility.",
-        "The retail unit has returned to growth, so management argues it can split from strength rather than weakness.",
-        "Analysts cited by NBC viewed the split positively, and CVS raised its adjusted profit forecast to at least $8.20.",
-        "Shareholders receive stock in both companies in a tax-free transaction."
-      ],
-      "pole_b_bullets": [
-        "The stock fell more than 10%, suggesting investors doubt the plan or its payoff.",
-        "The split reverses a decade-old integration strategy, and it is unclear how much of the commercial relationship between the units survives.",
-        "The retail unit still lags online rivals such as Amazon. One expert guessed a standalone pharmacy company may scrutinize and close weak stores.",
-        "Medical cost trends remain elevated, and the separation runs to 2028, leaving years of execution risk."
-      ],
-      "pole_a_who": "Positions commonly voiced by CVS management and some Wall Street analysts.",
-      "pole_b_who": "Positions commonly voiced by skeptical investors and healthcare industry analysts.",
-      "evidence_left": [
-        "CVS confirmed the plan in a Nov. 4 release, as reported by Becker's: one company with Aetna, Caremark, Oak Street and Signify, and CVS Pharmacy with about 9,000 stores. Completion is expected in the first half of 2028, though CNN wrote early 2028.",
-        "The deal unwinds the 2018 Aetna acquisition, which CNN valued at $69 billion and Healthcare Dive described as a $78 billion merger."
-      ],
-      "evidence_right": [
-        "NBC News reported shares fell more than 10% in early trading Wednesday. It also reported CVS raised its annual adjusted profit forecast to at least $8.20 while noting elevated medical cost trends.",
-        "NBC News reported the split follows growing scrutiny of vertically integrated healthcare firms, while CNBC reported CEO David Joyner said regulation was not the reason."
-      ],
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/business/consumer/cvs-health-split-pharmacy-insurance-rcna607421"
-        },
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/04/business/cvs-to-split-into-two-companies"
-        },
-        {
-          "name": "Healthcare Dive",
-          "url": "https://www.healthcaredive.com/news/cvs-split-two-companies-strategic-about-face/873660/"
-        },
-        {
-          "name": "Becker's Payer Issues",
-          "url": "https://www.beckerspayer.com/financial/cvs-to-split-into-2-companies/"
-        }
-      ],
-      "sources_date": "November 05, 2026",
-      "sources_line": "Sourced from NBC News, CNN, Healthcare Dive, Becker's Payer Issues, November 05, 2026."
+      "sources_date": "November 06, 2026",
+      "sources_line": "Sourced from CalMatters, CBS Sacramento, Washington Post, Al Jazeera, November 06, 2026."
     },
     {
       "category": "sports",
       "category_label": "SPORTS",
-      "kicker": "GOLF",
-      "headline": "LIV Golf to Wind Down After Failing to Secure Backing for 2.0 Relaunch",
-      "dek": "A LIV attorney told a bankruptcy court Thursday the Saudi-backed league will liquidate rather than relaunch in 2027.",
+      "kicker": "COLLEGE BASKETBALL",
+      "headline": "Saint Louis' Robbie Avila wins injunction for a fifth college season",
+      "dek": "A Missouri judge cleared the reigning A-10 Player of the Year to play, adding to the NCAA's wave of eligibility lawsuits.",
       "pole_a_tag": "TAKE",
       "pole_b_tag": "COUNTER-TAKE",
       "center_label": "TAKE vs COUNTER-TAKE",
       "pole_a_label": "Take",
       "pole_b_label": "Counter-take",
       "pole_a_bullets": [
-        "The numbers show a failed model: about $5 billion invested and about $3 billion in net operating losses.",
-        "Stars left before the end, including Koepka, Rahm, Reed and Garcia, which suggests players preferred the PGA Tour.",
-        "Weak sponsorship and U.S. TV audiences meant revenue never matched the spending.",
-        "The PGA Tour is vindicated, and the Tour is right not to extend its Returning Member Program to Rahm and DeChambeau."
+        "The NCAA's new five-for-five model was not meant to cover the 2022 class, and players caught in that gap deserve their fifth year.",
+        "Courts have sided with plaintiffs in most of these cases, which suggests the NCAA's position is weak.",
+        "Gonzaga's Mark Few criticized the NCAA's rollout as unfair.",
+        "Avila is a proven player with 132 starts in 137 games, and the 16th roster spot costs Saint Louis little."
       ],
       "pole_b_bullets": [
-        "Fans did not kill LIV. Saudi PIF stopped funding in April and BC Partners withdrew its planned $300 million.",
-        "LIV changed golf's economics, with guaranteed contracts above $100 million that pushed pay across the sport.",
-        "Players are left in limbo, with unclear one-year Tour bans and contract claims such as Rahm's reported $100 million.",
-        "With the rival gone, the PGA Tour faces less competitive pressure, which could mean fewer options for players and fans."
+        "The injunction lets one school exceed the 15-man roster limit, which drew eyebrow raises per CBS Sports.",
+        "Duke's Jon Scheyer cautioned that some injunctions may be overturned later this season.",
+        "Avila left college, went undrafted and played Lakers summer league, and one outlet called the situation an eligibility loophole.",
+        "Case-by-case rulings by different judges create uneven eligibility across the sport."
       ],
-      "pole_a_who": "Positions commonly voiced by PGA Tour-aligned commentators and golf columnists.",
-      "pole_b_who": "Positions commonly voiced by players' advocates and commentators who credit LIV with changing golf.",
+      "pole_a_who": "Positions commonly voiced by athletes' lawyers and some coaches, including Gonzaga's Mark Few.",
+      "pole_b_who": "Positions commonly voiced by NCAA defenders and commentators wary of court-driven eligibility.",
       "evidence_left": [
-        "UPI reported court filings show PIF invested about $5 billion in LIV Golf, which had about $3 billion in net operating losses. The league filed for Chapter 11 on Sept. 8, per KRCR.",
-        "UPI reported Brooks Koepka, Jon Rahm, Patrick Reed and Sergio Garcia left over the past year. Golf Digest, via KIRO 7, reported only four players had said publicly they would return in 2027."
+        "St. Louis City Circuit Judge Jason Sengheiser granted the preliminary injunction Thursday. Saint Louis may carry a 16th roster spot until a trial, likely months away (ESPN, Yahoo Sports).",
+        "The injunction also bars the NCAA from enforcing roster limits to keep Avila off the team (Yahoo Sports)."
       ],
       "evidence_right": [
-        "CBC reported PIF changed strategy and said it would stop paying for LIV after the 2026 season. CBS Sports reported BC Partners pulled its planned $300 million investment after the league failed to secure enough players.",
-        "KRCR reported Rahm agreed to give up claims reportedly worth about $100 million, and players who leave LIV face a one-year PGA Tour ban. It is unclear whether that can be reversed. CBC reported LIV paid $15.6 million to retain seven executives."
+        "Avila averaged 12.8 points in 2025-26, after 17.3 the year before, and has started 132 of 137 career games (ESPN, Yahoo Sports).",
+        "The NCAA's five-for-five model gives athletes five seasons in five years. Its non-application to the 2022 class prompted lawsuits nationwide (ESPN)."
       ],
       "sources": [
         {
           "name": "ESPN",
-          "url": "https://www.espn.com/golf/story/_/id/50390178/liv-golf-lacks-support-20-model-winds-operations"
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/50392230/saint-louis-robbie-avila-gets-injunction-play-season"
         },
         {
-          "name": "UPI",
-          "url": "https://www.upi.com/Sports_News/2026/11/05/LIV-Golf-shut-down-five-year-rivarly/1991793900516/"
-        },
-        {
-          "name": "CBC Sports",
-          "url": "https://www.cbc.ca/sports/golf/liv-golf-closing-operations-bankruptcy-9.7410688"
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/mens-college-basketball/breaking-news/article/st-louis-forward-robbie-avila-granted-injunction-for-fifth-season-of-college-basketball-194358527.html"
         },
         {
           "name": "CBS Sports",
-          "url": "https://www.cbssports.com/golf/news/liv-golf-closes-doors-legacy-future/"
+          "url": "https://www.cbssports.com/college-basketball/news/robbie-avila-saint-louis-eligible-granted-preliminary-injunction/"
+        },
+        {
+          "name": "Yardbarker",
+          "url": "https://www.yardbarker.com/college_basketball/articles/robbie_avila_wins_injunction_to_play_fifth_season_for_saint_louis/s1_17668_44521533"
         }
       ],
-      "sources_date": "November 05, 2026",
-      "sources_line": "Sourced from ESPN, UPI, CBC Sports, CBS Sports, November 05, 2026."
+      "sources_date": "November 06, 2026",
+      "sources_line": "Sourced from ESPN, Yahoo Sports, CBS Sports, Yardbarker, November 06, 2026."
     }
   ]
 }
