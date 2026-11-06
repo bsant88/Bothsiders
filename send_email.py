@@ -34,6 +34,7 @@ from datetime import datetime
 import requests
 
 from config import SITE_BASE_URL
+from sources import sources_html
 
 CONTENT_PATH = "content.json"
 BUTTONDOWN_API_URL = "https://api.buttondown.email/v1/emails"
@@ -94,7 +95,7 @@ def story_html(story: dict, idx: int) -> str:
 <div style="background:{EVD_TINT};border:1px solid {EVD_TINT_LINE};border-radius:8px;padding:16px 20px;margin-top:4px;">
   <p style="margin:0 0 10px;font-weight:700;font-size:12px;color:{EVD};text-transform:uppercase;letter-spacing:0.04em;">What's documented</p>
   <ul style="margin:0;padding-left:20px;font-size:14px;line-height:1.6;color:{INK};">{evidence_lis}</ul>
-  <p style="margin:12px 0 0;font-size:12px;color:{INK_SOFT};">{story['sources_line']}</p>
+  <p style="margin:12px 0 0;font-size:12px;color:{INK_SOFT};">{sources_html(story, "color:#63666E;text-decoration:underline;")}</p>
 </div>
 
 <p style="text-align:center;margin:16px 0 0;">
@@ -191,6 +192,14 @@ def main():
     with open(CONTENT_PATH, "r", encoding="utf-8") as f:
         content = json.load(f)
 
+    # Once-per-day guard: a marker file records that this date's issue was
+    # emailed, so re-running the job can never email subscribers twice.
+    date_iso = datetime.strptime(content["date"], "%B %d, %Y").strftime("%Y-%m-%d")
+    marker = os.path.join("sent", f"{date_iso}.txt")
+    if os.path.exists(marker):
+        print(f"Already emailed the {date_iso} issue. Skipping.")
+        return
+
     subject = f"Bothsiders — {content['date']}"
     body = build_email_html(content)
 
@@ -216,6 +225,9 @@ def main():
     if response.status_code >= 300:
         sys.exit(f"Buttondown API error {response.status_code}: {response.text}")
 
+    os.makedirs("sent", exist_ok=True)
+    with open(marker, "w", encoding="utf-8") as f:
+        f.write(f"{response.json().get('id')}\n")
     print(f"Sent '{subject}' — Buttondown email id: {response.json().get('id')}")
 
 
