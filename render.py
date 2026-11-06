@@ -19,6 +19,7 @@ import os
 from datetime import datetime
 
 from config import BUTTONDOWN_USERNAME
+from sources import sources_html
 
 CONTENT_PATH = "content.json"
 MANIFEST_PATH = "manifest.json"
@@ -108,7 +109,7 @@ def render_story(story: dict, idx: int) -> str:
 {render_evidence_column(story['evidence_left'])}
 {render_evidence_column(story['evidence_right'])}
       </div>
-      <p class="sources">{esc(story['sources_line'])}</p>
+      <p class="sources">{sources_html(story)}</p>
     </div>
     <p class="back-to-coverage"><a href="#coverage">&uarr; Back to headlines</a></p>
   </article>"""
