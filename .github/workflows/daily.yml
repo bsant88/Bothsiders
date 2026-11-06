@@ -1,4 +1,3 @@
-yaml
 name: Generate daily Bothsiders issue
 
 on:
