@@ -1,146 +1,146 @@
 {
-  "date": "November 06, 2026",
+  "date": "November 07, 2026",
   "stories": [
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "MIDTERMS",
-      "headline": "Democrats Win House and Senate as Republicans Weigh Iran War and Prices",
-      "dek": "The party out of power flipped both chambers, and each side is reading the result differently.",
+      "kicker": "WHITE HOUSE SHAKEUP",
+      "headline": "Trump Names Stephen Miller Chief of Staff, Replacing Susie Wiles",
+      "dek": "The change comes days after Republicans lost control of Congress in the midterms.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Midterm losses for a president's party are a recurring pattern, and the White House keeps a veto to check new legislation.",
-        "The Iran war aimed to stop a nuclear-armed Iran, and Trump says that goal was right whatever the electoral cost.",
-        "Democrats campaigned on lowering costs and now have to show results, since voters judge the party in power.",
-        "Trump says he is open to negotiating while using the veto on bills he opposes, which keeps a path for deals."
+        "Miller has worked for Trump since 2015 and is trusted to carry out the president's agenda without dilution.",
+        "A Democratic Congress will open investigations, and a combative operator suits that fight. One Trump adviser called Miller a \"wartime adviser.\"",
+        "Immigration, tariffs and spending can be advanced by executive action where Congress is gridlocked, and Miller has helped identify such options.",
+        "Wiles stays in Trump's political operation, so the move reads as a role change rather than a purge."
       ],
       "pole_b_bullets": [
-        "The sweep is a mandate against Trump's agenda, and Hakeem Jeffries called it a rebuke of 'MAGA extremism'.",
-        "Voters punished a costly, unpopular war and high prices, and Republican leaders have partly conceded this.",
-        "A Democratic Congress can now oversee the administration through hearings and investigations.",
-        "Control of the Senate lets Democrats check judicial and agency nominees, with health subsidies among the first priorities."
+        "The pick shows little has been learned from the midterm losses, according to several congressional Democrats.",
+        "Miller is the architect of the administration's most controversial immigration policies, and elevating him doubles down on them.",
+        "Governing by executive order sidesteps the new Democratic majority and the oversight voters just chose.",
+        "Even some Republicans object. Sen. Thom Tillis called Miller \"the worst of all possible choices.\""
       ],
-      "pole_a_who": "Positions commonly voiced by Trump and White House allies, and GOP commentators.",
-      "pole_b_who": "Positions commonly voiced by Democratic leaders such as Hakeem Jeffries, and progressive commentators.",
+      "pole_a_who": "Positions commonly voiced by Trump allies and conservative commentators, including Trump advisers and Fox News analysts.",
+      "pole_b_who": "Positions commonly voiced by congressional Democrats and other critics, including GOP Sen. Thom Tillis.",
       "evidence_left": [
-        "<cite index=\"39-1\">Democrats secured control of both the House and the Senate in the Nov. 3 midterms, per CNBC.</cite>",
-        "<cite index=\"41-6,41-7\">NBC News projects the largest House majority in nearly two decades, with more than two dozen districts flipped, some Trump won by double digits in 2024.</cite>"
+        "Trump announced the change on Truth Social on Nov. 6. Miller, currently deputy chief of staff, starts Monday, Nov. 9, and Wiles moves to the Trump Political Operation (Axios, The Hill).",
+        "A White House official said Wiles resigned Thursday night (The Hill). Axios reported she had offered to quit for two days before that."
       ],
       "evidence_right": [
-        "<cite index=\"42-7\">Speaker Mike Johnson told staff he will not stay on as Republican leader, according to four sources on the call (NBC News).</cite>",
-        "<cite index=\"43-5\">The Washington Post reports that Trump and Vice President JD Vance both acknowledged the Iran war and its effect on prices contributed to the losses.</cite> <cite index=\"40-9\">Trump told Fox News he plans to use his veto power on legislation he opposes.</cite>"
+        "AP counts show Democrats holding 54 Senate seats to 44 for Republicans and 254 House seats to 162, with 19 House races uncalled (Yahoo News midterms live blog).",
+        "Fox News reports Miller and Russ Vought have been identifying executive actions on immigration, tariffs and spending. The report says \"reportedly\" and was not independently confirmed in other outlets reviewed."
       ],
       "sources": [
         {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-live-updates-rcna607376"
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff"
         },
         {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html"
+          "name": "The Hill",
+          "url": "https://thehill.com/homenews/administration/6204745-susie-wiles-out-stephen-miller-in-as-trumps-chief-of-staff/"
         },
         {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/politics/2026/11/04/election-2026-live-updates-democrats-take-control-house-senate-trump-distances-himself-historic-losses/"
+          "name": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244"
         },
         {
           "name": "Fox News",
-          "url": "https://www.foxnews.com/live-news/election-day-results-11-3-2026"
+          "url": "https://www.foxnews.com/politics/trumps-move-wiles-miller-signals-major-tactical-shift-governing-without-congress"
         }
       ],
-      "sources_date": "November 06, 2026",
-      "sources_line": "Sourced from NBC News, CNBC, The Washington Post, Fox News, November 06, 2026."
+      "sources_date": "November 07, 2026",
+      "sources_line": "Sourced from Axios, The Hill, ABC News, Fox News, November 07, 2026."
     },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "AI & MARKETS",
-      "headline": "Nasdaq Falls Into Correction as Investors Price In Democratic AI Oversight",
-      "dek": "A tech rout followed election wins by candidates who campaigned against data-center growth; stocks rebounded partly Friday.",
+      "kicker": "AI & THE MIDTERMS",
+      "headline": "AI Stocks Rebound After Midterm-Driven Selloff Pushed Nasdaq Into Correction",
+      "dek": "Investors are weighing whether a Democratic Congress will tighten AI and data center rules.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "The selloff may be an overreaction to political opposition, as market strategist Ed Yardeni has argued.",
-        "Data-center and AI buildout is already adding construction and manufacturing jobs, which restrictions would put at risk.",
-        "Trump backs data centers and light-touch rules, arguing that heavy regulation would cede the AI race.",
-        "Bans and moratoriums across many localities create a patchwork that raises costs and delays capacity."
+        "Trillions in lost market value show how much US growth now rests on AI investment, and new restrictions put that at risk.",
+        "AI-related construction and manufacturing jobs appear in the October jobs data, so curbs on data centers would cost real jobs.",
+        "A patchwork of state data center conditions would slow the build-out and favor competitors abroad.",
+        "Rules should come from one national framework rather than a rush of new restrictions, a stance the administration has taken."
       ],
       "pole_b_bullets": [
-        "Voters asked for limits, approving 40 of 41 data-center ballot measures, per a Truthout tally.",
-        "Democrats plan bills shielding consumers from data-center electricity costs and requiring independent testing of advanced AI.",
-        "Rep. Lori Trahan wants AI companies to be clearly liable when their systems cause harm.",
-        "Sen. Maria Cantwell's framework calls for enforceable frontier-AI safety standards, audits and stress tests."
+        "Voters in many communities backed Democrats who vowed to push back on data centers over electricity costs and water use.",
+        "Warnings that AI could escape human control justify enforceable safety standards and testing, as in Sen. Maria Cantwell's framework.",
+        "Investors already worried about a bubble, so the selloff may reflect stretched valuations more than regulation.",
+        "Industry benefits should be broadly shared, and rules can protect residents while still allowing responsible investment."
       ],
-      "pole_a_who": "Positions commonly voiced by Trump, AI-industry allies and market commentators.",
-      "pole_b_who": "Positions commonly voiced by congressional Democrats such as Greg Casar, Lori Trahan and Maria Cantwell, and AI-safety advocates.",
+      "pole_a_who": "Positions commonly voiced by AI industry executives, investors and Trump administration officials.",
+      "pole_b_who": "Positions commonly voiced by Democratic lawmakers such as Sen. Maria Cantwell, data center opponents and AI safety advocates.",
       "evidence_left": [
-        "<cite index=\"31-5,31-6\">CNBC reported the Nasdaq Composite fell 5.5% Thursday, closing in correction territory, while the S&P 500 lost 4.4%.</cite> <cite index=\"32-2,32-3\">Yahoo Finance put the S&P 500 decline at 4.3%.</cite>",
-        "<cite index=\"30-2\">The S&P 500 was up 0.7% in Friday trading after the rebound.</cite> <cite index=\"30-6\">About $3 trillion in market value disappeared in Thursday's session, per Yahoo Finance.</cite>"
+        "On Thursday, Nov. 5, the Nasdaq fell 5.52% to 24,315.00, a correction of more than 10% from its October record. The Dow lost 1,833.06 points and the S&P 500 fell 4.36% (CNBC).",
+        "On Friday, Nov. 6, the Nasdaq rose 1.1%, the S&P 500 rose 0.3% and the Dow fell 0.46%. All three posted weekly losses, and Japan's Nikkei and South Korea's KOSPI each fell about 6% (Reuters via Yahoo Finance)."
       ],
       "evidence_right": [
-        "<cite index=\"52-1\">Democrats plan bills on data-center electricity costs, independent AI testing and AI-company liability, per the reporting carried by Express Tribune.</cite>",
-        "<cite index=\"51-6\">Truthout reports 40 of 41 data-center ballot measures passed across 13 states</cite>; this figure comes from a single outlet and was not independently confirmed here. <cite index=\"114-2\">Trump responded on Truth Social by doubling down on data centers and blaming Democrats for the selloff (Yahoo Finance).</cite>"
+        "Capital Economics' Joe Maher said the trigger appeared to be concern that Democrats in Congress and the states would regulate AI and restrict data centers (CBS News). NPR put the rout at about $2 trillion.",
+        "Cantwell is set to retake the Senate Commerce chair when the new term begins (PC World). Several lawmakers have urged Democrats to pass AI safety and data center bills once they take over in January (NBC affiliate report)."
       ],
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+          "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
         },
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+          "name": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-drop-ai-rout-235808955.html"
         },
         {
-          "name": "Express Tribune",
-          "url": "https://tribune.com.pk/story/2639017/democrats-planning-flood-of-ai-bills-when-they-take-control-of-congress"
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/"
         },
         {
-          "name": "Truthout",
-          "url": "https://truthout.org/articles/the-gop-wasnt-the-only-midterms-loser-voters-slapped-data-centers-with-limits/"
+          "name": "NPR",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
         }
       ],
-      "sources_date": "November 06, 2026",
-      "sources_line": "Sourced from CNBC, Yahoo Finance, Express Tribune, Truthout, November 06, 2026."
+      "sources_date": "November 07, 2026",
+      "sources_line": "Sourced from CNBC, Reuters via Yahoo Finance, CBS News, NPR, November 07, 2026."
     },
     {
       "category": "economy",
       "category_label": "ECONOMY",
-      "kicker": "JOBS & THE FED",
-      "headline": "Payrolls Beat Forecasts With 165,000 Jobs, Raising Odds of a December Fed Hike",
-      "dek": "Unemployment slipped to 4.1% while long-term joblessness rose and traders priced a possible rate increase.",
+      "kicker": "OCTOBER JOBS",
+      "headline": "US Adds 165,000 Jobs in October as Unemployment Falls to 4.1%",
+      "dek": "Hiring beat forecasts, but wages trail inflation and long-term joblessness is up.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "Payrolls beat forecasts by more than 100,000, and upward revisions to August and September add to the case for resilience.",
-        "Private hiring was far above forecast, offsetting years of government job losses.",
-        "Unemployment fell as participation rose, which points to a labor market absorbing workers.",
-        "Firm wage growth and strong hiring show an economy that is not sliding into a slowdown."
+        "Payrolls of 165,000 were far above forecasts, a strong rebuttal to fears of a meaningful slowdown, per Principal's Seema Shah.",
+        "The labor force grew by 421,000 after shrinking, and the household survey showed 463,000 more people working.",
+        "Manufacturing added 19,000 jobs, and the sector has added more than 100,000 since its December 2025 low.",
+        "Revisions were positive and unemployment fell, which supports a resilient consumer."
       ],
       "pole_b_bullets": [
-        "A strong report keeps the Fed focused on inflation, and traders now see a December hike as likely.",
-        "Part of the gain reflects AI-related construction, a narrow driver that may not last.",
-        "Long-term unemployment rose sharply and the broader U-6 rate climbed to 7.9%.",
-        "Higher rates and a roughly 5% 10-year yield strain borrowers and richly valued stocks after Thursday's rout."
+        "Average hourly earnings rose 3.1% from a year earlier, below inflation. Heather Long noted inflation has erased wage gains for seven straight months.",
+        "Long-term unemployed workers made up 27.6% of the jobless, and their rising share can keep jobless claims low while hiding distress.",
+        "Low turnover signals a stagnant market, per KPMG's Diane Swonk, and some gains came from AI-related construction.",
+        "A strong report strengthens the case for a Fed rate hike in December, which could slow the economy."
       ],
-      "pole_a_who": "Positions commonly voiced by strategists such as Principal Asset Management's Seema Shah and Wells Fargo analysts.",
-      "pole_b_who": "Positions commonly voiced by rate-focused analysts and labor-market skeptics.",
+      "pole_a_who": "Positions commonly voiced by market strategists, White House officials and growth-oriented economists.",
+      "pole_b_who": "Positions commonly voiced by labor economists and inflation-focused analysts.",
       "evidence_left": [
-        "<cite index=\"12-3\">Nonfarm payrolls rose 165,000 in October against a 59,000 forecast (Dow Jones consensus cited by CNBC), and unemployment fell to 4.1%.</cite> <cite index=\"14-3\">Reuters cited a 65,000 forecast from its poll.</cite>",
-        "<cite index=\"13-5,13-7\">Private payrolls rose 159,000 and government added 6,000; average hourly earnings rose 0.4% on the month and 3.1% on the year (Benzinga).</cite>"
+        "The Bureau of Labor Statistics reported 165,000 jobs added in October. Forecasts differed: 59,000 (Dow Jones consensus, CNBC) and 65,000 (FactSet, CBS News).",
+        "The unemployment rate fell to 4.1% from 4.2%. Manufacturing added 19,000 jobs and private payrolls rose 159,000 (Fox Business)."
       ],
       "evidence_right": [
-        "<cite index=\"23-3,23-12\">The Fed held its target range at 3.75% to 4% on Oct. 28 by a 10-2 vote, with Lisa Cook and Beth Hammack dissenting in favor of a quarter-point hike.</cite> <cite index=\"27-4\">OIS pricing implied a 69% chance of a 25-basis-point hike at the Dec. 9 meeting as of Nov. 6.</cite>",
-        "<cite index=\"12-9\">CNBC reported long-term unemployment rose sharply.</cite> <cite index=\"13-10\">Benzinga reported U-6 rose to 7.9% from 7.6%; this figure was not confirmed elsewhere.</cite>"
+        "Wages grew 3.1% year over year (NBC News). ABC15 cited expected inflation of 3.7%.",
+        "Long-term unemployed workers were 27.6% of all unemployed (CBS News, CNBC). CBS reported economists see the data supporting a December rate hike. Morningstar had already described a quarter-point hike as widely expected."
       ],
       "sources": [
         {
@@ -148,183 +148,20 @@
           "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
         },
         {
-          "name": "Reuters via Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
-        },
-        {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/economic-data/26/11/62974776/october-jobs-report-nonfarm-payrolls-unemployment-rate"
-        },
-        {
-          "name": "Federal Reserve",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
-        }
-      ],
-      "sources_date": "November 06, 2026",
-      "sources_line": "Sourced from CNBC, Reuters via Yahoo Finance, Benzinga, Federal Reserve, November 06, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "DEATH PENALTY",
-      "headline": "Newsom Commutes All 548 California Death Sentences",
-      "dek": "The outgoing governor announced the largest mass clemency in U.S. history; many cases need state Supreme Court approval.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "A blanket commutation overrides jury verdicts and court judgments for people convicted of the state's worst crimes.",
-        "Victims' families were not notified, and prosecutors and victims' advocates had urged individual meetings instead.",
-        "Some prosecutors argue the state constitution does not allow a blanket grant for multiple-felony cases without court review.",
-        "Death sentences remain lawful in California, so an executive act on departure sidesteps voters and the legislature."
-      ],
-      "pole_b_bullets": [
-        "Newsom says state-sanctioned killing is incompatible with California's values.",
-        "California has not executed anyone in about 20 years, so the sentences were not being carried out.",
-        "Advocates cite cost, human error and flaws in the legal system.",
-        "Governors and presidents have commuted death sentences before, including Biden's federal commutations."
-      ],
-      "pole_a_who": "Positions commonly voiced by prosecutors, victims' rights advocates and Republican critics.",
-      "pole_b_who": "Positions commonly voiced by anti-death-penalty groups, faith leaders and criminal-justice reform advocates.",
-      "evidence_left": [
-        "<cite index=\"86-2,86-8\">Newsom announced Thursday that he will commute the sentences of all 548 condemned inmates to life without parole; the group includes 19 women and 529 men (SF Chronicle).</cite>",
-        "<cite index=\"91-6\">The move does not repeal California's death penalty or stop prosecutors from seeking it in future cases (CBS Sacramento).</cite>"
-      ],
-      "evidence_right": [
-        "<cite index=\"91-8\">Some cases need California Supreme Court review because the state constitution requires court approval before clemency for people with more than one felony conviction.</cite>",
-        "<cite index=\"89-10\">The Death Penalty Information Center calls it the largest act of mass clemency in U.S. history (CalMatters).</cite> <cite index=\"89-6\">Victims' rights advocates criticized the decision.</cite>"
-      ],
-      "sources": [
-        {
-          "name": "San Francisco Chronicle",
-          "url": "https://www.sfchronicle.com/politics/article/newsom-death-penalty-california-22512509.php"
-        },
-        {
-          "name": "CBS News Sacramento",
-          "url": "https://www.cbsnews.com/sacramento/news/gavin-newsom-california-death-row-commuted-life-in-prison/"
-        },
-        {
-          "name": "CalMatters",
-          "url": "https://calmatters.org/justice/2026/11/gavin-newsom-death-penalty-commutation/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row"
-        }
-      ],
-      "sources_date": "November 06, 2026",
-      "sources_line": "Sourced from San Francisco Chronicle, CBS News Sacramento, CalMatters, Al Jazeera, November 06, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "WASHINGTON",
-      "headline": "Judge Pauses Trump's Triumphal Arch Hours After Planning Panel Approves It",
-      "dek": "A 14-day restraining order blocks construction while courts weigh challenges from D.C., Virginia and veterans.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "The arch was approved by the federal planning commission after a nine-hour public hearing, so the process was followed.",
-        "Statutory authority exists, and Trump appointee Will Paoletta cited a 1925 congressional authorization for the Arlington Memorial Bridge Commission.",
-        "The White House calls it a landmark for the nation's 250th anniversary and says it honors American history.",
-        "A temporary order issued within hours of approval, say supporters, shows courts being used to stall a lawful project."
-      ],
-      "pole_b_bullets": [
-        "Public Citizen's suit for Vietnam veterans argues Trump lacked required approval from Congress and independent agencies.",
-        "Rep. Jared Huffman said the site would disrupt the link between the Lincoln Memorial and Arlington National Cemetery.",
-        "D.C. and Virginia say construction would clog traffic, impede disaster preparedness and harm the environment.",
-        "Critics note Trump described the structure as a 'Military Complex' housing drones and sniper ammunition."
-      ],
-      "pole_a_who": "Positions commonly voiced by the White House, Trump-appointed commissioners and administration supporters.",
-      "pole_b_who": "Positions commonly voiced by Democratic lawmakers, Public Citizen, D.C. and Virginia officials, and preservation advocates.",
-      "evidence_left": [
-        "<cite index=\"95-6\">The National Capital Planning Commission voted 8-4 to approve the arch after a nine-hour hearing (Al Jazeera).</cite>",
-        "<cite index=\"98-7\">The White House praised the commission's approval and criticized Judge Tanya Chutkan's order (CBS News).</cite>"
-      ],
-      "evidence_right": [
-        "<cite index=\"99-4,99-5\">Chutkan's 14-day temporary restraining order, issued on a suit by D.C. and Virginia, bars construction, excavation, land disturbance, utility installation and road closures (Axios).</cite> Outlets differ on timing: CBS and The Hill say late Thursday, Axios and Al Jazeera say Friday.",
-        "<cite index=\"98-4\">CBS News reports the judge sided for now with Vietnam veterans and the District of Columbia and Virginia, who sued to stop the project.</cite>"
-      ],
-      "sources": [
-        {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
+          "url": "https://www.cbsnews.com/news/october-jobs-report-us-labor-market-2026/"
         },
         {
-          "name": "Axios",
-          "url": "https://www.axios.com/local/washington-dc/2026/11/06/trump-arch-dc-arlington-cemetery-construction-lawsuits"
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/business/economy/us-added-jobs-october-risks-stagnation-rcna607812"
         },
         {
-          "name": "The Hill",
-          "url": "https://thehill.com/homenews/administration/6203354-donald-trump-dc-arch-blocked-after-commission-approval/"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/6/us-judge-halts-construction-of-trumps-triumphal-arch-in-washington-dc"
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/economy/us-jobs-report-october-2026"
         }
       ],
-      "sources_date": "November 06, 2026",
-      "sources_line": "Sourced from CBS News, Axios, The Hill, Al Jazeera, November 06, 2026."
-    },
-    {
-      "category": "sports",
-      "category_label": "SPORTS",
-      "kicker": "NFL",
-      "headline": "Winless Chargers Move McDaniel to the Booth as Firing Calls Grow",
-      "dek": "Los Angeles is 0-7 and hosts Houston Sunday, with Jim Harbaugh still backing his offensive coordinator.",
-      "pole_a_tag": "TAKE",
-      "pole_b_tag": "COUNTER-TAKE",
-      "center_label": "TAKE vs COUNTER-TAKE",
-      "pole_a_label": "Take: stay the course",
-      "pole_b_label": "Counter-take: make a change",
-      "pole_a_bullets": [
-        "Moving McDaniel to the booth is a real adjustment, and Harbaugh cites Kyle Shanahan's success calling plays from the box.",
-        "Justin Herbert says the problem is the offense's execution, not McDaniel: 'It's not Mike's fault.'",
-        "Mid-season coordinator changes rarely fix a roster-level problem, and continuity gives the offense a chance to improve.",
-        "Houston, at 2-5, is a favorable matchup to show the fix works."
-      ],
-      "pole_b_counter_bullets_placeholder": "",
-      "pole_b_bullets": [
-        "The offense ranks near the bottom of the league, and Herbert has 10 interceptions, so the scheme is not working.",
-        "The booth move is called a 'soft benching' by some fans and a sign McDaniel is on thin ice.",
-        "Harbaugh would not explain what he has seen to justify keeping McDaniel after the bye week.",
-        "After the Texans game comes an extended break, a natural point for a change if the offense stalls again."
-      ],
-      "pole_a_who": "Positions commonly voiced by Harbaugh, McDaniel and Herbert.",
-      "pole_b_who": "Positions commonly voiced by NFL analysts, former players and fans calling for a firing.",
-      "evidence_left": [
-        "<cite index=\"134-3\">McDaniel told reporters Thursday he will call plays from the coaches' box Sunday against the visiting Texans (Bleacher Report).</cite> <cite index=\"134-5\">Harbaugh confirmed he would keep calling plays after the 24-9 loss to the Rams.</cite>",
-        "<cite index=\"147-9\">The Chargers are the sixth team since 1966 to start 0-7 after making the playoffs the previous season (ESPN).</cite>"
-      ],
-      "evidence_right": [
-        "<cite index=\"107-2\">Herbert threw two more interceptions against the Rams, taking his season total to 10 (Yahoo Sports).</cite>",
-        "<cite index=\"105-4\">At 0-7, the Chargers are the NFL's only winless team (Pro Football Network).</cite> <cite index=\"136-5,136-7\">Heavy.com reports the offense ranks 28th in total offense and 32nd in scoring.</cite> That ranking comes from a single outlet."
-      ],
-      "sources": [
-        {
-          "name": "Bleacher Report",
-          "url": "https://bleacherreport.com/articles/25529765-mike-mcdaniel-making-chargers-play-calling-change-amid-offensive-struggles-nfl-worst-record"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://www.espn.com/nfl/story/_/id/50355492/chargers-jim-harbaugh-backs-mike-mcdaniel-justin-herbert"
-        },
-        {
-          "name": "NBC Sports",
-          "url": "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-chargers-offense-struggles-mike-mcdaniel-will-move-from-the-sideline-to-the-booth"
-        },
-        {
-          "name": "CBS Sports",
-          "url": "https://cbssports.com/nfl/news/chargers-mike-mcdaniel-calling-play-from-booth-desperation-move"
-        }
-      ],
-      "sources_date": "November 06, 2026",
-      "sources_line": "Sourced from Bleacher Report, ESPN, NBC Sports, CBS Sports, November 06, 2026."
+      "sources_date": "November 07, 2026",
+      "sources_line": "Sourced from CNBC, CBS News, NBC News, Fox Business, November 07, 2026."
     }
   ]
 }
