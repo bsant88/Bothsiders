@@ -1,167 +1,163 @@
 {
-  "date": "November 07, 2026",
+  "date": "November 08, 2026",
   "stories": [
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "WHITE HOUSE SHAKEUP",
-      "headline": "Trump Names Stephen Miller Chief of Staff, Replacing Susie Wiles",
-      "dek": "The change comes days after Republicans lost control of Congress in the midterms.",
+      "kicker": "MIDTERM AFTERMATH",
+      "headline": "Republicans Split Over Why They Lost Congress as Vance Blames Iran War",
+      "dek": "Democrats flipped the House and Senate, and Trump agreed the war hurt the GOP but said he would do it again.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Miller has worked for Trump since 2015 and is trusted to carry out the president's agenda without dilution.",
-        "A Democratic Congress will open investigations, and a combative operator suits that fight. One Trump adviser called Miller a \"wartime adviser.\"",
-        "Immigration, tariffs and spending can be advanced by executive action where Congress is gridlocked, and Miller has helped identify such options.",
-        "Wiles stays in Trump's political operation, so the move reads as a role change rather than a purge."
+        "Iran cannot be allowed a nuclear weapon, so the war was necessary even at a political cost.",
+        "Vance says the loss came from Trump 2024 voters defecting over the war and costs, not from low turnout.",
+        "Vance's fix: end the war, address cost of living, recommit to America First and rethink the Israel relationship.",
+        "Some Republicans say the result reflects voter frustration with Congress's productivity. Others say the party must now choose its direction."
       ],
       "pole_b_bullets": [
-        "The pick shows little has been learned from the midterm losses, according to several congressional Democrats.",
-        "Miller is the architect of the administration's most controversial immigration policies, and elevating him doubles down on them.",
-        "Governing by executive order sidesteps the new Democratic majority and the oversight voters just chose.",
-        "Even some Republicans object. Sen. Thom Tillis called Miller \"the worst of all possible choices.\""
+        "The results are a rebuke of Trump, whose endorsed candidates lost across the country.",
+        "Jeffries says voters want transformational change and affordability, and vows to focus on both.",
+        "Democrats say they will use congressional power to pressure the White House to end the Iran war.",
+        "Senate Democrats have sent document-preservation letters ahead of expected investigations of the administration."
       ],
-      "pole_a_who": "Positions commonly voiced by Trump allies and conservative commentators, including Trump advisers and Fox News analysts.",
-      "pole_b_who": "Positions commonly voiced by congressional Democrats and other critics, including GOP Sen. Thom Tillis.",
+      "pole_a_who": "Positions voiced by Trump, Vance, DeSantis and other Republican figures.",
+      "pole_b_who": "Positions voiced by Hakeem Jeffries, Sen. Mark Kelly and other congressional Democrats.",
       "evidence_left": [
-        "Trump announced the change on Truth Social on Nov. 6. Miller, currently deputy chief of staff, starts Monday, Nov. 9, and Wiles moves to the Trump Political Operation (Axios, The Hill).",
-        "A White House official said Wiles resigned Thursday night (The Hill). Axios reported she had offered to quit for two days before that."
+        "Democrats won both chambers on Nov. 3, per AP calls. Republicans had held the Senate 53-45 plus two independents caucusing with Democrats (IE University summary of AP calls).",
+        "CNN projected Democrats above 250 House seats and at least 30 ousted Republican incumbents as of Nov. 5."
       ],
       "evidence_right": [
-        "AP counts show Democrats holding 54 Senate seats to 44 for Republicans and 254 House seats to 162, with 19 House races uncalled (Yahoo News midterms live blog).",
-        "Fox News reports Miller and Russ Vought have been identifying executive actions on immigration, tariffs and spending. The report says \"reportedly\" and was not independently confirmed in other outlets reviewed."
+        "Vance posted on Nov. 4 that the reason Republicans lost was the war. Trump called the comment largely true, per ABC News.",
+        "Trump said the war was worth it and that he would do it again, per ABC News and The Washington Post."
       ],
       "sources": [
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/11/06/susie-wiles-trump-stephen-miller-chief-of-staff"
-        },
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/homenews/administration/6204745-susie-wiles-out-stephen-miller-in-as-trumps-chief-of-staff/"
-        },
         {
           "name": "ABC News",
-          "url": "https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244"
+          "url": "https://abcnews.com/Politics/vance-blames-iran-war-republicans-midterms-defeat-trump/story?id=137849295"
         },
         {
-          "name": "Fox News",
-          "url": "https://www.foxnews.com/politics/trumps-move-wiles-miller-signals-major-tactical-shift-governing-without-congress"
-        }
-      ],
-      "sources_date": "November 07, 2026",
-      "sources_line": "Sourced from Axios, The Hill, ABC News, Fox News, November 07, 2026."
-    },
-    {
-      "category": "tech",
-      "category_label": "TECH",
-      "kicker": "AI & THE MIDTERMS",
-      "headline": "AI Stocks Rebound After Midterm-Driven Selloff Pushed Nasdaq Into Correction",
-      "dek": "Investors are weighing whether a Democratic Congress will tighten AI and data center rules.",
-      "pole_a_tag": "INNOVATION",
-      "pole_b_tag": "OVERSIGHT",
-      "center_label": "INNOVATION vs OVERSIGHT",
-      "pole_a_label": "Innovation view",
-      "pole_b_label": "Oversight view",
-      "pole_a_bullets": [
-        "Trillions in lost market value show how much US growth now rests on AI investment, and new restrictions put that at risk.",
-        "AI-related construction and manufacturing jobs appear in the October jobs data, so curbs on data centers would cost real jobs.",
-        "A patchwork of state data center conditions would slow the build-out and favor competitors abroad.",
-        "Rules should come from one national framework rather than a rush of new restrictions, a stance the administration has taken."
-      ],
-      "pole_b_bullets": [
-        "Voters in many communities backed Democrats who vowed to push back on data centers over electricity costs and water use.",
-        "Warnings that AI could escape human control justify enforceable safety standards and testing, as in Sen. Maria Cantwell's framework.",
-        "Investors already worried about a bubble, so the selloff may reflect stretched valuations more than regulation.",
-        "Industry benefits should be broadly shared, and rules can protect residents while still allowing responsible investment."
-      ],
-      "pole_a_who": "Positions commonly voiced by AI industry executives, investors and Trump administration officials.",
-      "pole_b_who": "Positions commonly voiced by Democratic lawmakers such as Sen. Maria Cantwell, data center opponents and AI safety advocates.",
-      "evidence_left": [
-        "On Thursday, Nov. 5, the Nasdaq fell 5.52% to 24,315.00, a correction of more than 10% from its October record. The Dow lost 1,833.06 points and the S&P 500 fell 4.36% (CNBC).",
-        "On Friday, Nov. 6, the Nasdaq rose 1.1%, the S&P 500 rose 0.3% and the Dow fell 0.46%. All three posted weekly losses, and Japan's Nikkei and South Korea's KOSPI each fell about 6% (Reuters via Yahoo Finance)."
-      ],
-      "evidence_right": [
-        "Capital Economics' Joe Maher said the trigger appeared to be concern that Democrats in Congress and the states would regulate AI and restrict data centers (CBS News). NPR put the rout at about $2 trillion.",
-        "Cantwell is set to retake the Senate Commerce chair when the new term begins (PC World). Several lawmakers have urged Democrats to pass AI safety and data center bills once they take over in January (NBC affiliate report)."
-      ],
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress"
         },
         {
-          "name": "Reuters via Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-drop-ai-rout-235808955.html"
+          "name": "The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/11/04/republicans-wake-up-new-reality-brace-new-washington/"
         },
         {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
+          "url": "https://www.cbsnews.com/news/leading-dem-on-midterms-aftermath-were-still-in-the-fight-of-our-lives/"
         }
       ],
-      "sources_date": "November 07, 2026",
-      "sources_line": "Sourced from CNBC, Reuters via Yahoo Finance, CBS News, NPR, November 07, 2026."
+      "sources_date": "November 08, 2026",
+      "sources_line": "Sourced from ABC News, CNN, The Washington Post, CBS News, November 08, 2026."
     },
     {
       "category": "economy",
       "category_label": "ECONOMY",
-      "kicker": "OCTOBER JOBS",
-      "headline": "US Adds 165,000 Jobs in October as Unemployment Falls to 4.1%",
-      "dek": "Hiring beat forecasts, but wages trail inflation and long-term joblessness is up.",
+      "kicker": "JOBS & THE FED",
+      "headline": "Hot October Jobs Report Revives December Fed Rate-Hike Bets",
+      "dek": "Payrolls rose 165,000 against much lower forecasts, as traders weigh the Fed's inflation fight against a tech selloff.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "Payrolls of 165,000 were far above forecasts, a strong rebuttal to fears of a meaningful slowdown, per Principal's Seema Shah.",
-        "The labor force grew by 421,000 after shrinking, and the household survey showed 463,000 more people working.",
-        "Manufacturing added 19,000 jobs, and the sector has added more than 100,000 since its December 2025 low.",
-        "Revisions were positive and unemployment fell, which supports a resilient consumer."
+        "The report shows a labor market with momentum, and Fitch's Olu Sonola points to solid GDP and consumer spending too.",
+        "Three-month average job growth of 137,000 is far above the prior 12-month pace, which points to a strong underlying economy.",
+        "Strong hiring gives the Fed room to focus on inflation without worrying about weak employment, so recession fears recede.",
+        "Stocks and Treasuries reacted only mildly, and the S&P 500 and Nasdaq rebounded after Thursday's selloff."
       ],
       "pole_b_bullets": [
-        "Average hourly earnings rose 3.1% from a year earlier, below inflation. Heather Long noted inflation has erased wage gains for seven straight months.",
-        "Long-term unemployed workers made up 27.6% of the jobless, and their rising share can keep jobless claims low while hiding distress.",
-        "Low turnover signals a stagnant market, per KPMG's Diane Swonk, and some gains came from AI-related construction.",
-        "A strong report strengthens the case for a Fed rate hike in December, which could slow the economy."
+        "A strong labor market makes rate cuts unlikely, and a further hike is now the base case.",
+        "Higher rates cut the present value of future earnings, which hits tech-heavy indexes already in correction.",
+        "Inflation has run above target for over five years, and September CPI rose to 3.7%.",
+        "Economists warn that high rates could do more damage to housing, consumers and the weaker side of a K-shaped economy."
       ],
-      "pole_a_who": "Positions commonly voiced by market strategists, White House officials and growth-oriented economists.",
-      "pole_b_who": "Positions commonly voiced by labor economists and inflation-focused analysts.",
+      "pole_a_who": "Positions commonly voiced by economists and analysts such as Fitch's Olu Sonola.",
+      "pole_b_who": "Positions commonly voiced by rate-focused strategists and analysts of the AI-stock repricing.",
       "evidence_left": [
-        "The Bureau of Labor Statistics reported 165,000 jobs added in October. Forecasts differed: 59,000 (Dow Jones consensus, CNBC) and 65,000 (FactSet, CBS News).",
-        "The unemployment rate fell to 4.1% from 4.2%. Manufacturing added 19,000 jobs and private payrolls rose 159,000 (Fox Business)."
+        "BLS data show 165,000 jobs added in October, with unemployment at 4.1% and wages up 0.4%. August and September were revised up by 84,000 combined (Schwab, Yahoo Finance).",
+        "Forecasts differ by outlet: Schwab cited consensus of 65,000, Yahoo Finance 70,000, and Innovative Asset Advisors 59,000."
       ],
       "evidence_right": [
-        "Wages grew 3.1% year over year (NBC News). ABC15 cited expected inflation of 3.7%.",
-        "Long-term unemployed workers were 27.6% of all unemployed (CBS News, CNBC). CBS reported economists see the data supporting a December rate hike. Morningstar had already described a quarter-point hike as widely expected."
+        "Reuters reported about 78% market odds of a quarter-point hike at the Dec. 8-9 meeting. Schwab cited about 73% from CME FedWatch.",
+        "Annual CPI rose from 3.4% to 3.7% in September (The Hill). October CPI is due Nov. 10, per 24/7 Wall St."
       ],
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+          "name": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/traders-raise-bets-fed-rate-134402668.html"
         },
         {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/october-jobs-report-us-labor-market-2026/"
+          "name": "Charles Schwab",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://thehill.com/business/6173475-warsh-fed-rate-hike-inflation/"
+        }
+      ],
+      "sources_date": "November 08, 2026",
+      "sources_line": "Sourced from Reuters via Yahoo Finance, Charles Schwab, The Hill, November 08, 2026."
+    },
+    {
+      "category": "tech",
+      "category_label": "TECH",
+      "kicker": "AI & MIDTERMS",
+      "headline": "AI Stocks Plunge as Democrats' Win Raises Odds of Tougher AI Rules",
+      "dek": "The Nasdaq fell into correction Thursday amid fears of a slower AI buildout, then partly rebounded Friday.",
+      "pole_a_tag": "INNOVATION",
+      "pole_b_tag": "OVERSIGHT",
+      "center_label": "INNOVATION vs OVERSIGHT",
+      "pole_a_label": "Innovation view",
+      "pole_b_label": "Oversight view",
+      "pole_a_bullets": [
+        "Investors read the election as making the AI buildout slower and more expensive, which reprices growth across the supply chain.",
+        "The Trump administration has argued against AI-specific regulation and for deregulation to favor industry growth.",
+        "Truist's Keith Lerner called the selloff more of a knee-jerk reaction than a real signal about tech under Democratic control.",
+        "Congress has not agreed on a bipartisan AI bill, and rushed federal mandates could slow a capital-intensive buildout."
+      ],
+      "pole_b_bullets": [
+        "Sen. Maria Cantwell's framework calls for enforceable federal safety standards and continuous testing of frontier AI models.",
+        "Her framework also calls for audits of AI developers and protections for children and workers.",
+        "Bill Gates has said self-regulation is not enough and that governments should be involved in monitoring.",
+        "Democrats say data-center effects on electricity costs and water use were a campaign issue. Newly elected officials have promised conditions on construction."
+      ],
+      "pole_a_who": "Positions commonly voiced by the Trump administration, Wall Street analysts and AI-industry investors.",
+      "pole_b_who": "Positions commonly voiced by Sen. Maria Cantwell, congressional Democrats and AI-safety advocates.",
+      "evidence_left": [
+        "The Nasdaq Composite fell 5.52% on Nov. 5 and closed in correction. The S&P 500 fell 4.4% and the Dow fell 1,833 points (CNN, AP, CNBC).",
+        "Reports differ on the cause: CNN, CNBC and Fox Business cite fears of slower AI buildout after the midterms. NBC News says Qualcomm and Arm earnings triggered it."
+      ],
+      "evidence_right": [
+        "Cantwell released a six-point AI framework on Oct. 7 with no legislative text, per Roll Call. She is expected to retake the Senate Commerce chair (PCWorld).",
+        "Some lawmakers want Democrats to pass AI safety and data-center bills in January, but the legislative path is unclear (WJLA)."
+      ],
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges"
         },
         {
           "name": "NBC News",
-          "url": "https://www.nbcnews.com/business/economy/us-added-jobs-october-risks-stagnation-rcna607812"
+          "url": "https://www.nbcnews.com/business/markets/tech-stocks-plunge-ai-midterms-rcna607650"
         },
         {
-          "name": "Fox Business",
-          "url": "https://www.foxbusiness.com/economy/us-jobs-report-october-2026"
+          "name": "Roll Call",
+          "url": "https://rollcall.com/2026/10/07/sen-maria-cantwell-looks-to-federal-testing-role-in-ai-safety-framework/"
+        },
+        {
+          "name": "WJLA",
+          "url": "https://wjla.com/news/connect-to-congress/ai-industry-faces-new-political-reality-after-democratic-gains-in-midterms-data-centers-moratorium-regulations"
         }
       ],
-      "sources_date": "November 07, 2026",
-      "sources_line": "Sourced from CNBC, CBS News, NBC News, Fox Business, November 07, 2026."
+      "sources_date": "November 08, 2026",
+      "sources_line": "Sourced from CNN, NBC News, Roll Call, WJLA, November 08, 2026."
     }
   ]
 }
