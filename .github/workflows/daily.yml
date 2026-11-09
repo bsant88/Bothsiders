@@ -1,34 +1,36 @@
 name: Generate daily Bothsiders issue
-
+ 
 on:
   schedule:
-    # GitHub cron runs in UTC and ignores daylight saving, so two triggers
-    # cover the whole year. The "Decide whether to run" step lets through
-    # only the one that lands at 5 AM Pacific (8 AM Eastern):
-    #   12:03 UTC = 5:03 AM PDT (summer)   13:03 UTC = 5:03 AM PST (winter)
-    - cron: "3 12 * * *"
-    - cron: "3 13 * * *"
+    # GitHub's scheduler often starts jobs well after the requested time, so
+    # the job starts around 4:17 AM Pacific, and the email is scheduled with
+    # Buttondown for exactly 5:00 AM Pacific (8:00 AM Eastern).
+    # Cron is UTC and ignores daylight saving, so two triggers cover the year:
+    #   11:17 UTC = 4:17 AM PDT (summer)   12:17 UTC = 4:17 AM PST (winter)
+    # The "Decide whether to run" step lets through only the right one.
+    - cron: "17 11 * * *"
+    - cron: "17 12 * * *"
   workflow_dispatch:        # adds a "Run workflow" button in the Actions tab
     inputs:
       send_email:
         description: "Also email this issue to subscribers? (leave off for tests)"
         type: boolean
         default: false
-
+ 
 permissions:
   contents: write           # lets the job commit the new pages back to the repo
-
+ 
 concurrency:
   group: daily-issue
   cancel-in-progress: false
-
+ 
 jobs:
   publish:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
-
+ 
       - name: Decide whether to run
         id: gate
         run: |
@@ -37,8 +39,8 @@ jobs:
           echo "Pacific date: $TODAY, hour: $HOUR"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
-          elif [ "$HOUR" -lt 5 ]; then
-            echo "Before 5 AM Pacific - the other schedule will handle it."
+          elif [ "$HOUR" -lt 4 ]; then
+            echo "Before 4 AM Pacific - the other schedule will handle it."
             echo "run=false" >> "$GITHUB_OUTPUT"
           elif [ -f "issues/$TODAY.html" ]; then
             echo "Today's issue is already published."
@@ -46,17 +48,17 @@ jobs:
           else
             echo "run=true" >> "$GITHUB_OUTPUT"
           fi
-
+ 
       - uses: actions/setup-python@v5
         if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
           cache: pip
-
+ 
       - name: Install requirements
         if: steps.gate.outputs.run == 'true'
         run: pip install -r requirements.txt
-
+ 
       # If this step or the next fails, the job stops here: nothing is
       # published and nothing is emailed. The site keeps showing the last
       # good issue, and GitHub marks the run as failed.
@@ -65,11 +67,11 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python generate_content.py
-
+ 
       - name: Build site pages
         if: steps.gate.outputs.run == 'true'
         run: python render.py
-
+ 
       - name: Commit and push (this triggers GitHub Pages to redeploy)
         if: steps.gate.outputs.run == 'true'
         run: |
@@ -79,13 +81,13 @@ jobs:
           git diff --cached --quiet || git commit -m "Daily issue $(TZ=America/Los_Angeles date +%F)"
           git pull --rebase
           git push
-
+ 
       - name: Send email to subscribers
         if: steps.gate.outputs.run == 'true' && (github.event_name == 'schedule' || inputs.send_email)
         env:
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
         run: python send_email.py
-
+ 
       - name: Record that the email went out
         if: steps.gate.outputs.run == 'true' && (github.event_name == 'schedule' || inputs.send_email)
         run: |
