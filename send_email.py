@@ -1,44 +1,51 @@
 """
 send_email.py
-
+ 
 Takes content.json (the same file render.py consumes) and sends today's
 issue to every Buttondown subscriber automatically, branded to match the
 site: logo, brand colors, and the same category badges.
-
+ 
 Why this is hand-built HTML with inline styles, not the site's actual
 CSS: email clients (Outlook especially) don't support flexbox, grid, CSS
 variables, or <style> blocks reliably. Every style here is applied inline,
 directly on each element, which is the one approach that survives across
 Gmail, Apple Mail, Outlook, and the rest. It's more verbose than the
 website's CSS, but it's what actually renders consistently in an inbox.
-
+ 
 The logo is a hosted <img> pointing at the live site's own asset file
 (SITE_BASE_URL + /assets/...) rather than an embedded/base64 image —
 inline images are stripped or blocked by most mail clients, but a normal
 hosted image loads like any other web image.
-
+ 
 Requires:
     pip install requests
     export BUTTONDOWN_API_KEY=...
-
+ 
 Run this AFTER render.py in the same job, so content.json still reflects
 today's issue and the linked issue page — and the logo files — already
 exist on the live site.
 """
-
+ 
 import json
 import os
 import sys
-from datetime import datetime
-
+from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
+ 
 import requests
-
+ 
 from config import SITE_BASE_URL
 from sources import sources_html
-
+ 
 CONTENT_PATH = "content.json"
 BUTTONDOWN_API_URL = "https://api.buttondown.email/v1/emails"
-
+ 
+# The email is handed to Buttondown ahead of time and scheduled for this
+# local time, so it lands at the same moment even if GitHub starts the job
+# late. If that time has already passed, it is sent right away instead.
+SEND_TIMEZONE = "America/Los_Angeles"
+SEND_HOUR = 5   # 5:00 AM Pacific = 8:00 AM Eastern
+ 
 # Same palette as assets/style.css — badge color, then the two poles.
 CATEGORY_COLORS = {
     "politics": {"badge": "#E4241A", "a": "#E4241A", "b": "#0A84C7"},
@@ -55,15 +62,15 @@ LINE = "#E7E7EA"
 EVD = "#3F7A4C"
 EVD_TINT = "#EFF6F0"
 EVD_TINT_LINE = "#CFE6D3"
-
-
+ 
+ 
 def bullets_html(items) -> str:
     lis = "".join(
         f'<li style="margin-bottom:8px;">{b}</li>' for b in items
     )
     return f'<ul style="margin:0;padding-left:20px;font-size:14px;line-height:1.6;color:{INK};">{lis}</ul>'
-
-
+ 
+ 
 def viewpoint_block(color: str, label: str, bullets: list, who: str) -> str:
     return f"""
 <div style="border-left:4px solid {color};background:#F7F7F8;border-radius:0 8px 8px 0;padding:16px 20px;margin-bottom:12px;">
@@ -71,41 +78,41 @@ def viewpoint_block(color: str, label: str, bullets: list, who: str) -> str:
   {bullets_html(bullets)}
   <p style="margin:12px 0 0;font-size:12px;color:{INK_SOFT};font-style:italic;">{who}</p>
 </div>"""
-
-
+ 
+ 
 def story_html(story: dict, idx: int) -> str:
     colors = CATEGORY_COLORS.get(story.get("category", "general"), CATEGORY_COLORS["general"])
     category_label = story.get("category_label", story.get("category", "").upper())
-
+ 
     evidence_items = story["evidence_left"] + story["evidence_right"]
     evidence_lis = "".join(
         f'<li style="margin-bottom:8px;">{b}</li>' for b in evidence_items
     )
-
+ 
     return f"""
 <div id="story-{idx}" style="margin-bottom:14px;">
   <span style="display:inline-block;background:{colors['badge']};color:#ffffff;font-size:11px;font-weight:700;letter-spacing:0.05em;padding:4px 10px;border-radius:4px;">{category_label}</span>
 </div>
 <h2 style="font-size:20px;font-weight:800;line-height:1.3;margin:0 0 10px;color:{INK};">{idx}. {story['headline']}</h2>
 <p style="font-size:14.5px;line-height:1.6;color:{INK_SOFT};margin:0 0 20px;">{story['dek']}</p>
-
+ 
 {viewpoint_block(colors['a'], story['pole_a_label'], story['pole_a_bullets'], story['pole_a_who'])}
 {viewpoint_block(colors['b'], story['pole_b_label'], story['pole_b_bullets'], story['pole_b_who'])}
-
+ 
 <div style="background:{EVD_TINT};border:1px solid {EVD_TINT_LINE};border-radius:8px;padding:16px 20px;margin-top:4px;">
   <p style="margin:0 0 10px;font-weight:700;font-size:12px;color:{EVD};text-transform:uppercase;letter-spacing:0.04em;">What's documented</p>
   <ul style="margin:0;padding-left:20px;font-size:14px;line-height:1.6;color:{INK};">{evidence_lis}</ul>
   <p style="margin:12px 0 0;font-size:12px;color:{INK_SOFT};">{sources_html(story, "color:#63666E;text-decoration:underline;")}</p>
 </div>
-
+ 
 <p style="text-align:center;margin:16px 0 0;">
   <a href="#coverage" style="font-size:12.5px;font-weight:600;color:{INK_SOFT};text-decoration:none;">&uarr; Back to headlines</a>
 </p>
-
+ 
 <hr style="border:none;border-top:1px solid {LINE};margin:36px 0;">
 """
-
-
+ 
+ 
 def coverage_html(stories: list) -> str:
     rows = []
     for i, s in enumerate(stories):
@@ -128,22 +135,22 @@ def coverage_html(stories: list) -> str:
   {rows_html}
 </table>
 """
-
-
+ 
+ 
 def build_email_html(content: dict) -> str:
     date_iso = datetime.strptime(content["date"], "%B %d, %Y").strftime("%Y-%m-%d")
     issue_url = f"{SITE_BASE_URL}/issues/{date_iso}.html"
     library_url = f"{SITE_BASE_URL}/past-issues.html"
     logo_url = f"{SITE_BASE_URL}/assets/logo-full.png"
     mark_url = f"{SITE_BASE_URL}/assets/logo-mark.png"
-
+ 
     stories_html = "\n".join(
         story_html(s, i + 1) for i, s in enumerate(content["stories"])
     )
-
+ 
     return f"""
 <div style="max-width:600px;margin:0 auto;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
-
+ 
   <div style="text-align:center;padding:20px 0 10px;">
     <img src="{logo_url}" width="300" alt="Bothsiders" style="display:block;margin:0 auto;width:300px;max-width:80%;height:auto;border:0;">
   </div>
@@ -165,13 +172,13 @@ def build_email_html(content: dict) -> str:
   <p style="text-align:center;margin:0 0 22px;">
     <a href="{issue_url}" style="font-size:13px;font-weight:600;color:#0A84C7;text-decoration:none;">Read this issue on the web &rarr;</a>
   </p>
-
+ 
   {coverage_html(content['stories'])}
-
+ 
   <div style="border-top:4px solid {BRAND_NAVY};margin-bottom:32px;"></div>
-
+ 
   {stories_html}
-
+ 
   <div style="text-align:center;padding:12px 0 6px;">
     <img src="{mark_url}" width="30" alt="" style="display:block;margin:0 auto 12px;border:0;">
     <p style="font-size:12px;color:#999999;margin:0 0 6px;">Bothsiders &mdash; Explore. Compare. Decide.</p>
@@ -179,19 +186,19 @@ def build_email_html(content: dict) -> str:
       <a href="{library_url}" style="color:#0A84C7;text-decoration:none;">Browse past issues</a>
     </p>
   </div>
-
+ 
 </div>
 """
-
-
+ 
+ 
 def main():
     api_key = os.environ.get("BUTTONDOWN_API_KEY")
     if not api_key:
         sys.exit("BUTTONDOWN_API_KEY is not set")
-
+ 
     with open(CONTENT_PATH, "r", encoding="utf-8") as f:
         content = json.load(f)
-
+ 
     # Once-per-day guard: a marker file records that this date's issue was
     # emailed, so re-running the job can never email subscribers twice.
     date_iso = datetime.strptime(content["date"], "%B %d, %Y").strftime("%Y-%m-%d")
@@ -199,37 +206,42 @@ def main():
     if os.path.exists(marker):
         print(f"Already emailed the {date_iso} issue. Skipping.")
         return
-
+ 
     subject = f"Bothsiders — {content['date']}"
     body = build_email_html(content)
-
+ 
+    send_at = datetime.strptime(date_iso, "%Y-%m-%d").replace(
+        hour=SEND_HOUR, tzinfo=ZoneInfo(SEND_TIMEZONE)
+    )
+    payload = {"subject": subject, "body": body}
+    if send_at > datetime.now(timezone.utc) + timedelta(minutes=3):
+        payload["status"] = "scheduled"
+        payload["publish_date"] = send_at.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        print(f"Scheduling for {send_at.isoformat()}")
+    else:
+        payload["status"] = "about_to_send"   # sends immediately
+        print("Send time already passed; sending now.")
+ 
     response = requests.post(
         BUTTONDOWN_API_URL,
         headers={
             "Authorization": f"Token {api_key}",
             # Buttondown's safety check: required to send for real (not as a
-            # draft). Remove this line and set status to "draft" to test
-            # without emailing anyone.
+            # draft). Needed for real sends and scheduled sends.
             "X-Buttondown-Live-Dangerously": "true",
         },
-        json={
-            "subject": subject,
-            "body": body,
-            "status": "about_to_send",  # sends immediately to all subscribers;
-                                         # use "draft" while testing so nothing
-                                         # actually goes out yet
-        },
+        json=payload,
         timeout=30,
     )
-
+ 
     if response.status_code >= 300:
         sys.exit(f"Buttondown API error {response.status_code}: {response.text}")
-
+ 
     os.makedirs("sent", exist_ok=True)
     with open(marker, "w", encoding="utf-8") as f:
         f.write(f"{response.json().get('id')}\n")
     print(f"Sent '{subject}' — Buttondown email id: {response.json().get('id')}")
-
-
+ 
+ 
 if __name__ == "__main__":
     main()
