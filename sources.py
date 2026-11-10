@@ -9,6 +9,7 @@ Falls back to the plain-text `sources_line` if a story has no source links.
 """
 
 import html
+import re
 
 
 def _join(links):
@@ -34,3 +35,19 @@ def sources_html(story: dict, link_style: str = "") -> str:
     date = str(story.get("sources_date", "")).strip()
     tail = f", {html.escape(date, quote=False)}." if date else "."
     return "Sourced from " + _join(links) + tail
+
+
+_CITE_TAG = re.compile(r"</?cite\b[^>]*>", re.IGNORECASE)
+
+
+def strip_citations(obj):
+    """Remove the <cite ...> / </cite> markup that web search can leave inside
+    the model's text, in any string nested in lists or dicts. The words inside
+    the tags are kept."""
+    if isinstance(obj, str):
+        return _CITE_TAG.sub("", obj).replace("  ", " ").strip()
+    if isinstance(obj, list):
+        return [strip_citations(x) for x in obj]
+    if isinstance(obj, dict):
+        return {k: (v if k == "sources" else strip_citations(v)) for k, v in obj.items()}
+    return obj
