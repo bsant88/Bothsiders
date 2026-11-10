@@ -19,7 +19,7 @@ import os
 from datetime import datetime
 
 from config import BUTTONDOWN_USERNAME
-from sources import sources_html
+from sources import sources_html, strip_citations
 
 CONTENT_PATH = "content.json"
 MANIFEST_PATH = "manifest.json"
@@ -226,7 +226,7 @@ def render_library(manifest: list) -> str:
 
 def main():
     with open(CONTENT_PATH, "r", encoding="utf-8") as f:
-        content = json.load(f)
+        content = strip_citations(json.load(f))
 
     # content.json's date is a display string (e.g. "September 25, 2026");
     # derive the ISO date for filenames from it.
