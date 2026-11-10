@@ -25,6 +25,8 @@ from zoneinfo import ZoneInfo
 
 import anthropic
 
+from sources import strip_citations
+
 MODEL = "claude-sonnet-5-5"
 TIMEZONE = "America/Los_Angeles"   # change to your preferred timezone
 
@@ -101,6 +103,8 @@ EDITORIAL RULES (follow every one):
   names — no adjectives that favor either side.
 - Do not state a fact you did not see in your search results. If you could not
   confirm something, leave it out.
+- Plain text only inside every field: no HTML or XML tags, no <cite> tags,
+  no citation markers, no markdown. Links belong only in "sources".
 - "sources": 2-4 outlets or primary documents actually used for that story.
   Each "url" must be the exact URL of a page that appeared in your search
   results. Never write a URL from memory.
@@ -214,7 +218,7 @@ def clean_story(raw, seen: dict, date_str: str):
     """Return a validated, normalized story dict, or (None, reason)."""
     if not isinstance(raw, dict):
         return None, "not an object"
-    s = dict(raw)
+    s = strip_citations(dict(raw))
 
     category = s.get("category")
     if category not in CATEGORY_POLES:
