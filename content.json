@@ -1,317 +1,321 @@
 {
-  "date": "November 10, 2026",
+  "date": "November 11, 2026",
   "stories": [
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "CONGRESS",
-      "headline": "House Faces Vote on Impeaching Hegseth Over Iran War",
-      "dek": "Rep. Thomas Massie forced a floor vote on eight articles against the Defense Secretary, with a motion to table expected first.",
+      "kicker": "HEGSETH IMPEACHMENT",
+      "headline": "House Shelves Hegseth Impeachment Push on 211-204 Vote",
+      "dek": "A procedural vote sent Rep. Thomas Massie's articles to committee, with 11 Democrats absent.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Impeachment is meant for misconduct, not for disagreement over a war the commander in chief ordered.",
-        "Hegseth calls the effort a farce and a stunt aimed at hurting President Trump.",
-        "Massie is the lone Republican seeking removal, and defenders say Hegseth has been effective.",
-        "A lame-duck session already faces a government funding deadline and judicial confirmations. Leaders call the push a distraction."
+        "Policy disputes over a war are not high crimes or misdemeanors, and impeachment should be reserved for real misconduct.",
+        "Many Republicans, including some who have clashed with Hegseth, say his conduct does not meet the impeachment bar.",
+        "The effort was a political spectacle, in Hegseth's words, and referring it to committee is ordinary House procedure.",
+        "Supporters point to military recruitment numbers and operations in Venezuela and Iran as evidence the department is succeeding."
       ],
       "pole_b_bullets": [
-        "The Iran war was waged without a declaration of war or statutory authorization, and war powers belong to Congress.",
-        "Minority Leader Jeffries is a hard yes and calls Hegseth the architect of a reckless, failed war.",
-        "The articles also cite the seizure of Venezuela's president and killings of alleged drug smugglers, which they present as a pattern of abuse.",
-        "Voters just handed Republicans a wipeout, and many in the GOP blame the war. Supporters say accountability should not wait."
+        "The articles describe serious abuses: starting a war without congressional approval, ignoring civilian-casualty rules, and ordering extrajudicial boat strikes.",
+        "Congress has a duty to check a defense secretary accused of these acts, and a procedural burial avoids that duty.",
+        "Democrats say the vote was lost through absences and should not have been close. Rep. Sydney Kamlager-Dove called the absences shameful.",
+        "Democrats note they take control of both chambers in January, so the issue can return."
       ],
-      "pole_a_who": "Positions commonly voiced by Hegseth, Speaker Mike Johnson and House GOP leaders.",
-      "pole_b_who": "Positions commonly voiced by House Democratic leaders, Rep. Massie and war-powers advocates.",
+      "pole_a_who": "Positions voiced by Hegseth, President Trump, Vice President Vance and House GOP leaders.",
+      "pole_b_who": "Positions voiced by House Democrats, Rep. Massie and progressive critics of the Iran war.",
       "evidence_left": [
-        "<cite index=\"104-1,104-3\">Massie reintroduced articles of impeachment on Monday. They include eight charges, largely related to the Iran war.</cite> <cite index=\"104-6,104-7\">Because the measure is privileged, GOP leaders must schedule a vote within two legislative days. A simple majority is needed to approve the articles.</cite>",
-        "<cite index=\"105-3\">CBS News reported the House is expected to take up the resolution Tuesday evening, likely after a procedural vote to table it.</cite> The outcome was not known at the time of writing."
+        "The House voted 211-204 on Tuesday to refer the resolution to the Judiciary Committee, effectively killing it for the current Congress (CBS News, ABC News).",
+        "Rep. Massie was the only Republican to vote with all Democrats. Seven Republicans and 11 Democrats did not vote (CBS News)."
       ],
       "evidence_right": [
-        "<cite index=\"12-3\">Hegseth called the effort a farce and a stunt at a Pentagon news conference Tuesday morning.</cite>",
-        "<cite index=\"102-1\">The Hill reports that, despite some GOP criticism of Hegseth, Massie has been the lone Republican calling for his removal.</cite> <cite index=\"105-7\">Jeffries said Monday he is a hard yes.</cite>"
+        "The vote was procedural. It decided whether to send the articles to committee, not whether Hegseth should be impeached (Newsweek, ABC News).",
+        "Democrats who missed the vote included Nancy Pelosi, Julia Brownley and Frederica Wilson. Lou Correa disclosed a medical procedure (The Hill via Yahoo)."
       ],
       "sources": [
         {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/hegseth-pentagon-briefing-impeachment-iran-war/"
+          "url": "https://www.cbsnews.com/news/massie-hegseth-impeachment/"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466"
+        },
+        {
+          "name": "Newsweek",
+          "url": "https://www.newsweek.com/democrats-face-backlash-for-missing-hegseth-impeachment-vote-do-your-job-12698143"
         },
         {
           "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/trump-administration/thomas-massie-pete-hegseth-impeachment-house-defense-rcna597989"
-        },
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/homenews/house/6208854-massie-escalates-hegseth-impeachment/"
+          "url": "https://www.nbcnews.com/politics/congress/republican-led-house-rejects-hegseth-impeachment-effort-rcna608534"
         }
       ],
-      "sources_date": "November 10, 2026",
-      "sources_line": "Sourced from CBS News, NBC News, The Hill, November 10, 2026."
+      "sources_date": "November 11, 2026",
+      "sources_line": "Sourced from CBS News, ABC News, Newsweek, NBC News, November 11, 2026."
     },
     {
       "category": "economy",
       "category_label": "ECONOMY",
       "kicker": "INFLATION & THE FED",
-      "headline": "Hot October CPI Puts Half-Point Fed Hike on the Table",
-      "dek": "Core prices rose 0.3% against a 0.2% forecast, and stocks fell a day after their best session since April.",
+      "headline": "Hot October CPI Puts a December Fed Rate Hike in Focus",
+      "dek": "Consumer prices rose 0.4% as officials weigh a quarter-point or half-point move, and stocks rebounded Wednesday.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "Headline CPI slowed to 0.4% from 0.6% in September as the gasoline surge faded.",
-        "October payrolls rose 165,000 against a 65,000 forecast, and unemployment fell to 4.1%. The Fed can tighten without breaking the labor market.",
-        "Brent crude dropped below $90, which should ease energy-driven inflation.",
-        "Monday's rally showed dip-buyers are still willing to back AI and tech stocks. A quarter-point hike is already priced in."
+        "One hot report does not settle the case for a half-point hike. One strategist called it a warning shot.",
+        "Falling gasoline prices gave consumers some relief in October.",
+        "Stocks bounced Wednesday, and the S&P 500 sat only about 4% below its record high after Tuesday's drop.",
+        "Markets are pricing in the hikes and the Fed is responding, which supports the case that inflation can be brought down."
       ],
       "pole_b_bullets": [
-        "Core CPI has risen 0.3% for three straight months, so inflation is broadening beyond energy.",
-        "Waller says a 25-point hike alone would risk the Fed's credibility, and a 50-point move is now live.",
-        "Inflation is wiping out wage gains, and midterm voters already punished incumbents over prices.",
-        "Two-year yields jumped and stocks reversed, a sign that more tightening is hitting valuations."
+        "Core CPI rose 0.3% for a third straight month, roughly double the pace consistent with 2% inflation.",
+        "Inflation is eroding wage gains, which is why many voters rejected the party in power.",
+        "Fed officials are alarmed. Chicago Fed President Goolsbee called the report borderline disturbing, and Governor Waller floated a 50-basis-point hike.",
+        "Higher yields and hikes that may spill into 2027 threaten equity valuations and borrowers."
       ],
-      "pole_a_who": "Positions commonly voiced by bullish strategists and investors citing labor-market strength and falling oil.",
-      "pole_b_who": "Positions commonly voiced by inflation-focused economists and hawkish Fed officials such as Gov. Waller.",
+      "pole_a_who": "Positions voiced by market strategists and investors buying the dip.",
+      "pole_b_who": "Positions voiced by Fed officials, rate strategists and economists focused on persistent inflation.",
       "evidence_left": [
-        "<cite index=\"83-2,83-3\">The BLS reported CPI up a seasonally adjusted 0.4% in October. Core CPI rose 0.3%.</cite> <cite index=\"83-5,83-6\">Economists surveyed by Dow Jones expected 0.3% headline and 0.2% core.</cite>",
-        "<cite index=\"32-4,32-5\">October employers added 165,000 jobs against a Reuters-polled forecast of 65,000. Unemployment fell to 4.1% from 4.2%.</cite>"
+        "Headline CPI rose 0.4% in October. The Latin Times reported a 0.3% consensus forecast, while The Hill cited a 0.2% Cleveland Fed projection.",
+        "Core CPI rose 0.3% against 0.2% expected (IBTimes). No year-over-year figure was published because of last year's government shutdown data gap (Kiplinger)."
       ],
       "evidence_right": [
-        "<cite index=\"84-1\">Fed Governor Waller said a core reading of 0.3% would prompt him to consider a half-point hike at the Dec. 8-9 meeting.</cite> The 50-basis-point odds differ by source: <cite index=\"83-9\">13.6% per CNBC, citing CME FedWatch</cite>, <cite index=\"86-1\">15% per Reuters</cite> and <cite index=\"88-5\">nearly 11% per Investing.com</cite>.",
-        "<cite index=\"19-6,19-9\">Stocks fell Tuesday, one day after the S&P 500 posted its best day since April.</cite> <cite index=\"87-9\">The two-year Treasury yield rose 0.13 percentage point, per Axios.</cite>"
+        "The Fed raised rates a quarter point in September, the first hike since July 2023. It held steady in October on a 10-2 vote (The Hill).",
+        "CME FedWatch showed a 100% chance of a hike after the December meeting, with 86.2% for 25 basis points (Benzinga). Stocks closed lower Tuesday (S&P 500 down 0.38% to 7,520.93) and rose Wednesday (CNBC)."
       ],
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+          "url": "https://cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
         },
         {
-          "name": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/economic-indicators/hot-october-inflation-report-rattles-markets-5015775"
+          "name": "The Hill",
+          "url": "https://thehill.com/business/6208608-october-inflation-bls-data-cpi/"
         },
         {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/11/10/cpi-october-inflation-fed"
+          "name": "Kiplinger",
+          "url": "https://kiplinger.com/investing/economy/october-2026-cpi-report-what-to-expect"
         },
         {
-          "name": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/11/09/more-rate-hikes-are-coming-as-job-growth-accelerated-unemployment-fell/"
+          "name": "Benzinga",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63132394/stock-market-today-dow-jones-sp-500-futures-rise-as-bessent-urges-us-china-to-de-risk-crwv-rgti-fnv-in-focus"
         }
       ],
-      "sources_date": "November 10, 2026",
-      "sources_line": "Sourced from CNBC, Reuters via Investing.com, Axios, 24/7 Wall St., November 10, 2026."
-    },
-    {
-      "category": "tech",
-      "category_label": "TECH",
-      "kicker": "CHIPS & CHINA",
-      "headline": "Nvidia Board Opens Probe After CEO Admits Affair With Alleged Chinese Spy",
-      "dek": "Jensen Huang admitted the relationship in a staff memo, and lawmakers are scrutinizing Nvidia's Megaspeed ties.",
-      "pole_a_tag": "INNOVATION",
-      "pole_b_tag": "OVERSIGHT",
-      "center_label": "INNOVATION vs OVERSIGHT",
-      "pole_a_label": "Innovation view",
-      "pole_b_label": "Oversight view",
-      "pole_a_bullets": [
-        "The board says it has no reason to believe national security or company secrets were compromised and has confidence in Huang.",
-        "Nvidia says Megaspeed is a cloud service permitted under export-control rules.",
-        "Nvidia's leadership in AI chips is a strategic US asset, so a distraction-driven shake-up could hand ground to China.",
-        "Some analysts call Huang not replaceable and rate the chance of his removal as small."
-      ],
-      "pole_b_bullets": [
-        "US intelligence reportedly believes China's MSS recruited Alice Huang to target the CEO, which makes this a counterintelligence matter, not only a personal one.",
-        "Nvidia first described the contacts as ordinary customer dealings. Critics say the board should test earlier statements by the CEO and company.",
-        "The board announced its probe 10 days after the first report and pre-announced confidence in Huang. Critics doubt its independence.",
-        "Democrats and Republicans want answers on chip smuggling and on what the administration knew."
-      ],
-      "pole_a_who": "Positions commonly voiced by Nvidia's board, company defenders and some Wall Street analysts.",
-      "pole_b_who": "Positions commonly voiced by members of Congress in both parties, export-control hawks and governance critics.",
-      "evidence_left": [
-        "<cite index=\"75-5,75-7\">Nvidia's board said Sunday it is opening an independent investigation. A committee of independent directors, assisted by outside counsel, will oversee it.</cite>",
-        "<cite index=\"75-3,75-9\">Huang acknowledged being unfaithful in an employee memo. The board said it has no reason to believe national security or Nvidia secrets were compromised.</cite>"
-      ],
-      "evidence_right": [
-        "<cite index=\"76-4\">The New York Times and Financial Times reported that US intelligence agencies worry Alice Huang, tied to customer Megaspeed, has been passing information to Beijing.</cite> <cite index=\"77-1\">CNBC describes the intelligence assessment as reported, not officially released.</cite>",
-        "<cite index=\"77-9\">Lawmakers are calling for an investigation and questioning what the Trump administration knew.</cite> The New York Times also reported a Commerce probe of Megaspeed moved to the Justice Department. That claim was relayed via a newsletter and not independently confirmed here."
-      ],
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148"
-        },
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
-        },
-        {
-          "name": "Fast Company",
-          "url": "https://www.fastcompany.com/91638680/nvidia-is-investigating-jensen-huang-but-its-board-may-have-no-interest-in-challenging-its-leader"
-        }
-      ],
-      "sources_date": "November 10, 2026",
-      "sources_line": "Sourced from NBC News, CNBC, Fast Company, November 10, 2026."
+      "sources_date": "November 11, 2026",
+      "sources_line": "Sourced from CNBC, The Hill, Kiplinger, Benzinga, November 11, 2026."
     },
     {
       "category": "business",
       "category_label": "BUSINESS",
-      "kicker": "IPO WATCH",
-      "headline": "Anthropic Sets IPO Terms Targeting Up to $1.4 Trillion Valuation",
-      "dek": "The Claude maker seeks up to $64.4 billion, well below the $2 trillion once discussed.",
+      "kicker": "NVIDIA",
+      "headline": "Nvidia Board Probes CEO Jensen Huang's Ties to Alleged Chinese Spy",
+      "dek": "Shares fell two days, a shareholder suit was filed, and the stock rebounded Wednesday.",
       "pole_a_tag": "GROWTH-FOCUSED",
       "pole_b_tag": "RISK-FOCUSED",
       "center_label": "GROWTH vs RISK",
       "pole_a_label": "Growth-focused view",
       "pole_b_label": "Risk-focused view",
       "pole_a_bullets": [
-        "A listing of this size would fund expansion in a fierce race with OpenAI.",
-        "Cornerstone investors including Google, Nvidia and AMD are backing a separate $26 billion placement.",
-        "Going public ahead of OpenAI makes Anthropic the first frontier AI lab on the market and sets the benchmark for the sector.",
-        "Even a $1 trillion-plus valuation is remarkable and marks a rise from the $965 billion last private round."
+        "Nvidia's board says it has no reason to believe national security or company secrets were compromised.",
+        "Peers and chip stocks rallied through the scandal, so the damage looks specific to Nvidia, not to AI demand.",
+        "Huang remains CEO during the probe, and a Baird analyst downgrade still said the company will be fine.",
+        "Strong results from CoreWeave on Wednesday point to continued AI infrastructure demand."
       ],
       "pole_b_bullets": [
-        "The valuation fell from the $2 trillion once discussed, a sign of cooling appetite for AI.",
-        "Roughly $900 billion in compute commitments to partners like Amazon and Google weigh on the business.",
-        "Growth has slowed this year, and some investors questioned whether the $1.5 trillion talk was too high.",
-        "Volatility in AI stocks, including Nvidia's slide, makes timing and pricing riskier."
+        "Key-person risk is large because Nvidia's AI ambitions are tied to Huang, as analysts have noted.",
+        "Huang and the company earlier called his dealings with Megaspeed normal, and a shareholder suit alleges investors were misled.",
+        "Governance questions remain open, including what the board knew and when, and a possible subpoena from House China committee leaders.",
+        "The scandal touches export controls and national security, which could bring regulatory and political fallout for the AI trade."
       ],
-      "pole_a_who": "Positions commonly voiced by AI-sector bulls, IPO underwriters and growth investors.",
-      "pole_b_who": "Positions commonly voiced by valuation skeptics, credit analysts and AI-bubble critics.",
+      "pole_a_who": "Positions commonly voiced by bullish analysts and Nvidia's board.",
+      "pole_b_who": "Positions commonly voiced by governance experts, securities lawyers and short sellers.",
       "evidence_left": [
-        "<cite index=\"94-4\">The IPO would sell 825 million shares in an indicative band of $70 to $78, raising up to $64.4 billion.</cite> <cite index=\"94-7\">A separate $26 billion private placement involves Google, Nvidia and AMD.</cite>",
-        "Reported valuations differ by outlet. <cite index=\"94-3\">NBC News cited up to $1.02 trillion</cite>, <cite index=\"96-1\">the AP about $1.3 trillion</cite> and <cite index=\"97-3\">Bloomberg about $1.4 trillion</cite>. <cite index=\"92-5\">TheWrap said the roughly $1 trillion figure uses outstanding shares and the higher one adds options.</cite>"
+        "Huang told staff on Sunday he had been unfaithful. The board opened an independent investigation, and Wachtell, Lipton was retained (CNBC, The Hill).",
+        "Nvidia shares fell about 4.2% Monday (NBC News). Tuesday's drop was 5.47% per CNBC and roughly 5% per Yahoo Finance."
       ],
       "evidence_right": [
-        "<cite index=\"94-1,94-2\">Investors once expected an October IPO at up to $2 trillion. Tuesday's filing points to about half that.</cite>",
-        "<cite index=\"92-7\">Reuters, via TheWrap, reported nearly $900 billion in computing commitments.</cite> <cite index=\"95-12\">Fast Company reported that Anthropic's growth has slowed this year.</cite>"
+        "A class-action suit was filed in federal court in San Jose naming Nvidia and Huang (CNBC, The Hill). Shares rose roughly 5% Wednesday (Yahoo Finance).",
+        "The Information reported the relationship may have helped ship at least $7.5 billion of chips through Chinese firms. This was reported by Yahoo Finance and is not independently confirmed."
       ],
       "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+        },
         {
           "name": "NBC News",
-          "url": "https://www.nbcnews.com/business/corporations/anthropic-sets-modest-1-trillion-ipo-valuation-target-rcna608514"
+          "url": "https://www.nbcnews.com/business/markets/nvidia-stock-falls-probe-ceos-relationship-chinese-spy-rcna608290"
         },
         {
-          "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record"
+          "name": "The Hill",
+          "url": "https://thehill.com/policy/technology/nvidia-jensen-huang-shareholder-lawsuit/"
         },
         {
-          "name": "AP via U.S. News",
-          "url": "https://www.usnews.com/news/business/articles/2026-11-10/anthropic-seeks-valuation-of-about-1-3-trillion-when-it-becomes-a-publicly-traded-company"
-        },
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/industry-news/tech/anthropic-ipo-valuation/"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock--board-investigates-ceo-jensen-huang-affair-alleged-chinese-spy-163130372.html"
         }
       ],
-      "sources_date": "November 10, 2026",
-      "sources_line": "Sourced from NBC News, Bloomberg, AP via U.S. News, TheWrap, November 10, 2026."
+      "sources_date": "November 11, 2026",
+      "sources_line": "Sourced from CNBC, NBC News, The Hill, Yahoo Finance, November 11, 2026."
     },
     {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "SUPREME COURT",
-      "headline": "Supreme Court Lets Big Bend Border Wall Construction Resume",
-      "dek": "An unsigned 8-1 order pauses a district judge's ruling while the administration seeks full review.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
+      "category": "tech",
+      "category_label": "TECH",
+      "kicker": "AI SAFETY LAW",
+      "headline": "New York Opens RAISE Act Registration for Frontier AI Labs",
+      "dek": "OpenAI, Anthropic and other large developers must register by January 1, 2027.",
+      "pole_a_tag": "INNOVATION",
+      "pole_b_tag": "OVERSIGHT",
+      "center_label": "INNOVATION vs OVERSIGHT",
+      "pole_a_label": "Innovation view",
+      "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "Federal law lets the Homeland Security Secretary waive laws to speed barrier construction, and the lower order blocked that authority.",
-        "The statute limits judges' power to intervene when the government finds swift construction necessary.",
-        "The Court found the government's interest outweighs the aesthetic, recreational and environmental harms alleged.",
-        "An 8-1 order, with most justices joining, suggests the legal question is not close."
+        "State-by-state rules create a patchwork that is costly to comply with and slows development.",
+        "Frontier AI policy belongs at the federal level, where one national framework can apply.",
+        "Incident-reporting deadlines and fines of up to $3 million add legal risk that could push research elsewhere.",
+        "Heavy state regulation can cede ground to global competitors, which is the concern behind industry calls for pacing and lighter rules."
       ],
       "pole_b_bullets": [
-        "The district judge found Congress likely did not authorize waivers this broad.",
-        "Building through a national park risks lasting damage to the landscape that a later ruling cannot undo.",
-        "Justice Jackson dissented, and critics say emergency orders skip full review of a major environmental question.",
-        "Opponents say sweeping waivers let the executive sidestep environmental laws Congress wrote."
+        "Voluntary self-regulation has not been enough. Gov. Hochul said the stakes are too high to take AI companies at their word.",
+        "Registration, published safety frameworks and 72-hour incident reports give regulators a view into the labs.",
+        "Independent evaluation through the new state AI research center adds technical expertise that the public lacks.",
+        "The federal government has not passed comprehensive AI law, so states are filling the gap, as California did with SB 53."
       ],
-      "pole_a_who": "Positions commonly voiced by the Trump administration, border-security advocates and conservative outlets.",
-      "pole_b_who": "Positions commonly voiced by environmental groups, Big Bend-area opponents and Justice Jackson's dissent.",
+      "pole_a_who": "Positions commonly voiced by AI industry groups and federal-preemption advocates.",
+      "pole_b_who": "Positions commonly voiced by Gov. Kathy Hochul, state AI-safety advocates and consumer groups.",
       "evidence_left": [
-        "<cite index=\"67-5\">In an unsigned 8-1 ruling, the justices put U.S. District Judge Kathleen Cardone's order on hold, allowing construction to resume while the administration seeks review.</cite>",
-        "<cite index=\"68-8,68-9\">The Daily Signal reports the Court agreed that federal law limits judges' power to intervene. It quoted the Court saying the lower order bars the Secretary from exercising his statutory waiver authority.</cite>"
+        "New York's DIGIT office opened the RAISE portal on Nov. 10. Large frontier developers must register by Jan. 1, 2027 (NY Governor's office, TechCrunch).",
+        "Covered developers are those with more than $500 million in annual revenue (IBTimes SG)."
       ],
       "evidence_right": [
-        "<cite index=\"67-3,67-7\">Justice Jackson dissented. The ruling is temporary until the Court decides whether to hear the case or the lower court in El Paso settles it.</cite>",
-        "<cite index=\"68-6,68-7\">The project was to include 30-foot-tall steel barriers in some areas. The district court had found Congress likely did not authorize the broad waivers.</cite>"
+        "Critical safety incidents must be reported within 72 hours. Fines run up to $1 million for a first violation and $3 million for repeats (IBTimes SG, AI Weekly).",
+        "A New York Center for AI Responsibility and Research launched at Binghamton University, backed by $55 million in donations and capital. California's SB 53 took effect in January (TechCrunch)."
       ],
       "sources": [
         {
-          "name": "KFOX (Texas)",
-          "url": "https://kfoxtv.com/news/local/trumps-big-bend-border-wall-construction-can-resume-after-us-supreme-court-ruling?teaserSource=databricks"
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect"
         },
         {
-          "name": "The Daily Signal",
-          "url": "https://dailysignal.com/2026/11/09/supreme-court-hands-trump-a-big-win-on-border-wall"
+          "name": "NY Governor's Office",
+          "url": "https://www.governor.ny.gov/news/governor-hochul-declares-ny-will-lead-nation-ai-science-and-safety-launches-new-research"
         },
         {
-          "name": "SCOTUSblog",
-          "url": "https://www.scotusblog.com/"
+          "name": "IBTimes Singapore",
+          "url": "https://www.ibtimes.sg/openai-anthropic-face-new-ai-rules-new-york-72-hour-deadline-public-disclosures-3-million-96116"
         }
       ],
-      "sources_date": "November 10, 2026",
-      "sources_line": "Sourced from KFOX (Texas), The Daily Signal, SCOTUSblog, November 10, 2026."
+      "sources_date": "November 11, 2026",
+      "sources_line": "Sourced from TechCrunch, NY Governor's Office, IBTimes Singapore, November 11, 2026."
     },
     {
       "category": "sports",
       "category_label": "SPORTS",
-      "kicker": "NFL",
-      "headline": "Jaguars Go All In With Three Trades Before the Deadline",
-      "dek": "Jacksonville (6-2) added Jessie Bates, Davon Godchaux and Jordan Davis, giving up a 2027 first-round pick.",
+      "kicker": "NFL TRADE DEADLINE",
+      "headline": "Vikings Trade for Kirk Cousins as Raiders Hand Offense to Mendoza",
+      "dek": "Minnesota sent a 2027 third-round pick to Las Vegas after Carson Wentz struggled on Monday night.",
       "pole_a_tag": "TAKE",
       "pole_b_tag": "COUNTER-TAKE",
       "center_label": "TAKE vs COUNTER-TAKE",
       "pole_a_label": "Take",
       "pole_b_label": "Counter-take",
       "pole_a_bullets": [
-        "The Jaguars lead the AFC South with top-five scoring offense and defense, so adding three defenders fits a real contender.",
-        "Davis, 26, is a proven interior force, and Bates adds a Pro Bowl safety.",
-        "ESPN's Seth Walder-style bold take is that Jacksonville wins the AFC, and early odds put them among Super Bowl favorites.",
-        "Draft picks matter less than a Super Bowl window in a top-heavy league."
+        "The Vikings got a proven starter for a third-round pick after their quarterback play hit a crisis point.",
+        "Cousins already knows coach Kevin O'Connell's offense, which cuts the learning curve for a 6-2 team.",
+        "He has produced this season, with 20 touchdowns and eight interceptions for the Raiders.",
+        "The Raiders also win by starting No. 1 pick Fernando Mendoza and getting a pick for him."
       ],
       "pole_b_bullets": [
-        "Giving up a 2027 first and second plus a 2029 second for one lineman is a steep price. SI called it a risky bet.",
-        "ESPN's grade for the deal reportedly called it a disaster for Jacksonville. The Eagles, at 2-7, got the better end.",
-        "Davis just signed a $78 million extension, which adds to the cost of a defensive tackle who played 52% of snaps in Philadelphia.",
-        "Many contenders crowd the top tier, so the extra defense may not separate Jacksonville from the pack."
+        "Minnesota is relying on a 38-year-old quarterback after one bad game from Wentz.",
+        "The Raiders were 4-5 and on the playoff bubble with Cousins, so moving him changes their season.",
+        "Starting Mendoza early moves up the timeline for a rookie and could stunt his development.",
+        "The Vikings' need was so obvious that Las Vegas could have held out for more, and reports say it first asked for a second-round pick."
       ],
-      "pole_a_who": "Positions commonly voiced by Jaguars fans and some NFL analysts.",
-      "pole_b_who": "Positions commonly voiced by trade-grade critics and Eagles-side analysts.",
+      "pole_a_who": "Positions commonly voiced by NFL analysts who gave both sides strong grades.",
+      "pole_b_who": "Positions commonly voiced by skeptics of the Vikings' desperation and of the Raiders' rookie timeline.",
       "evidence_left": [
-        "<cite index=\"116-3,116-4\">On Monday the Jaguars acquired safety Jessie Bates III from Atlanta, tackle Davon Godchaux from New Orleans and tackle Jordan Davis from Philadelphia. Davis cost a 2027 first-round pick and a 2029 second-round pick.</cite>",
-        "<cite index=\"52-5\">Yahoo Sports lists the Jaguars as 10.5-point road favorites against the Titans in Week 10.</cite>"
+        "Minnesota acquired Cousins for a 2027 third-round pick before Tuesday's 4 p.m. ET deadline (NFL.com, CBS Sports).",
+        "Cousins, 38, has 2,340 yards, 20 touchdowns and eight interceptions with the Raiders at 4-5 (NFL.com)."
       ],
       "evidence_right": [
-        "<cite index=\"113-10\">Jacksonville no longer has a 2027 first- or second-round pick after Monday's deals.</cite> <cite index=\"112-11\">The NY Post reports the Eagles stand at 2-7 after seven straight losses.</cite>",
-        "<cite index=\"113-8\">Davis signed a three-year, $78 million extension with the Eagles in March.</cite> <cite index=\"119-9\">The Philadelphia Inquirer reports ESPN's assessment of the deal was sharply negative for Jacksonville.</cite>"
+        "Wentz was 8-of-25 for 81 yards and two interceptions in Monday night's loss to Buffalo (Sports Illustrated).",
+        "NFL.com's Kevin Patra graded the trade A- for the Vikings and B+ for the Raiders (Yahoo Sports). Jordan Schultz reported the Raiders first sought a second-round pick; that report is unconfirmed (Yahoo Sports)."
       ],
       "sources": [
         {
-          "name": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/jordan-davis-traded-jaguars-acquire-former-first-round-pick-from-eagles/"
+          "name": "NFL.com",
+          "url": "https://www.nfl.com/news/kirk-cousins-vikings-raiders-trade"
         },
         {
-          "name": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/breaking-news/article/jaguars-land-dt-jordan-davis-in-blockbuster-deal-with-eagles-marking-latest-trade-ahead-of-deadline-221650026.html"
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-live-updates-latest-rumors-buzz-news/live/"
         },
         {
           "name": "Sports Illustrated",
-          "url": "https://www.si.com/nfl/trade-deadline/jaguars-eagles-trade-grades-jacksonville-all-in"
+          "url": "https://www.si.com/nfl/inside-kirk-cousins-trade-how-vikings-raiders-both-won"
         },
         {
-          "name": "The Philadelphia Inquirer",
-          "url": "https://www.inquirer.com/eagles/live/eagles-nfl-trade-deadline-rumors-trades-players-latest-20261110.html"
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/more-details-emerge-around-minnesota-125953860.html"
         }
       ],
-      "sources_date": "November 10, 2026",
-      "sources_line": "Sourced from CBS Sports, Yahoo Sports, Sports Illustrated, The Philadelphia Inquirer, November 10, 2026."
+      "sources_date": "November 11, 2026",
+      "sources_line": "Sourced from NFL.com, CBS Sports, Sports Illustrated, Yahoo Sports, November 11, 2026."
+    },
+    {
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "IRAN WAR",
+      "headline": "Trump Calls Iran War 'Effectively Over' While Tehran Denies Talks",
+      "dek": "The US keeps its blockade in place and Iran rejects reports of negotiations.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
+      "pole_a_bullets": [
+        "Iran's military has been destroyed, and the blockade and Task Force Iron Gate squeeze its economy without new strikes.",
+        "Pressure is working. Washington says Iran is talking, and mediators like Qatar are active.",
+        "Rubio calls Tehran's demands unacceptable, and a deal must address the nuclear program first.",
+        "Gulf neighbors favor keeping the status quo, which supports patience over escalation."
+      ],
+      "pole_b_bullets": [
+        "Declaring the war over while the blockade, closed Hormuz and mine strikes continue is not an end to the conflict.",
+        "Tehran says no talks exist and that its seven conditions must be met, so claims of progress look hollow.",
+        "The war began without congressional authorization, which is a core charge in the Hegseth impeachment resolution.",
+        "Trump and Vance have tied the war's costs to Republican midterm losses, which suggests public support is thin."
+      ],
+      "pole_a_who": "Positions voiced by President Trump, Secretary of State Rubio and administration allies.",
+      "pole_b_who": "Positions voiced by Democratic lawmakers, war-powers critics and anti-war commentators.",
+      "evidence_left": [
+        "Trump said Monday that Iran 'militarily, is effectively over' but kept the option of new strikes open. The status quo includes the naval blockade and Task Force Iron Gate (Euronews, Al Jazeera).",
+        "Rubio said Sunday that Iran's demands are unacceptable. CBS News reported he later said there is no need to restart combat operations."
+      ],
+      "evidence_right": [
+        "Iran's Foreign Minister Araghchi denied any meeting was planned, and security chief Mohsen Rezaei rejected reports of talks (Euronews).",
+        "Brent crude fell to $92 a barrel Monday on hopes the war could end (Euronews). Iranian officials continue to press for the US to accept seven conditions (Al Jazeera)."
+      ],
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/10/trump-says-iran-war-effectively-over-as-tehran-denies-planned-talks"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/"
+        }
+      ],
+      "sources_date": "November 11, 2026",
+      "sources_line": "Sourced from Euronews, Al Jazeera, CBS News, November 11, 2026."
     }
   ]
 }
