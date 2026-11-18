@@ -1,92 +1,246 @@
 {
-  "date": "November 17, 2026",
+  "date": "November 18, 2026",
   "stories": [
-    {
-      "category": "tech",
-      "category_label": "TECH",
-      "kicker": "AI CHIPS",
-      "headline": "US Closes Remote-Access Loophole on AI Chip Exports",
-      "dek": "Commerce's new rule requires licenses for advanced AI chip exports to data centers in five countries, days after Nvidia CEO Jensen Huang resigned.",
-      "pole_a_tag": "INNOVATION",
-      "pole_b_tag": "OVERSIGHT",
-      "center_label": "INNOVATION vs OVERSIGHT",
-      "pole_a_label": "Innovation view",
-      "pole_b_label": "Oversight view",
-      "pole_a_bullets": [
-        "Licensing rules that reach into foreign data centers add friction for US chipmakers and cloud providers.",
-        "Analysts at Saxo say tighter remote-compute access could raise training costs and slow the shift from AI buildout to adoption.",
-        "There is concern that controls could eventually extend from chips to AI models themselves, limiting global use of AI products.",
-        "Some Silicon Valley executives argued after Huang's exit that the US risks losing ground in AI if industry leaders are pushed out."
-      ],
-      "pole_b_bullets": [
-        "Chinese firms have been barred from buying these chips directly since 2022, and critics say offshore data centers let them get around that ban.",
-        "Chris McGuire of the Council on Foreign Relations, a former Biden AI adviser, called the rule a major step forward.",
-        "Lawmakers of both parties criticized Huang's push to relax export controls. Sen. Elizabeth Warren said Nvidia still owes Congress answers on compliance.",
-        "Supporters of tighter controls say the US cannot keep its AI lead unless the agency responsible enforces its own export rules."
-      ],
-      "pole_a_who": "Positions commonly voiced by chip-industry executives, investors and market analysts.",
-      "pole_b_who": "Positions commonly voiced by national-security experts and lawmakers such as Sen. Elizabeth Warren.",
-      "evidence_left": [
-        "The Commerce Department's Bureau of Industry and Security issued an interim final rule on Nov. 16. It requires licenses for exports of advanced AI chips to data centers in Indonesia, Malaysia, Singapore, Brazil and Thailand (Bloomberg, The National).",
-        "The rule also rescinds the Biden administration's AI Diffusion Rule from January 2025 (TechCrunch, NBC News)."
-      ],
-      "evidence_right": [
-        "NPR reported that before the Nvidia scandal the Trump administration had resisted adding rules on foreign access to American AI technology.",
-        "Nvidia announced in an SEC filing on Nov. 12 that Huang resigned as president, CEO and director. Colette Kress became interim CEO."
-      ],
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely"
-        },
-        {
-          "name": "Bloomberg",
-          "url": "https://bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/tech/tech-news/us-closes-loophole-let-chinese-companies-use-top-ai-chips-rcna609634"
-        },
-        {
-          "name": "Nvidia SEC Form 8-K",
-          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
-        }
-      ],
-      "sources_date": "November 17, 2026",
-      "sources_line": "Sourced from TechCrunch, Bloomberg, NBC News, Nvidia SEC Form 8-K, November 17, 2026."
-    },
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "ENERGY & PERMITTING",
-      "headline": "Senate Moves Permitting Overhaul Toward Final Vote",
-      "dek": "A 70-27 cloture vote sets up Senate passage before Thanksgiving, but environmental groups and House Democratic leaders object.",
+      "kicker": "SENATE",
+      "headline": "Peltola Flips Alaska Senate Seat as Ballot Controversy Lingers",
+      "dek": "The AP call for the Democrat gives her party 56 Senate seats in January, while disputes over a same-name candidate continue.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Lengthy environmental reviews and court challenges delay energy, mining and infrastructure projects and raise their costs.",
-        "Shorter timelines and limits on litigation would make it easier to grow America's energy supply.",
-        "Industry groups such as the American Petroleum Institute, the National Mining Association and the Data Center Coalition back the bill.",
-        "A White House official said the administration supports the bipartisan deal and that now is the time to finish it."
+        "The race was clouded by a second candidate named Dan Sullivan, so the result deserves scrutiny before it is treated as a clean verdict.",
+        "Sullivan called it the biggest election cheating scandal in Alaska history. Supporters say the governor's investigation and the Justice Department's inquiry should run their course.",
+        "Alaska voted for Trump by 13 points in 2024. Republicans read the loss as part of a national midterm wave, not a rejection of Sullivan's record on energy.",
+        "Sullivan pitched himself as a more effective lawmaker than Peltola was in Congress. He warned that national Democrats and 'lower 48 liberals' do not understand Alaska."
       ],
       "pole_b_bullets": [
-        "The Sierra Club, the NRDC and the Southern Environmental Law Center say the bill weakens environmental laws and limits public challenges to projects.",
-        "Critics warn the bill could speed behind-the-meter gas plants that power data centers. Some tribal groups say it undercuts consultation and sovereignty.",
-        "House Democratic leader Hakeem Jeffries opposes the bill as written. Some Democrats worry President Trump will keep blocking wind projects even if it passes.",
-        "Democratic backers, including Sens. Whitehouse and Heinrich, say it protects issued permits, helps clean energy and makes data centers pay for grid upgrades."
+        "Peltola's campaign denies any role in recruiting the other Sullivan. She calls the controversy a distraction from voters' real concerns.",
+        "She won roughly 50% to 46% in the count reported by CNBC. Supporters say that margin reflects a clear preference, not a technicality.",
+        "Democrats also flipped seats in conservative states such as South Carolina, Texas, Kansas and Mississippi. Supporters see a broad national shift, not an Alaska fluke.",
+        "Peltola framed her win as a rejection of the DC status quo and a mandate on corporate greed and lower costs. She has long stressed working across party lines."
       ],
-      "pole_a_who": "Positions commonly voiced by Senate Republicans such as Shelley Moore Capito, plus energy and mining trade groups.",
-      "pole_b_who": "Positions commonly voiced by environmental groups, tribal leaders and House Democratic leaders. Some Senate Democrats support the bill.",
+      "pole_a_who": "Positions voiced by Sen. Dan Sullivan and Republican officials, including Alaska Gov. Mike Dunleavy.",
+      "pole_b_who": "Positions voiced by Mary Peltola, her campaign and Senate Democratic leaders including Chuck Schumer.",
       "evidence_left": [
-        "The Senate voted 73-25 on Nov. 9 to advance the Bipartisan American Affordability and Jobs Act (Axios, The Hill). Democracy Now counted 22 Democrats in favor; Lever News and The Center Square counted 21.",
-        "On Nov. 16 the Senate voted 70-27 to end debate on a substitute amendment from Sen. Capito. The vote sets up final Senate passage before the Thanksgiving recess (The Hill, HNGN)."
+        "The Associated Press called the race Tuesday night. CNBC reported Peltola at 50.1% and Sullivan at 45.8% as of 10:39 p.m. ET.",
+        "The win gives Democrats 56 Senate seats from January, counting two independents who caucus with them (NBC News). CNBC reports Democrats flipped nine Republican-held seats this cycle."
       ],
       "evidence_right": [
-        "The bill limits challenges under the Clean Water Act, the Endangered Species Act, NEPA and the National Historic Preservation Act (The Hill).",
-        "The substitute says data centers must cover the full cost of the transmission lines and grid equipment they require (HNGN). Axios reported that House passage is uncertain."
+        "The New York Times reported that Peltola's campaign was involved in recruiting the other Dan Sullivan. Her campaign denies it, and Gov. Dunleavy ordered a state investigation (NBC News, CNN, Axios).",
+        "Al Jazeera reports the Justice Department sued to decertify the result if Sullivan lost, and Sullivan later pledged to accept the outcome. CNBC reports a separate DOJ criminal investigation into the second Sullivan's entry."
+      ],
+      "sources": [
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/17/politics/mary-peltola-wins-alaska-senate"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307"
+        }
+      ],
+      "sources_date": "November 18, 2026",
+      "sources_line": "Sourced from CNN, CNBC, Al Jazeera, NBC News, November 18, 2026."
+    },
+    {
+      "category": "economy",
+      "category_label": "ECONOMY",
+      "kicker": "MARKETS",
+      "headline": "Stocks Slide, Then Nvidia Beats: Investors Split on What Comes Next",
+      "dek": "The Dow fell about 850 points Tuesday before Nvidia's first post-Huang earnings lifted futures, with Fed rate-hike talk still in the background.",
+      "pole_a_tag": "BULL",
+      "pole_b_tag": "BEAR",
+      "center_label": "BULL vs BEAR",
+      "pole_a_label": "Bull view",
+      "pole_b_label": "Bear view",
+      "pole_a_bullets": [
+        "Nvidia's quarterly revenue of $115.8 billion roughly doubled from a year earlier. Its fourth-quarter guidance of $130 billion topped the $125.3 billion consensus, so the AI cycle looks intact.",
+        "Interim CEO Colette Kress raised the fiscal 2028 growth outlook to about 75% from 70%. She said demand far exceeds supply and cited a $2.5 trillion backlog.",
+        "Neocloud stocks CoreWeave, Nebius and Iren rose 8% to 10% after hours. Bulls read that as confirmation that AI infrastructure spending is continuing.",
+        "Nvidia is down about 35% from its Oct. 6 record. Bulls see a scandal-driven sell-off, not a change in fundamentals, and futures rose Wednesday."
+      ],
+      "pole_b_bullets": [
+        "The S&P 500 fell a fourth straight day to its lowest close since July 29. The Nasdaq touched its lowest level since April, so the damage goes beyond one stock.",
+        "Fed officials are leaning toward hikes. St. Louis Fed President Musalem said as many as four may be needed by spring 2027, and inflation reached 3.7% in September.",
+        "Nvidia's supply commitments rose to $390 billion from $279 billion. Kress said the company would rigorously evaluate commitments and noted customers' access to capital.",
+        "The stock remains about 30% below its peak and the company has no permanent CEO. New chip export limits could shrink its addressable market."
+      ],
+      "pole_a_who": "Positions commonly voiced by sell-side analysts and AI-infrastructure investors.",
+      "pole_b_who": "Positions commonly voiced by rate-focused strategists and valuation-minded investors.",
+      "evidence_left": [
+        "Nvidia reported fiscal Q3 revenue of $115.8 billion and adjusted EPS of $2.68. CNN reported shares up roughly 5% after hours, and CBS reported nearly 4%, to $161.57.",
+        "Kress raised fiscal 2028 revenue growth guidance to about 75% from 70% (CNN, NBC News)."
+      ],
+      "evidence_right": [
+        "On Nov. 17 the Dow fell 1.6%, or about 850 points, to 50,759.42. The S&P 500 fell 1% and the Nasdaq 0.7% (Yahoo Finance, CNBC). Monday's S&P drop was 1.92% per Coinpaper.",
+        "The Fed held its rate at 3.75%-4% on Oct. 28 with two dissents favoring a hike (CNBC). Musalem said Nov. 17 that the nominal policy rate may need to do most of the work (CNBC)."
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/17/tech/nvidia-earnings-jensen-huang-exit"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/"
+        }
+      ],
+      "sources_date": "November 18, 2026",
+      "sources_line": "Sourced from CNBC, CNN, CBS News, November 18, 2026."
+    },
+    {
+      "category": "tech",
+      "category_label": "TECH",
+      "kicker": "AI CHIPS",
+      "headline": "US Closes Remote-Access Loophole for China's AI Chip Use",
+      "dek": "A Commerce rule requires licenses for advanced chip shipments to five countries, days after Nvidia's CEO resigned amid a probe tied to a Singapore firm.",
+      "pole_a_tag": "INNOVATION",
+      "pole_b_tag": "OVERSIGHT",
+      "center_label": "INNOVATION vs OVERSIGHT",
+      "pole_a_label": "Innovation view",
+      "pole_b_label": "Oversight view",
+      "pole_a_bullets": [
+        "Licensing for whole regions adds friction for data centers in allied countries. Singapore says it is studying the details carefully.",
+        "Nvidia opposed the Biden-era diffusion rule and declined comment on the new one. Industry voices favor a narrower approach to the global licensing regime that was scrapped.",
+        "Cutting off a large market can speed rivals' growth. Analysts flag stronger Chinese competitors as a longer-term risk for US chipmakers.",
+        "Demand far exceeds supply, Nvidia's Kress said, so heavy new restrictions are not needed to protect US leadership."
+      ],
+      "pole_b_bullets": [
+        "Chinese AI firms shifted computing to data centers in nearby countries, experts say. A rule limited to physical sales to China missed that route.",
+        "Chris McGuire of the Council on Foreign Relations called the rule a major step forward.",
+        "Commerce held off on new chip restrictions for a year, and billions of dollars of restricted Nvidia chips reached data centers used by Chinese AI firms (Reuters via Globe and Mail).",
+        "Megaspeed, a Singapore-based Nvidia partner, is suspected of selling remote access to US chips. Oversight advocates see the case as proof that enforcement was too weak."
+      ],
+      "pole_a_who": "Positions commonly voiced by chipmakers, cloud providers and industry analysts wary of export limits.",
+      "pole_b_who": "Positions commonly voiced by national-security analysts and bipartisan China hawks.",
+      "evidence_left": [
+        "The Bureau of Industry and Security rule, announced Monday Nov. 16, designates Indonesia, Malaysia, Singapore, Thailand and Brazil as 'unacceptable risk of diversion.' Shipments there need an export license (Al Jazeera).",
+        "The rule formally rescinds the Biden-era AI Diffusion Rule (NBC News, Globe and Mail). China's foreign ministry criticized the new rule Tuesday (NBC News)."
+      ],
+      "evidence_right": [
+        "Jensen Huang resigned as Nvidia CEO last week amid a board investigation into allegations involving a Megaspeed executive (Al Jazeera). Megaspeed said it retained outside counsel for an internal investigation (NPR via WSIU).",
+        "A Politico-sourced news summary reports lawmakers are pushing chip export measures into the year-end defense bill, expected to be considered in December. This was not confirmed in a second outlet."
+      ],
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/us-closes-loophole-let-chinese-companies-use-top-ai-chips-rcna609634"
+        },
+        {
+          "name": "The Globe and Mail (Reuters)",
+          "url": "https://theglobeandmail.com/business/international-business/asia-pacific-business/article-us-to-curb-chinas-access-to-ai-chips-as-trump-visits-asia"
+        },
+        {
+          "name": "NPR via WSIU",
+          "url": "https://www.wsiu.org/politics-elections/2026-11-16/u-s-tightens-controls-on-remote-access-to-ai-technology-amid-nvidia-fallout"
+        }
+      ],
+      "sources_date": "November 18, 2026",
+      "sources_line": "Sourced from Al Jazeera, NBC News, The Globe and Mail (Reuters), NPR via WSIU, November 18, 2026."
+    },
+    {
+      "category": "general",
+      "category_label": "GENERAL",
+      "kicker": "OUTAGES",
+      "headline": "String of US Tech Outages Prompts Calls for Briefings",
+      "dek": "Microsoft, the FAA, banks and an NSA network have all had disruptions in a week, and officials say there is no evidence the incidents are linked.",
+      "pole_a_tag": "OPTIMIST",
+      "pole_b_tag": "SKEPTIC",
+      "center_label": "OPTIMIST vs SKEPTIC",
+      "pole_a_label": "Optimist view",
+      "pole_b_label": "Skeptic view",
+      "pole_a_bullets": [
+        "Secretary of State Marco Rubio said there is zero evidence the incidents are related, and none points to hackers, criminal groups or foreign governments.",
+        "The FAA traced its ground stop to a faulty router. The NSA said its outage came during scheduled routine maintenance and did not appear to affect national security.",
+        "Large networks fail regularly. Close timing does not by itself show a shared cause, as Newsweek noted.",
+        "Services were restored, and the FAA halted new router installations as a precaution. Optimists read that as the system self-correcting."
+      ],
+      "pole_b_bullets": [
+        "House Democratic Leader Hakeem Jeffries called the outages troubling and said it is unclear whether they are infrastructure failures or malicious activity. He wants officials to brief Congress.",
+        "Lawmakers from both parties are asking for briefings, which suggests concern is not only partisan.",
+        "The FAA's root cause is still under investigation, so an absence of evidence is not a clean bill of health.",
+        "Even if every cause is mundane, aviation, banking, cloud services and a classified network failing in one week shows fragility in critical systems."
+      ],
+      "pole_a_who": "Positions voiced by Secretary of State Marco Rubio and Trump administration officials.",
+      "pole_b_who": "Positions voiced by Rep. Hakeem Jeffries and lawmakers seeking briefings.",
+      "evidence_left": [
+        "The FAA stopped installing new routers at its telecom sites after determining a faulty router installed last week caused the nationwide ground stop (Fox News).",
+        "The NSA said its network issue occurred during scheduled routine maintenance, and Newsweek reports it does not appear national security was affected."
+      ],
+      "evidence_right": [
+        "Fox News reported Chase, Bank of America, Microsoft, iCloud and Gmail all had disruptions. Fox confirmed the NSA's internal communications system was at least partially down Tuesday.",
+        "The Wall Street Journal, as reported by WLOS, said the NSA was performing a software update when its outage occurred. The NSA's own statement cites routine maintenance."
+      ],
+      "sources": [
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/live-news/tech-outages-microsoft-banks-faa-fbi-11-17-26"
+        },
+        {
+          "name": "Newsweek",
+          "url": "https://www.newsweek.com/nsa-down-outage-network-security-communications-systems-12729263"
+        },
+        {
+          "name": "WLOS",
+          "url": "https://wlos.com/news/nation-world/americans-on-edge-after-string-of-outages-lawmakers-demand-answers-nsa"
+        }
+      ],
+      "sources_date": "November 18, 2026",
+      "sources_line": "Sourced from Fox News, Newsweek, WLOS, November 18, 2026."
+    },
+    {
+      "category": "business",
+      "category_label": "BUSINESS",
+      "kicker": "ENERGY & DATA CENTERS",
+      "headline": "Senate Nears Final Vote on Bipartisan Permitting Overhaul",
+      "dek": "The bill would speed energy and infrastructure approvals and make data centers pay more for grid costs, while Democrats split over passing it now.",
+      "pole_a_tag": "GROWTH-FOCUSED",
+      "pole_b_tag": "RISK-FOCUSED",
+      "center_label": "GROWTH vs RISK",
+      "pole_a_label": "Growth-focused view",
+      "pole_b_label": "Risk-focused view",
+      "pole_a_bullets": [
+        "Members of both parties have argued for decades that the US takes too long to build large infrastructure. The bill sets deadlines on federal reviews and creates a permitting tracker.",
+        "Sen. Sheldon Whitehouse says the bill will lower energy costs and create jobs. Sen. Martin Heinrich says it puts more energy on the grid.",
+        "Data centers would bear their own grid costs. Heinrich cites a Brattle Group estimate of about $35 billion more in payments over a decade, and Trump endorsed the bill on Truth Social.",
+        "The Congress ends in early January and unpassed bills restart. Supporters say Congress can strengthen environmental protections later."
+      ],
+      "pole_b_bullets": [
+        "The bill limits environmental challenges under the Clean Water Act, the Endangered Species Act, NEPA and the National Historic Preservation Act.",
+        "A critic quoted by The Hill says it accelerates extraction and burning of fossil fuels and makes it easier to build data centers on behind-the-meter gas plants.",
+        "Some Democrats worry that Trump will keep blocking wind turbines even if the bill passes.",
+        "Democrats take both chambers next year, so some argue for waiting and pursuing a stronger version then."
+      ],
+      "pole_a_who": "Positions voiced by sponsors Sens. Shelley Moore Capito, Mike Lee, Martin Heinrich and Sheldon Whitehouse.",
+      "pole_b_who": "Positions voiced by environmental critics and some House and Senate Democrats.",
+      "evidence_left": [
+        "The Senate voted 70-27 on Monday Nov. 16 to end debate on the substitute amendment. A final Senate vote is expected before the Thanksgiving recess, and the House and Trump must still act (The Hill).",
+        "The Nov. 9 vote to take up the bill was 73-25, with 51 Republicans, 21 Democrats and one independent in favor (Washington Sun)."
+      ],
+      "evidence_right": [
+        "Heinrich cited a Brattle Group estimate of about $35 billion in added data-center payments over a decade. Grid Strategies put the federal-rules effect at $35 billion over 10 years and potential exposure at about $136 billion if states fully use the bill's floor (MLQ.ai).",
+        "The bill was introduced Sept. 30 by Capito, Lee, Heinrich and Whitehouse. Its biggest Democratic dispute is whether to pass it now or seek a stronger version next year (Reuters-style explainer on Yahoo)."
       ],
       "sources": [
         {
@@ -94,236 +248,70 @@
           "url": "https://thehill.com/homenews/senate/6223468-senate-advances-baja-permitting-reform/"
         },
         {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/11/09/senate-advances-bipartisan-permitting-bill-key-test-vote"
+          "name": "Yahoo News explainer",
+          "url": "https://www.yahoo.com/news/politics/articles/explainer-know-energy-permitting-overhaul-110240583.html"
         },
         {
-          "name": "Democracy Now",
-          "url": "https://www.democracynow.org/2026/11/10/headlines/senate_advances_bill_to_speed_construction_of_fossil_fuel_projects_and_data_centers"
-        },
-        {
-          "name": "HNGN",
-          "url": "https://www.hngn.com/articles/273848/20261116/senate-advances-permitting-bill-70-27-jeffries-opposes-it.htm"
+          "name": "MLQ.ai",
+          "url": "https://mlq.ai/news/senate-permitting-bill-heads-for-a-final-vote-with-a-rule-that-could-cost-data-centers-35-billion-more-over-a-decade/"
         }
       ],
-      "sources_date": "November 17, 2026",
-      "sources_line": "Sourced from The Hill, Axios, Democracy Now, HNGN, November 17, 2026."
+      "sources_date": "November 18, 2026",
+      "sources_line": "Sourced from The Hill, Yahoo News explainer, MLQ.ai, November 18, 2026."
     },
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "SUPREME COURT",
-      "headline": "Supreme Court Declines Maryland 'Sensitive Places' Gun Case",
-      "dek": "The justices left Maryland's carry limits in place without comment, while Justice Thomas signaled interest in a narrower future case.",
+      "kicker": "COURTS",
+      "headline": "Appeals Court Bars Discharge of 27 Transgender Troops for Now",
+      "dek": "A divided D.C. Circuit panel refused to pause its ruling that the Pentagon ban was unlawfully imposed, setting up a possible Supreme Court return.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Gun-rights advocates argue Maryland's location-based bans conflict with the right to carry in public that Bruen recognized in 2022.",
-        "Broad lists of banned places, such as parks, transit, bars and stadiums, can turn the right to carry into a right that can rarely be used.",
-        "Justice Thomas wrote that he is skeptical of such laws and favors revisiting the issue in a more narrowly focused case.",
-        "The court has recently struck down wide-ranging carry limits in Hawaii, and supporters want that approach applied to other states."
+        "Judge Justin Walker, a Trump appointee, wrote that judges lack the power to second-guess the decision to exclude transgender troops. He voted to pause the ruling.",
+        "The Supreme Court already let the Pentagon enforce the ban in a separate case last year. Supporters say the same approach should apply while the administration seeks review.",
+        "Defense Secretary Pete Hegseth's policy presumptively disqualifies people with gender dysphoria. Supporters say military standards are for commanders to set, not courts.",
+        "The order is narrow. It covers only the plaintiffs and does not let new transgender recruits join, which supporters say shows the ban's core stands."
       ],
       "pole_b_bullets": [
-        "A lower court found Maryland's restrictions consistent with the Second Amendment, and the justices let that ruling stand.",
-        "Supporters of the laws say keeping guns out of crowded public spaces such as transit, schools and parks serves public safety.",
-        "The court has upheld some gun restrictions, including a law aimed at protecting domestic-violence victims, so limits remain constitutional in some forms.",
-        "States should keep room to set location-based rules while the court weighs the assault-weapons case set for argument Dec. 2."
+        "Judge Robert Wilkins wrote that the government did not show how keeping the plaintiffs in service would cause irreparable harm or endanger national security.",
+        "The panel's June 1 opinion found the ban unlawfully imposed. It partly upheld a ruling that the executive order likely violates troops' constitutional rights.",
+        "Shannon Minter of the National Center for LGBTQ Rights called the plaintiffs decorated troops who met every standard the military sets.",
+        "Wilkins noted that the June opinion is narrower than the injunction the Supreme Court stayed last year, so the order does not repeat that earlier remedy."
       ],
-      "pole_a_who": "Positions commonly voiced by gun-rights groups and conservative jurists such as Justice Clarence Thomas.",
-      "pole_b_who": "Positions commonly voiced by gun-safety advocates and state officials defending carry restrictions.",
+      "pole_a_who": "Positions voiced by the Trump administration, Judge Justin Walker's dissent and supporters of the Hegseth policy.",
+      "pole_b_who": "Positions voiced by the plaintiffs' lawyers, Judges Robert Wilkins and Judith Rogers, and LGBTQ legal groups.",
       "evidence_left": [
-        "On Nov. 16 the Supreme Court declined to hear an appeal of a ruling upholding Maryland's ban on carrying guns in certain sensitive places (Reuters via US News).",
-        "The court gave no explanation for turning the case away. Justice Thomas wrote separately to say he is skeptical of such laws (AP via ClickOnDetroit)."
+        "A three-judge D.C. Circuit panel voted 2-1 on Tuesday Nov. 17 to deny the administration's request to stay the June 1 decision. Wilkins (Obama appointee) and Rogers (Clinton appointee) formed the majority (Washington Times).",
+        "Plaintiffs' attorneys say 27 service members are covered, per the AP via LMT Online. Hegseth's office declined to comment (ABC News/AP)."
       ],
       "evidence_right": [
-        "The challengers relied on the court's 2022 decision in New York State Rifle & Pistol Association v. Bruen (Reuters).",
-        "The court will hear a challenge to state restrictions on assault-style rifles on Dec. 2 (Reuters, Bloomberg)."
+        "The June 1 majority opinion partially upheld a March 2025 ruling by U.S. District Judge Ana Reyes (AP via LMT Online).",
+        "The Supreme Court ruled for the administration last year in a different case, allowing the Pentagon to begin enforcing the ban while litigation proceeded (ABC News/AP, CBC)."
       ],
       "sources": [
         {
-          "name": "Reuters via US News",
-          "url": "https://usnews.com/news/top-news/articles/2026-11-16/us-supreme-court-sidesteps-fight-over-marylands-sensitive-places-gun-curbs"
+          "name": "ABC News (AP)",
+          "url": "https://abcnews.com/US/wireStory/divided-appeals-court-blocks-pentagon-expelling-transgender-troops-138228654"
         },
         {
-          "name": "Bloomberg",
-          "url": "https://bloomberg.com/news/articles/2026-11-16/supreme-court-rejects-challenge-to-gun-bans-in-public-spaces"
+          "name": "The Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/nov/17/divided-appeals-court-blocks-pentagon-expelling-several-transgender/"
         },
         {
-          "name": "ClickOnDetroit (AP)",
-          "url": "https://clickondetroit.com/news/politics/2026/11/16/supreme-court-declines-to-hear-challenge-to-maryland-sensitive-places-gun-law"
+          "name": "CBC News",
+          "url": "https://cbc.ca/news/world/transgender-us-army-troops-appeal-9.7425966"
         },
         {
-          "name": "SCOTUSblog",
-          "url": "https://www.scotusblog.com/"
+          "name": "LMT Online (AP)",
+          "url": "https://www.lmtonline.com/news/article/divided-appeals-court-blocks-pentagon-from-22536210.php"
         }
       ],
-      "sources_date": "November 17, 2026",
-      "sources_line": "Sourced from Reuters via US News, Bloomberg, ClickOnDetroit (AP), SCOTUSblog, November 17, 2026."
-    },
-    {
-      "category": "economy",
-      "category_label": "ECONOMY",
-      "kicker": "MARKETS",
-      "headline": "Stocks Slide as Nvidia Earnings, Anthropic IPO Loom",
-      "dek": "The S&P 500 fell 1.9% Monday as AI shares dropped and traders priced a December Fed rate hike.",
-      "pole_a_tag": "BULL",
-      "pole_b_tag": "BEAR",
-      "center_label": "BULL vs BEAR",
-      "pole_a_label": "Bull view",
-      "pole_b_label": "Bear view",
-      "pole_a_bullets": [
-        "All three major indexes gained more than 2% last week, so Monday's drop gave back only part of that move.",
-        "Analyst Ryan Detrick described the 17% rebound in chip stocks as a historic buying thrust, a sign of renewed demand.",
-        "Home Depot's third-quarter sales of $43.4 billion beat forecasts, a sign that consumers and spending are holding up.",
-        "Anthropic's order book was reported covered at its proposed price range, showing investor appetite for AI listings."
-      ],
-      "pole_b_bullets": [
-        "The S&P 500 and Nasdaq are down roughly 5% and 11% from their Oct. 6 records, and the VIX jumped 19% Monday.",
-        "Nvidia fell about 4% on reports its board is not weighing a Huang return, and analysts have downgraded the stock over leadership uncertainty.",
-        "October CPI rose 0.4%, above forecasts, and the Fed's preferred PCE gauge rose to 3.6% in September. Economists expect another hike.",
-        "Investors told the Wall Street Journal that Anthropic's valuation had to come down after the AI sell-off, a sign of stretched pricing."
-      ],
-      "pole_a_who": "Positions commonly voiced by equity strategists and technical analysts watching the AI rebound.",
-      "pole_b_who": "Positions commonly voiced by macro economists and portfolio managers focused on inflation, rates and AI valuations.",
-      "evidence_left": [
-        "Monday's close: the S&P 500 fell 1.9%, the Nasdaq Composite fell 2.5%, and the Dow fell 739 points, or 1.4% (CNN). The Dow closed at 51,608.17 and the S&P 500 at 7,416.59 (Benzinga).",
-        "Nvidia reports earnings and Anthropic debuts on the Nasdaq this week, according to CNN. Anthropic is expected to price its IPO on Nov. 18 and start trading Nov. 19 (CNBC)."
-      ],
-      "evidence_right": [
-        "All 101 economists in a Reuters poll published Nov. 10 expected the Fed to raise rates in December to 4.00%-4.25%. The Fed raised rates in September and held in October.",
-        "CME FedWatch put the odds of a December hike at 88% after the October CPI report (Investing.com)."
-      ],
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/16/business/stocks-nvidia-ai-anthropic"
-        },
-        {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/equities/26/11/63331709/stock-market-today-dow-jones-sp-500-futures-fall-ahead-of-nvidias-q3-earnings-cbrs-amzn-rcat-in-focus"
-        },
-        {
-          "name": "Reuters via Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/fed-raise-rates-once-more-124512933.html"
-        },
-        {
-          "name": "Stocktwits",
-          "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-investors-hold-back-ahead-of-nvidia-earnings-anthropic-ipo/cNbaf4PR9gk"
-        }
-      ],
-      "sources_date": "November 17, 2026",
-      "sources_line": "Sourced from CNN, Benzinga, Reuters via Yahoo Finance, Stocktwits, November 17, 2026."
-    },
-    {
-      "category": "business",
-      "category_label": "BUSINESS",
-      "kicker": "IPO",
-      "headline": "Anthropic Prices Record-Scale IPO This Week",
-      "dek": "The Claude maker plans to price 825 million shares at $70-$78 on Nov. 18 and start Nasdaq trading Nov. 19 as ANT.",
-      "pole_a_tag": "GROWTH-FOCUSED",
-      "pole_b_tag": "RISK-FOCUSED",
-      "center_label": "GROWTH vs RISK",
-      "pole_a_label": "Growth-focused view",
-      "pole_b_label": "Risk-focused view",
-      "pole_a_bullets": [
-        "A revised S-1 reported $17 billion in third-quarter revenue, which supporters see as evidence of fast demand for AI services.",
-        "The offering is reported to be well oversubscribed. TradingKey put orders at about six times the shares offered by roadshow day four (single outlet).",
-        "Proceeds are meant for compute and infrastructure, and seven compute suppliers agreed to buy $26 billion of non-voting stock.",
-        "A retail allocation of up to 20% opens a mega-cap AI listing to ordinary investors."
-      ],
-      "pole_b_bullets": [
-        "Investors called a $1.5 trillion valuation a stretch, and Anthropic had eyed about $2 trillion as recently as September.",
-        "The S-1 lists $895.4 billion in purchase commitments, against $17 billion in quarterly revenue.",
-        "One founder share carries 50.1% of the vote, and a five-member trust elects most of the board, which limits outside shareholders' say.",
-        "The IPO arrives after an AI-stock sell-off and midterm ballot measures that could slow AI buildout."
-      ],
-      "pole_a_who": "Positions commonly voiced by growth investors and IPO-market bulls.",
-      "pole_b_who": "Positions commonly voiced by valuation-focused investors and governance analysts.",
-      "evidence_left": [
-        "Anthropic filed to list on Nasdaq as ANT. It plans to offer 825 million Class A shares at $70-$78, for up to $64.35 billion in proceeds at the top of the range (CNBC).",
-        "Pricing is expected the evening of Nov. 18, with trading on Nov. 19 (CNBC). The S-1 says up to about 20% of the offering may go to retail investors."
-      ],
-      "evidence_right": [
-        "CNBC and TechCrunch put the top-of-range valuation near $1.4 trillion fully diluted. TradingKey calculated a market cap of about $917 billion to $1.02 trillion using 13.09 billion shares outstanding.",
-        "A Hyperliquid crypto contract tracking ANT traded at $98.67 on Monday, about 26% above the top of the range, per BeInCrypto. It is an unofficial market, not the IPO price."
-      ],
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"
-        },
-        {
-          "name": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262306494-anthropic-ipo-claude-developer-set-debut-nasdaq-tradingkey"
-        },
-        {
-          "name": "BeInCrypto",
-          "url": "https://beincrypto.com/how-to-buy-anthropic-ipo-ant-shares/"
-        }
-      ],
-      "sources_date": "November 17, 2026",
-      "sources_line": "Sourced from CNBC, Yahoo Finance, TradingKey, BeInCrypto, November 17, 2026."
-    },
-    {
-      "category": "sports",
-      "category_label": "SPORTS",
-      "kicker": "NFL",
-      "headline": "Patriots Fear Drake Maye Fractured Ankle in Munich Loss",
-      "dek": "New England is 5-5 heading into its bye, with its quarterback out indefinitely and the injury severity not officially confirmed.",
-      "pole_a_tag": "TAKE",
-      "pole_b_tag": "COUNTER-TAKE",
-      "center_label": "TAKE vs COUNTER-TAKE",
-      "pole_a_label": "Take",
-      "pole_b_label": "Counter-take",
-      "pole_a_bullets": [
-        "The Patriots' season is effectively over, because losing a franchise quarterback to a reported fracture ends their hopes of contending.",
-        "The defense has declined sharply. FanSided has it allowing 6.4 yards per play and the most big plays in the NFL since Week 6.",
-        "Backup Tommy DeVito went 12 of 24 for 81 yards with one touchdown and one interception, a sign the offense collapses without Maye.",
-        "Injuries to A.J. Brown and several linemen, plus three losses in four games, point to a team that has already faded."
-      ],
-      "pole_b_bullets": [
-        "The team has not confirmed a fracture. Reports say it fears one, and the extent of the injury is unconfirmed.",
-        "New England is 5-5 with a Week 11 bye, so there is time to regroup and to settle the quarterback situation.",
-        "Coach Mike Vrabel only said he does not expect Maye back right after the bye, which does not rule out a return later in the year.",
-        "One loss in Germany, in which the Patriots' defense allowed 494 yards, is a small sample for declaring a season over."
-      ],
-      "pole_a_who": "Positions commonly voiced by NFL analysts and power-rankings writers, such as FanSided and SI.",
-      "pole_b_who": "Positions commonly voiced by team-side reporters and cautious analysts, citing the lack of a confirmed diagnosis.",
-      "evidence_left": [
-        "New England lost 35-10 to the Lions in Munich on Nov. 15. Maye was hurt on the first drive after a sack by Aidan Hutchinson (CBS Sports, Yahoo Sports).",
-        "ESPN's Adam Schefter reported the team fears a fractured ankle, and NFL Network's Ian Rapoport reported he could miss the rest of the season (NFL.com, CBS Sports)."
-      ],
-      "evidence_right": [
-        "Maye stayed in Germany for more testing to determine whether surgery is needed (NFL.com). Vrabel said he would not imagine Maye being available after the bye (WCVB).",
-        "Rapoport reported Hutchinson is believed to have torn an ACL while celebrating the sack (Yahoo Sports, NBC Sports Bay Area). The report is not confirmed by the team."
-      ],
-      "sources": [
-        {
-          "name": "CBS Sports",
-          "url": "https://www.cbssports.com/nfl/news/drake-maye-injury-update-patriots-qb-ankle-out-for-season/"
-        },
-        {
-          "name": "NFL.com",
-          "url": "https://www.nfl.com/news/nfl-network-patriots-qb-drake-maye-could-miss-rest-of-2026-season"
-        },
-        {
-          "name": "WCVB",
-          "url": "https://www.wcvb.com/article/patriots-head-into-bye-week-with-uncertainly-surrounding-drake-mayes-ankle-and-issues-on-defense/74450761"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/nfl/news/13612836/nfl-new-england-patriots-quarterback-drake-maye-could-miss-rest-of-the-season-with-ankle-injury-suffered-against-detroit-lions"
-        }
-      ],
-      "sources_date": "November 17, 2026",
-      "sources_line": "Sourced from CBS Sports, NFL.com, WCVB, Sky Sports, November 17, 2026."
+      "sources_date": "November 18, 2026",
+      "sources_line": "Sourced from ABC News (AP), The Washington Times, CBC News, LMT Online (AP), November 18, 2026."
     }
   ]
 }
