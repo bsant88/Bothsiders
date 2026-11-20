@@ -1,329 +1,317 @@
 {
-  "date": "November 19, 2026",
+  "date": "November 20, 2026",
   "stories": [
     {
-      "category": "general",
-      "category_label": "GENERAL",
-      "kicker": "WORLD",
-      "headline": "Trump, Xi and Putin hold first trilateral summit in Shenzhen",
-      "dek": "The three leaders issued a joint declaration on nuclear risk and energy, while the Iran and Ukraine wars continue.",
-      "pole_a_tag": "OPTIMIST",
-      "pole_b_tag": "SKEPTIC",
-      "center_label": "OPTIMIST vs SKEPTIC",
-      "pole_a_label": "Optimist view",
-      "pole_b_label": "Skeptic view",
+      "category": "business",
+      "category_label": "BUSINESS",
+      "kicker": "AI MARKETS",
+      "headline": "Anthropic's record IPO fails to stop a broad market sell-off",
+      "dek": "The largest IPO on record opened strong, then faded as US stocks fell more than 2% and lawmakers renewed calls for AI oversight.",
+      "pole_a_tag": "GROWTH-FOCUSED",
+      "pole_b_tag": "RISK-FOCUSED",
+      "center_label": "GROWTH vs RISK",
+      "pole_a_label": "Growth-focused view",
+      "pole_b_label": "Risk-focused view",
       "pole_a_bullets": [
-        "Three nuclear powers publicly agreeing that nuclear war must never be fought is a useful baseline for arms talks.",
-        "Direct leader-level contact lowers the risk of miscalculation while wars in Ukraine and Iran continue.",
-        "A shared energy-supply pledge could ease pressure on oil markets strained by the Gulf conflict.",
-        "Xi called the talks positive and constructive, and a first meeting can open a channel for follow-up."
+        "Investors absorbed a record $81.3 billion raise and the shares still closed about 17% above the $83 offer price on a day the broad market fell.",
+        "The filing shows $33.24 billion in revenue for the first nine months of 2026, which supporters cite as proof of real demand.",
+        "The $1.26 billion operating loss was driven largely by computing costs, which supporters read as investment in capacity rather than weakness.",
+        "Analysts told CBS no single catalyst explained the sell-off, which supporters say points to broad market worries rather than a verdict on Anthropic."
       ],
       "pole_b_bullets": [
-        "Analysts expected more symbolism than breakthroughs, and the declaration has no stated enforcement mechanism.",
-        "Critics fear a three-way format could carve the world into spheres of influence at the expense of smaller states.",
-        "Ukraine and Iran, the most urgent conflicts, produced no announced ceasefire or deal.",
-        "The meeting gives Putin a high-profile platform despite the war in Ukraine, which critics say weakens pressure on Moscow."
+        "Gains faded from a peak of 38.6% above the offer price to 17.1% by the close, and stocks hit session lows as trading began, a sign that AI enthusiasm is fragile.",
+        "The company posted an operating loss despite $33.24 billion in nine-month revenue, so profitability is unproven at a valuation above $1 trillion.",
+        "Sen. Elizabeth Warren says Anthropic has not answered for threats to Americans' retirements and the financial system if the IPO goes badly.",
+        "A bipartisan Senate group introduced a bill requiring public companies to disclose more about AI, and Rep. Pramila Jayapal called the listing a 'ticking time bomb' risk."
       ],
-      "pole_a_who": "Positions commonly voiced by summit participants, Chinese state media and arms-control advocates.",
-      "pole_b_who": "Positions commonly voiced by foreign-policy analysts and critics of great-power bargaining.",
+      "pole_a_who": "Positions commonly voiced by AI-sector investors, growth-oriented analysts and company executives.",
+      "pole_b_who": "Positions commonly voiced by Sen. Elizabeth Warren, Rep. Pramila Jayapal, and AI-accountability groups.",
       "evidence_left": [
-        "Trump, Xi and Putin agreed on Nov. 19 in Shenzhen that a nuclear war cannot be won and must never be fought (France 24).",
-        "Chinese state media reported a commitment to stable energy flows among the three countries (Al Jazeera)."
+        "Anthropic priced at $83 and raised $81.3 billion at a $1.5 trillion valuation, per Yahoo Finance; the debut closed about 17% above the offer price, per Reuters.",
+        "Per the SEC filing cited by Yahoo Finance, revenue was $33.24 billion and operating loss $1.26 billion for the first nine months of 2026."
       ],
       "evidence_right": [
-        "Meeting length is reported differently: about an hour (Times of Israel live blog) and about 90 minutes (TASS, RT).",
-        "TASS reported no joint oral statements to media after the meeting; the declaration text was published by TASS and RT."
+        "Reuters: the Dow fell 1,101.11 points (2.19%) to 49,097.06 and the S&P 500 fell 2.02% to 7,175.83, its sixth straight losing session.",
+        "Peak first-day gain is reported as 38.6% by Reuters and 34% by CBS; Semafor reports a bipartisan Senate quartet introduced AI-disclosure legislation Thursday."
       ],
       "sources": [
         {
-          "name": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"
+          "name": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-213427908.html"
         },
         {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit"
+          "name": "CBS News",
+          "url": "https://cbsnews.com/news/dow-tumbles-wall-street-ai-fears"
         },
         {
-          "name": "TASS",
-          "url": "https://tass.com/politics/2221489"
-        },
-        {
-          "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-november-19-2026/"
+          "name": "Semafor",
+          "url": "https://www.semafor.com/article/11/19/2026/anthropic-ipo-heightens-washingtons-tech-scrutiny"
         }
       ],
-      "sources_date": "November 19, 2026",
-      "sources_line": "Sourced from France 24, Al Jazeera, TASS, Times of Israel, November 19, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "IRAN WAR",
-      "headline": "Iran widens Gulf attacks as Vance-Trump split over the war surfaces",
-      "dek": "Iranian strikes hit a US base in Kuwait and sites in Bahrain, while a report says Trump is frustrated with Vance's criticism of the war.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "Preventing Iran from getting a nuclear weapon justifies the war, and Trump says he would make the same decision again.",
-        "The naval blockade squeezes Iran's economy without a full ground campaign, and Iran's new attacks suggest pressure is working.",
-        "Vance says Trump will not let this become a forever war and that it will end well before 2029.",
-        "Granting sanctions relief or frozen funds before concessions would reward Tehran, so refusing a deal now is defensible."
-      ],
-      "pole_b_bullets": [
-        "The war was launched without congressional approval, and the new Democratic Congress should use its funding and oversight powers.",
-        "Voters punished Republicans in the midterms, and Vance himself said the war was the reason for the losses.",
-        "Tit-for-tat strikes keep widening the conflict to Gulf states and US bases, and a negotiated end is overdue.",
-        "Halting direct talks while escalating pushes the conflict toward the open-ended war the administration says it wants to avoid."
-      ],
-      "pole_a_who": "Positions commonly voiced by Trump administration officials and hawkish Republicans.",
-      "pole_b_who": "Positions commonly voiced by congressional Democrats and war-powers advocates.",
-      "evidence_left": [
-        "Iran targeted Kuwait's Ali Al Salem air base and sites in Bahrain on Nov. 18 after US strikes on Qeshm Island; Kuwait and Bahrain said they intercepted the attacks (The Hill, Time).",
-        "The US maintains a naval blockade of Iranian ports; the Iran war began Feb. 28, per AP."
-      ],
-      "evidence_right": [
-        "Vance wrote after the Nov. 3 midterms that the reason Republicans lost was the war; Trump called the comment largely true but said he would do it again (ABC News).",
-        "The New York Times reported Trump privately voiced frustration with Vance's criticism; Vance has said there is zero daylight between them (Mediaite summary of NYT). The private remarks are not independently confirmed."
-      ],
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/"
-        },
-        {
-          "name": "Time",
-          "url": "https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance/"
-        },
-        {
-          "name": "ABC News",
-          "url": "https://abcnews.com/Politics/vance-blames-iran-war-republicans-midterms-defeat-trump/story?id=137849295"
-        },
-        {
-          "name": "Mediaite",
-          "url": "https://mediaite.com/media/news/bombshell-report-says-trump-frustrated-with-vance-over-iran-war-criticism-privately-boosting-rubio-as-successor"
-        }
-      ],
-      "sources_date": "November 19, 2026",
-      "sources_line": "Sourced from The Hill, Time, ABC News, Mediaite, November 19, 2026."
+      "sources_date": "November 20, 2026",
+      "sources_line": "Sourced from Reuters via Yahoo Finance, CBS News, Semafor, November 20, 2026."
     },
     {
       "category": "economy",
       "category_label": "ECONOMY",
-      "kicker": "MARKETS & FED",
-      "headline": "S&P 500 slips below 200-day average as Fed minutes point to more hikes",
-      "dek": "Governor Waller floated a 50-basis-point December hike while Nvidia's earnings beat left stocks mixed.",
+      "kicker": "FEDERAL RESERVE",
+      "headline": "Hot October CPI puts a December Fed rate hike in focus",
+      "dek": "Economists read the same inflation data as either a reason to tighten steadily or a risk to growth and markets.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "Nvidia beat revenue and earnings estimates, so AI demand has not weakened.",
-        "Anthropic priced its IPO above range, showing investor appetite for AI.",
-        "Strategists note that beneath a tech-heavy index, other market groups are doing pretty well.",
-        "Markets already price a 25-basis-point December hike, so much of the tightening is expected."
+        "Core inflation rose at a 3.7% three-month annualized pace in October, so supporters of tightening say the Fed must act.",
+        "Fed Governor Chris Waller has said a larger half-point hike may be needed to protect the Fed's credibility.",
+        "UBS says resilient growth and strong corporate earnings should let equities withstand moderate tightening.",
+        "Schwab expects two more hikes this cycle, which supporters describe as a measured path rather than a shock."
       ],
       "pole_b_bullets": [
-        "The S&P 500 is below its 200-day moving average after a fifth straight losing session.",
-        "Nearly all Fed participants saw more hikes as likely appropriate, and Waller wants 50 basis points in December.",
-        "A 10-year yield near 5.07% and a VIX near 24.5 raise the cost of valuations that remain elevated.",
-        "Nvidia shares fell despite the beat, with a CEO exit and circular-financing questions weighing on AI sentiment."
+        "The 10-year Treasury yield is already around 5%, so more hikes add to borrowing costs and valuation pressure.",
+        "Headline CPI slowed to 0.4% in October from 0.6% in September, which skeptics say argues for patience.",
+        "The yearly inflation figure had to be interpolated because of the 2025 shutdown data gap, so skeptics say the data are noisy.",
+        "UBS notes the risk of back-to-back hikes has grown, and Waller has floated 50 basis points, which compounds tightening risk."
       ],
-      "pole_a_who": "Positions commonly voiced by market strategists and AI-sector investors.",
-      "pole_b_who": "Positions commonly voiced by rate-focused analysts and Fed hawks.",
+      "pole_a_who": "Positions commonly voiced by Fed hawks such as Gov. Waller and bank economists forecasting hikes.",
+      "pole_b_who": "Positions commonly voiced by market strategists and economists cautious about tightening into slowing momentum.",
       "evidence_left": [
-        "Nvidia reported $115.8 billion in quarterly revenue, up 103% year over year, versus a $109.1 billion estimate (Fox Business, citing LSEG).",
-        "Anthropic priced its IPO at $83 per share on Nov. 18, above the $70-$78 range (CNBC)."
+        "KPMG: October CPI rose 0.4% after 0.6% in September; core rose 0.3%; its interpolated year-over-year estimate is 4.2%, up from 3.7%.",
+        "KPMG reports Waller said he is considering a half-point hike, and UBS expects 25 basis point hikes in December 2026 and March 2027."
       ],
       "evidence_right": [
-        "On Nov. 18 the S&P 500 fell 0.24% to 7,322.53 and the Dow fell 1.12% to 50,193.03 per Reuters; The Motley Fool reported 7,323 and 50,198.",
-        "October minutes showed a 10-2 vote to hold at 3.75%-4.00%; Waller said on CNBC to go 50 in December (Investing.com). Seeking Alpha put 50-basis-point odds at 4.7%."
+        "Schwab: the Fed held rates at 3.75%-4.00% in October, with two dissenters favoring a quarter-point hike, after a September hike.",
+        "Schwab: the 10-year Treasury yield is around 5%; UBS reports Dallas Fed's Lorie Logan suggested tightening may need to accelerate."
       ],
       "sources": [
         {
-          "name": "Reuters via The Star",
-          "url": "https://www.thestar.com.my/business/business-news/2026/11/19/wall-street-ends-mixed-after-nvidia-earnings-fed-minutes"
+          "name": "KPMG",
+          "url": "https://kpmg.com/us/en/articles/2026/october-2026-cpi.html"
         },
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/27-20-17-which-companies-benefit-when-the-fed-rattles-the-market-5037632"
+          "name": "Charles Schwab",
+          "url": "https://www.schwab.com/learn/story/fomc-meeting"
         },
         {
-          "name": "Seeking Alpha",
-          "url": "https://seekingalpha.com/news/4674166-forget-25-bps-feds-waller-says-shock-people-with-50-bp-december-hike"
-        },
-        {
-          "name": "Fox Business",
-          "url": "https://www.foxbusiness.com/markets/nvidia-interim-ceo-says-weve-got-this-company-looks-future-without-jensen-huang"
+          "name": "UBS",
+          "url": "https://www.ubs.com/us/en/wealth-management/insights/market-news/article.4017135.html"
         }
       ],
-      "sources_date": "November 19, 2026",
-      "sources_line": "Sourced from Reuters via The Star, Investing.com, Seeking Alpha, Fox Business, November 19, 2026."
+      "sources_date": "November 20, 2026",
+      "sources_line": "Sourced from KPMG, Charles Schwab, UBS, November 20, 2026."
     },
     {
-      "category": "business",
-      "category_label": "BUSINESS",
-      "kicker": "IPO",
-      "headline": "Anthropic prices record IPO at $83 a share ahead of Nasdaq debut",
-      "dek": "The Claude maker upsized its offering to about $81.3 billion, the largest on record, with trading set for Thursday.",
-      "pole_a_tag": "GROWTH-FOCUSED",
-      "pole_b_tag": "RISK-FOCUSED",
-      "center_label": "GROWTH vs RISK",
-      "pole_a_label": "Growth-focused view",
-      "pole_b_label": "Risk-focused view",
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "SHUTDOWN FIGHT",
+      "headline": "Iran war splits Democrats and Congress ahead of Dec. 11 funding deadline",
+      "dek": "Lawmakers dispute whether to tie war funding limits to a spending bill, with a pre-Christmas shutdown possible.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Pricing above the range and upsizing the deal show demand for AI leaders is deep.",
-        "Retail allocation and Nasdaq-100 inclusion widen access and support a liquid market.",
-        "Fresh capital lets the company keep funding compute and model development.",
-        "A strong debut could open the way for other private AI firms such as OpenAI."
+        "Senate Majority Leader John Thune says Democrats have not engaged on funding talks, which he says suggests they may force a third shutdown he calls a 'really, really bad outcome.'",
+        "Sen. Dave McCormick calls Democratic war-powers votes 'political theater' and points to Iran's role as a terror financier with nuclear ambitions.",
+        "The administration argues the War Powers Resolution is unconstitutional, so it has brushed off votes to end hostilities.",
+        "Republicans point to Democrats having forced three shutdowns since January 2025, and say a holiday-season lapse would hurt Americans."
       ],
       "pole_b_bullets": [
-        "A roughly $1.5 trillion fully diluted valuation leaves little room for disappointment.",
-        "About $900.9 billion in committed compute and infrastructure spending is a large fixed obligation.",
-        "The IPO comes amid volatility in tech and doubts over whether AI spending will pay off.",
-        "Big strategic buyers in the placement add to concerns about circular financing across the AI industry."
+        "Minority Leader Hakeem Jeffries calls the conflict a 'reckless and costly war of choice' that needs to end.",
+        "Sen. Chris Van Hollen argues Democrats should refuse any funding bill that lacks language ending the war.",
+        "Democrats say Trump never asked Congress to authorize the war, which they say violates the War Powers Act and the Constitution.",
+        "Rep. Rosa DeLauro and Rep. Gregory Meeks argue a shutdown would not stop the war, and say Democrats will have more leverage after taking control in January."
       ],
-      "pole_a_who": "Positions commonly voiced by growth investors and AI-sector bulls.",
-      "pole_b_who": "Positions commonly voiced by valuation-focused analysts and AI-bubble skeptics.",
+      "pole_a_who": "Positions commonly voiced by Senate GOP leadership, Sen. Dave McCormick and administration allies.",
+      "pole_b_who": "Positions commonly voiced by Democratic leaders and appropriators; the party is divided on shutdown tactics.",
       "evidence_left": [
-        "Anthropic sold about 980 million shares at $83 to raise $81.3 billion, topping SpaceX's $75 billion IPO (CNBC, CNN).",
-        "Shares are expected to trade on Nasdaq under ANT on Nov. 19, and the offering is expected to close Nov. 20 (TechFundingNews)."
+        "Reuters: Congress could face a pre-Christmas shutdown as the Iran war and Trump's demand for $350 billion in new Pentagon spending threaten a funding deal.",
+        "Washington Times: the funding deadline is Dec. 11 and Republicans still control which bills reach the floor."
       ],
       "evidence_right": [
-        "Valuation is reported as about $1.5 trillion fully diluted (TechCrunch, CNN) and about $1.08 trillion on shares outstanding (StockAnalysis).",
-        "Anthropic reported about $900.9 billion in committed compute and infrastructure spending (TechFundingNews, citing its filings)."
+        "Washington Times: Trump has not asked Congress to formally authorize the war; CBS: one war powers resolution cleared both chambers in June and the administration brushed it off.",
+        "Semafor: House Democrats are backing away from using the December deadline to force an end to the war; CBS: Democrats formally take control of Congress in January."
       ],
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+          "name": "Reuters",
+          "url": "https://www.933thedrive.com/2026/11/20/congress-struggles-to-avert-us-shutdown-as-iran-war-divides-lawmakers/"
         },
         {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock"
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+          "name": "Washington Times",
+          "url": "https://www.washingtontimes.com/news/2026/nov/18/democrats-debate-block-iran-war-funding-without-causing-government/"
         },
         {
-          "name": "StockAnalysis",
-          "url": "https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/"
+          "name": "Semafor",
+          "url": "https://www.semafor.com/article/11/19/2026/democrats-seem-to-back-away-from-shutdown-over-iran-war"
         }
       ],
-      "sources_date": "November 19, 2026",
-      "sources_line": "Sourced from CNBC, CNN, TechCrunch, StockAnalysis, November 19, 2026."
+      "sources_date": "November 20, 2026",
+      "sources_line": "Sourced from Reuters, CBS News, Washington Times, Semafor, November 20, 2026."
     },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "AI SAFETY",
-      "headline": "GAO: four major chatbots produced viable attack plans in covert tests",
-      "dek": "A watchdog report requested by Sen. Hassan says safeguards were bypassed on ChatGPT, Claude, Gemini and Grok.",
+      "kicker": "CHIP EXPORTS",
+      "headline": "US tightens rules on remote access to advanced AI chips",
+      "dek": "A Commerce rule requires licenses for data centers serving Chinese firms, and Nvidia has halted H200 sales to China.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "Testers had to bypass safeguards deliberately, and the models refused some requests at first.",
-        "Companies say they keep improving protections and added safeguards after the tests.",
-        "Information in the plans may be available elsewhere, and OpenAI asked GAO to clarify where details originated.",
-        "Broad new rules could slow beneficial AI and limit free expression, so targeted fixes are preferable."
+        "Licenses are now needed for data centers in five countries, including Brazil, which adds friction for US chipmakers' customers abroad.",
+        "Jefferies estimates up to $62 billion of Nvidia data center revenue is exposed next year, and critics say lost scale could weaken US AI leadership.",
+        "Nvidia has already stopped H200 sales to China, about $2.4 billion last quarter, which shows the immediate cost to a US company.",
+        "Beijing is reportedly slowing H200 imports to favor domestic chips, which critics say could speed China's own chip industry."
       ],
       "pole_b_bullets": [
-        "Hassan says a terrorist could get a concrete playbook in under 12 hours.",
-        "All four leading platforms failed, so the problem is industry-wide rather than one company's.",
-        "Voluntary safeguards have proven bypassable, and Congress should legislate and hold hearings.",
-        "Critical infrastructure such as the power grid was among the targets in the plans, which raises the stakes."
+        "Supporters say renting chips offshore let Chinese firms bypass physical export limits, and the rule closes that loophole.",
+        "Bloomberg ties the rule to heightened scrutiny of export curbs after an alleged espionage scandal involving Nvidia.",
+        "Sen. Ron Wyden and Rep. Richard Neal opened an inquiry into allowing H200 sales to China in return for a 25% revenue cut.",
+        "The proposed Remote Access Security Act would give Commerce oversight of cloud-based use of controlled technology."
       ],
-      "pole_a_who": "Positions commonly voiced by AI companies and innovation-focused policy groups.",
-      "pole_b_who": "Positions commonly voiced by Sen. Maggie Hassan and AI safety advocates.",
+      "pole_a_who": "Positions commonly voiced by chipmakers, cloud operators and trade analysts wary of lost sales.",
+      "pole_b_who": "Positions commonly voiced by export-control advocates and lawmakers such as Wyden and Neal.",
       "evidence_left": [
-        "OpenAI said ChatGPT refused many requests; GAO said ChatGPT ultimately provided usable information (CASRAI summary of GAO report).",
-        "Anthropic said it initially refused the request and described added protections after testing (Yahoo/Union Leader, IBTimes)."
+        "Bloomberg: Commerce issued an interim rule Monday requiring licenses for advanced chips going to data centers in Singapore, Malaysia, Thailand, Indonesia and Brazil.",
+        "TECHi: the rule takes effect Nov. 19, the Federal Register publication date; TokenPost: Alibaba is assessing the impact and Tencent warned of reduced AI training capacity."
       ],
       "evidence_right": [
-        "GAO-27-108814, released Nov. 18, found all four platforms produced viable plans in under 12 hours; testing ran in spring 2026 (CASRAI, WMUR).",
-        "Two platforms produced explosive-device plans and two targeted electrical infrastructure; GAO did not say which platform produced which; Hassan plans hearings in January (Yahoo, Archyde)."
+        "TECHi, citing TechCrunch: Nvidia's interim CEO said on the earnings call that H200 sales to China have stopped; the Jefferies estimate is relayed second-hand via PCMag.",
+        "Asia Times: Wyden and Neal wrote Commerce Secretary Howard Lutnick on Nov. 12, asking the department to preserve records of the H200 licenses and the 25% levy."
       ],
       "sources": [
         {
-          "name": "CASRAI (summary of GAO-27-108814)",
-          "url": "https://casrai.org/news/gao-ai-chatbots-covert-tests-attack-plans-hassan-hearings"
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
         },
         {
-          "name": "Union Leader",
-          "url": "https://www.unionleader.com/news/politics/hassan-gao-finds-major-chatbots-produced-terrorist-attack-plans-2ce38e7b"
+          "name": "TokenPost",
+          "url": "https://www.tokenpost.com/news/regulation/61900"
         },
         {
-          "name": "WMUR",
-          "url": "https://www.wmur.com/article/nh-lawmakers-experts-react-to-ai-plotting-a-terrorist-attack-in-report/74472454"
+          "name": "Asia Times",
+          "url": "https://asiatimes.com/2026/11/china-hoards-nvidias-ai-chips-as-us-curbs-remote-access/"
         },
         {
-          "name": "IBTimes UK",
-          "url": "https://www.ibtimes.co.uk/gao-ai-chatbots-attack-planning-safety-bypassed-1833209"
+          "name": "TECHi",
+          "url": "https://www.techi.com/us-chip-export-rule-takes-effect-nvidia-halts-h200-china-sales/"
         }
       ],
-      "sources_date": "November 19, 2026",
-      "sources_line": "Sourced from CASRAI (summary of GAO-27-108814), Union Leader, WMUR, IBTimes UK, November 19, 2026."
+      "sources_date": "November 20, 2026",
+      "sources_line": "Sourced from Bloomberg, TokenPost, Asia Times, TECHi, November 20, 2026."
     },
     {
-      "category": "business",
-      "category_label": "BUSINESS",
-      "kicker": "HEALTH INSURERS",
-      "headline": "Health insurer stocks fall on CMS proposal to expand Medicare Advantage audits",
-      "dek": "UnitedHealth and Humana dropped about 10% and 13% on Nov. 18 after the CRUSH rule would extend extrapolated audits back to 2018.",
-      "pole_a_tag": "GROWTH-FOCUSED",
-      "pole_b_tag": "RISK-FOCUSED",
-      "center_label": "GROWTH vs RISK",
-      "pole_a_label": "Growth-focused view",
-      "pole_b_label": "Risk-focused view",
+      "category": "sports",
+      "category_label": "SPORTS",
+      "kicker": "NFL",
+      "headline": "Ravens bench Marlon Humphrey for one game over Baltimore comment",
+      "dek": "The cornerback apologized for a podcast remark but was sent home and ruled inactive for Sunday's game at Carolina.",
+      "pole_a_tag": "TAKE",
+      "pole_b_tag": "COUNTER-TAKE",
+      "center_label": "TAKE vs COUNTER-TAKE",
+      "pole_a_label": "Take",
+      "pole_b_label": "Counter-take",
       "pole_a_bullets": [
-        "The rule is only a proposal, open for comment until Jan. 19, 2027, and may change before finalization.",
-        "Oppenheimer called the selloff an overreaction and cited likely legal challenges to the audit rule.",
-        "Medicare Advantage enrollment and the insurers' underlying businesses are unchanged by a proposal.",
-        "Better fraud detection can be absorbed through pricing and coding changes over time."
+        "The Ravens were right to sit him, since an apology does not erase a public insult to the city the team represents.",
+        "Coach Jesse Minter said the remark is not a reflection of how the organization wants to operate.",
+        "Mayor Brandon Scott said a verbal apology is not enough, because young Black Baltimore fans look up to Ravens players.",
+        "As the longest-tenured defender, Humphrey is held to a high standard, and one game is a proportionate penalty."
       ],
       "pole_b_bullets": [
-        "Extrapolating findings back to payment year 2018 targets revenue plans already recorded.",
-        "Mizuho analyst Ann Hynes called heightened scrutiny negative for margins, with UnitedHealth and Humana most exposed.",
-        "UnitedHealth has not yet quantified or reserved for the 2018-2024 exposure.",
-        "Concentration is high: UnitedHealth and Humana hold 46% of Medicare Advantage enrollees (KFF)."
+        "He apologized the same day and deleted the episode, which critics of the benching say should have settled it.",
+        "It was a podcast quip, and a one-game benching hurts the team more than it answers the comment.",
+        "Humphrey said he has spent his whole career and many offseasons in Baltimore, and critics say that record should count.",
+        "Minter described him as very remorseful, and the penalty is one game, so critics see the sit-out as an overreaction."
       ],
-      "pole_a_who": "Positions commonly voiced by some sell-side analysts and insurer-side investors.",
-      "pole_b_who": "Positions commonly voiced by margin-focused analysts and credit-risk watchers.",
+      "pole_a_who": "Positions commonly voiced by Ravens leadership, Baltimore officials and commentators backing the decision.",
+      "pole_b_who": "Positions commonly voiced by fans and analysts who see the discipline as excessive.",
       "evidence_left": [
-        "CMS announced the CRUSH proposal Nov. 16; comments are open until Jan. 19, 2027 (EBC, HeyGoTrade).",
-        "CMS's roughly $9 billion per payment year figure covers the whole industry, not UnitedHealth alone (HeyGoTrade)."
+        "ESPN: on a podcast released Wednesday, Humphrey said Baltimore is 'best at making criminals'; he apologized Wednesday and the episode was deleted.",
+        "Yahoo Sports: Minter announced Thursday that Humphrey was sent home, will not practice, and is inactive Sunday at Carolina."
       ],
       "evidence_right": [
-        "UnitedHealth fell 10.21% to $349.91 and Humana fell 12.98% to $385.78 on Nov. 18 (HeyGoTrade, EBC).",
-        "CMS estimates about $9 billion recovered per payment year; HHS projects nearly $90 billion in federal savings from 2027 to 2036 (TradingView/GuruFocus)."
+        "Yahoo Sports: Minter said the penalty covers one game only, and Humphrey should return for the trip to Houston.",
+        "UPI: Mayor Brandon Scott criticized the comment and invited Humphrey to meet with Baltimore residents who have re-entered the community."
       ],
       "sources": [
         {
-          "name": "TradingView/GuruFocus",
-          "url": "https://www.tradingview.com/news/gurufocus:3ac55a47d094b:0-unitedhealth-stocks-fall-4-62-as-cms-proposes-wider-medicare-advantage-audits/"
+          "name": "ESPN",
+          "url": "https://www.espn.com/nfl/story/_/id/50532199/ravens-send-marlon-humphrey-home-say-inactive"
         },
         {
-          "name": "StreetInsider",
-          "url": "https://www.streetinsider.com/Investing/UnitedHealth+stock+continues+lower+amid+federal+audit+proposal/27368394.html"
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ravens-send-marlon-humphrey-home-173423921.html"
         },
         {
-          "name": "HeyGoTrade",
-          "url": "https://www.heygotrade.com/en/news/unitedhealth-unh-stock-news-november-19-2026/"
-        },
-        {
-          "name": "Rallies.ai",
-          "url": "https://rallies.ai/news/health-insurers-extend-decline-on-proposed-new-rule-to-curb-fraud-73c041727c3585ed"
+          "name": "UPI via Breitbart",
+          "url": "https://www.breitbart.com/news/ravens-send-cornerback-humphrey-home-after-baltimore-criminals-slight/"
         }
       ],
-      "sources_date": "November 19, 2026",
-      "sources_line": "Sourced from TradingView/GuruFocus, StreetInsider, HeyGoTrade, Rallies.ai, November 19, 2026."
+      "sources_date": "November 20, 2026",
+      "sources_line": "Sourced from ESPN, Yahoo Sports, UPI via Breitbart, November 20, 2026."
+    },
+    {
+      "category": "general",
+      "category_label": "GENERAL",
+      "kicker": "DIPLOMACY",
+      "headline": "Trump, Xi and Putin issue four-point declaration at Shenzhen summit",
+      "dek": "The first-ever trilateral meeting produced a joint statement but no announced arms deal, Ukraine plan or ceasefire.",
+      "pole_a_tag": "OPTIMIST",
+      "pole_b_tag": "SKEPTIC",
+      "center_label": "OPTIMIST vs SKEPTIC",
+      "pole_a_label": "Optimist view",
+      "pole_b_label": "Skeptic view",
+      "pole_a_bullets": [
+        "Getting three nuclear powers into one room is an achievement, and Trump called the meeting a 12 on a scale of zero to 10.",
+        "The declaration commits all three countries to dialogue on reducing nuclear risks, and the Kremlin said it would continue that dialogue.",
+        "Xi said nuclear weapons should be comprehensively banned, which supporters see as an opening for future talks.",
+        "Trump described Xi's embrace as a big win and a sign of great respect, and says the summit reflects a different foreign policy course."
+      ],
+      "pole_b_bullets": [
+        "CBS reports there was little concrete to show for the 90-minute meeting, and RFE/RL says it delivered no game-changing accords.",
+        "China ruled out joining denuclearization talks with the US, and the nuclear-war language in the statement is boilerplate Xi has used for years.",
+        "Putin rejected a ceasefire after Ukrainian strikes on the Crimea bridge and invited Europeans to Moscow without giving them a formal role.",
+        "Analysts say Xi and Putin gained prestige while Trump left without the breakthroughs he sought."
+      ],
+      "pole_a_who": "Positions commonly voiced by the Trump administration and summit supporters.",
+      "pole_b_who": "Positions commonly voiced by foreign-policy analysts and commentators, including RFE/RL and CBS reporting.",
+      "evidence_left": [
+        "The Hill: the declaration covers UN reform, oil production and supply, the International Criminal Court and nuclear conflict, per text released by all three countries.",
+        "CBS: the leaders met roughly 90 minutes in Shenzhen on Thursday and issued a joint statement; the Kremlin said dialogue on nuclear risks would continue."
+      ],
+      "evidence_right": [
+        "CBS: China ruled out taking part in denuclearization talks with the US, and Trump left immediately for his return flight.",
+        "10 Things Global News, citing Ukrainska Pravda and AP: Putin rejected calls for a ceasefire and reiterated opposition to foreign troops in Ukraine after the war."
+      ],
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://thehill.com/policy/international/6229659-trump-xi-putin-peace-declaration-china-summit/"
+        },
+        {
+          "name": "RFE/RL",
+          "url": "https://www.rferl.org/a/trump-xi-putin-summit-four-key-takeaways/33902100.html"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-20th-november-0cb"
+        }
+      ],
+      "sources_date": "November 20, 2026",
+      "sources_line": "Sourced from CBS News, The Hill, RFE/RL, 10 Things Global News, November 20, 2026."
     }
   ]
 }
