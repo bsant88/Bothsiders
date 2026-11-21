@@ -1,317 +1,167 @@
 {
-  "date": "November 20, 2026",
+  "date": "November 21, 2026",
   "stories": [
-    {
-      "category": "business",
-      "category_label": "BUSINESS",
-      "kicker": "AI MARKETS",
-      "headline": "Anthropic's record IPO fails to stop a broad market sell-off",
-      "dek": "The largest IPO on record opened strong, then faded as US stocks fell more than 2% and lawmakers renewed calls for AI oversight.",
-      "pole_a_tag": "GROWTH-FOCUSED",
-      "pole_b_tag": "RISK-FOCUSED",
-      "center_label": "GROWTH vs RISK",
-      "pole_a_label": "Growth-focused view",
-      "pole_b_label": "Risk-focused view",
-      "pole_a_bullets": [
-        "Investors absorbed a record $81.3 billion raise and the shares still closed about 17% above the $83 offer price on a day the broad market fell.",
-        "The filing shows $33.24 billion in revenue for the first nine months of 2026, which supporters cite as proof of real demand.",
-        "The $1.26 billion operating loss was driven largely by computing costs, which supporters read as investment in capacity rather than weakness.",
-        "Analysts told CBS no single catalyst explained the sell-off, which supporters say points to broad market worries rather than a verdict on Anthropic."
-      ],
-      "pole_b_bullets": [
-        "Gains faded from a peak of 38.6% above the offer price to 17.1% by the close, and stocks hit session lows as trading began, a sign that AI enthusiasm is fragile.",
-        "The company posted an operating loss despite $33.24 billion in nine-month revenue, so profitability is unproven at a valuation above $1 trillion.",
-        "Sen. Elizabeth Warren says Anthropic has not answered for threats to Americans' retirements and the financial system if the IPO goes badly.",
-        "A bipartisan Senate group introduced a bill requiring public companies to disclose more about AI, and Rep. Pramila Jayapal called the listing a 'ticking time bomb' risk."
-      ],
-      "pole_a_who": "Positions commonly voiced by AI-sector investors, growth-oriented analysts and company executives.",
-      "pole_b_who": "Positions commonly voiced by Sen. Elizabeth Warren, Rep. Pramila Jayapal, and AI-accountability groups.",
-      "evidence_left": [
-        "Anthropic priced at $83 and raised $81.3 billion at a $1.5 trillion valuation, per Yahoo Finance; the debut closed about 17% above the offer price, per Reuters.",
-        "Per the SEC filing cited by Yahoo Finance, revenue was $33.24 billion and operating loss $1.26 billion for the first nine months of 2026."
-      ],
-      "evidence_right": [
-        "Reuters: the Dow fell 1,101.11 points (2.19%) to 49,097.06 and the S&P 500 fell 2.02% to 7,175.83, its sixth straight losing session.",
-        "Peak first-day gain is reported as 38.6% by Reuters and 34% by CBS; Semafor reports a bipartisan Senate quartet introduced AI-disclosure legislation Thursday."
-      ],
-      "sources": [
-        {
-          "name": "Reuters via Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-213427908.html"
-        },
-        {
-          "name": "CBS News",
-          "url": "https://cbsnews.com/news/dow-tumbles-wall-street-ai-fears"
-        },
-        {
-          "name": "Semafor",
-          "url": "https://www.semafor.com/article/11/19/2026/anthropic-ipo-heightens-washingtons-tech-scrutiny"
-        }
-      ],
-      "sources_date": "November 20, 2026",
-      "sources_line": "Sourced from Reuters via Yahoo Finance, CBS News, Semafor, November 20, 2026."
-    },
     {
       "category": "economy",
       "category_label": "ECONOMY",
-      "kicker": "FEDERAL RESERVE",
-      "headline": "Hot October CPI puts a December Fed rate hike in focus",
-      "dek": "Economists read the same inflation data as either a reason to tighten steadily or a risk to growth and markets.",
+      "kicker": "MARKETS",
+      "headline": "AI Sell-Off Drags Nasdaq Below Its 2026 Starting Point",
+      "dek": "Stocks fell sharply Friday as Nvidia dropped on a reported SEC accounting probe, and investors are split on whether it is a reset or a turn.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "Core inflation rose at a 3.7% three-month annualized pace in October, so supporters of tightening say the Fed must act.",
-        "Fed Governor Chris Waller has said a larger half-point hike may be needed to protect the Fed's credibility.",
-        "UBS says resilient growth and strong corporate earnings should let equities withstand moderate tightening.",
-        "Schwab expects two more hikes this cycle, which supporters describe as a measured path rather than a shock."
+        "Nvidia's latest quarterly report was another strong one. The sell-off is about sentiment and headlines, not demand.",
+        "An SEC inquiry is not a finding of wrongdoing, and many inquiries close without action.",
+        "Corrections after a big run-up can reset valuations. Defensive sectors such as healthcare rose, which suggests rotation more than panic.",
+        "Consumer data has held up. Gap's stock jumped 12% and its CEO called shoppers resilient but discerning."
       ],
       "pole_b_bullets": [
-        "The 10-year Treasury yield is already around 5%, so more hikes add to borrowing costs and valuation pressure.",
-        "Headline CPI slowed to 0.4% in October from 0.6% in September, which skeptics say argues for patience.",
-        "The yearly inflation figure had to be interpolated because of the 2025 shutdown data gap, so skeptics say the data are noisy.",
-        "UBS notes the risk of back-to-back hikes has grown, and Waller has floated 50 basis points, which compounds tightening risk."
+        "Nvidia has lost about $2.7 trillion in value since its Oct. 6 record, with CEO turmoil and accounting questions on top.",
+        "Concerns over AI financing and profits are spreading beyond one stock. 58% of Nasdaq-100 members are in a bear market.",
+        "The Fed is expected to raise rates at its Dec. 8-9 meeting. Higher rates pressure richly valued tech stocks.",
+        "New U.S. curbs on remote chip access by Chinese firms add risk to chipmakers' sales."
       ],
-      "pole_a_who": "Positions commonly voiced by Fed hawks such as Gov. Waller and bank economists forecasting hikes.",
-      "pole_b_who": "Positions commonly voiced by market strategists and economists cautious about tightening into slowing momentum.",
+      "pole_a_who": "Positions commonly voiced by dip-buying strategists and AI-sector optimists.",
+      "pole_b_who": "Positions commonly voiced by valuation-focused analysts and rate-sensitive market skeptics.",
       "evidence_left": [
-        "KPMG: October CPI rose 0.4% after 0.6% in September; core rose 0.3%; its interpolated year-over-year estimate is 4.2%, up from 3.7%.",
-        "KPMG reports Waller said he is considering a half-point hike, and UBS expects 25 basis point hikes in December 2026 and March 2027."
+        "The Nasdaq closed down 5.28% Friday, erasing its 2026 gains. The S&P 500 fell 3.7% and the Dow fell 1.93% (CBC).",
+        "The VIX closed at its highest level since April 2025, according to Fox Business."
       ],
       "evidence_right": [
-        "Schwab: the Fed held rates at 3.75%-4.00% in October, with two dissenters favoring a quarter-point hike, after a September hike.",
-        "Schwab: the 10-year Treasury yield is around 5%; UBS reports Dallas Fed's Lorie Logan suggested tightening may need to accelerate."
+        "Reuters reported, citing two people briefed, that the SEC is probing Nvidia's accounting. The SEC declined to comment, and Reuters could not determine when the probe began or what it covers.",
+        "Nvidia fell about 13-14% Friday, according to Reuters and Yahoo Finance. AP reported that Fed minutes show nearly all officials expect a quarter-point hike in December."
       ],
       "sources": [
         {
-          "name": "KPMG",
-          "url": "https://kpmg.com/us/en/articles/2026/october-2026-cpi.html"
+          "name": "CBC News",
+          "url": "https://www.cbc.ca/news/business/anthropic-ipo-markets-today-9.7429534"
         },
         {
-          "name": "Charles Schwab",
-          "url": "https://www.schwab.com/learn/story/fomc-meeting"
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
         },
         {
-          "name": "UBS",
-          "url": "https://www.ubs.com/us/en/wealth-management/insights/market-news/article.4017135.html"
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
+        },
+        {
+          "name": "AP via myMotherLode",
+          "url": "https://mymotherlode.com/news/national/11321778/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount.html"
         }
       ],
-      "sources_date": "November 20, 2026",
-      "sources_line": "Sourced from KPMG, Charles Schwab, UBS, November 20, 2026."
+      "sources_date": "November 21, 2026",
+      "sources_line": "Sourced from CBC News, Fox Business, Reuters via Investing.com, AP via myMotherLode, November 21, 2026."
     },
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "SHUTDOWN FIGHT",
-      "headline": "Iran war splits Democrats and Congress ahead of Dec. 11 funding deadline",
-      "dek": "Lawmakers dispute whether to tie war funding limits to a spending bill, with a pre-Christmas shutdown possible.",
+      "kicker": "IRAN WAR",
+      "headline": "Senate Rejects Iran War Powers Resolution 48-51",
+      "dek": "The first Senate vote on the war since the Nov. 3 midterms fell short, with three Republicans joining Democrats.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Senate Majority Leader John Thune says Democrats have not engaged on funding talks, which he says suggests they may force a third shutdown he calls a 'really, really bad outcome.'",
-        "Sen. Dave McCormick calls Democratic war-powers votes 'political theater' and points to Iran's role as a terror financier with nuclear ambitions.",
-        "The administration argues the War Powers Resolution is unconstitutional, so it has brushed off votes to end hostilities.",
-        "Republicans point to Democrats having forced three shutdowns since January 2025, and say a holiday-season lapse would hurt Americans."
+        "The War Powers Resolution's concurrent-resolution process is unconstitutional, a position administrations of both parties have taken.",
+        "A concurrent resolution does not go to the president and carries no force of law. Supporters of the vote are seen as seeking a political signal.",
+        "Directing a withdrawal in the middle of a conflict could weaken the U.S. position while the fighting remains unsettled.",
+        "Sen. Thom Tillis, who backed an earlier effort, voted no. He said the push partly reflects a failure to explain the threat from Iran."
       ],
       "pole_b_bullets": [
-        "Minority Leader Hakeem Jeffries calls the conflict a 'reckless and costly war of choice' that needs to end.",
-        "Sen. Chris Van Hollen argues Democrats should refuse any funding bill that lacks language ending the war.",
-        "Democrats say Trump never asked Congress to authorize the war, which they say violates the War Powers Act and the Constitution.",
-        "Rep. Rosa DeLauro and Rep. Gregory Meeks argue a shutdown would not stop the war, and say Democrats will have more leverage after taking control in January."
+        "Voters named the war and its toll on the economy among their top concerns in the midterms, and Congress should respond.",
+        "The war is unauthorized, and Congress has not voted to approve it.",
+        "The cost is rising. A Pentagon budget official put it at about $48.3 billion as of Nov. 13.",
+        "Sen. Tammy Duckworth said that nine months in, defunding the war is the only way to force an end. Reps. Ro Khanna and Yassamin Ansari said they would oppose funding that does not bar offensive operations."
       ],
-      "pole_a_who": "Positions commonly voiced by Senate GOP leadership, Sen. Dave McCormick and administration allies.",
-      "pole_b_who": "Positions commonly voiced by Democratic leaders and appropriators; the party is divided on shutdown tactics.",
+      "pole_a_who": "Positions commonly voiced by Republican senators and administration allies.",
+      "pole_b_who": "Positions commonly voiced by Democratic lawmakers and war-powers advocates.",
       "evidence_left": [
-        "Reuters: Congress could face a pre-Christmas shutdown as the Iran war and Trump's demand for $350 billion in new Pentagon spending threaten a funding deal.",
-        "Washington Times: the funding deadline is Dec. 11 and Republicans still control which bills reach the floor."
+        "The vote on H.Con.Res. 93 was 48-51. Republicans Collins, Murkowski and Paul voted yes. Democrat John Fetterman voted no, and Sen. Chris Murphy did not vote (CBS News, Roll Call).",
+        "The House passed the resolution in September by 220-204, according to Anadolu."
       ],
       "evidence_right": [
-        "Washington Times: Trump has not asked Congress to formally authorize the war; CBS: one war powers resolution cleared both chambers in June and the administration brushed it off.",
-        "Semafor: House Democrats are backing away from using the December deadline to force an end to the war; CBS: Democrats formally take control of Congress in January."
+        "The Senate approved a similar resolution 50-48 on June 23 (Hans India/IANS, CBS News). Democrats have forced more than a dozen war powers votes since the war began in late February, per CBS News.",
+        "Pentagon deputy comptroller Arthur Miller told the Senate Armed Services Committee the war had cost about $48.3 billion as of Nov. 13 (Newsweek). Democrats are not set to control the Senate until January."
       ],
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://www.933thedrive.com/2026/11/20/congress-struggles-to-avert-us-shutdown-as-iran-war-divides-lawmakers/"
-        },
-        {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/"
+          "url": "https://www.cbsnews.com/news/iran-war-powers-vote-senate-republicans/"
         },
         {
-          "name": "Washington Times",
-          "url": "https://www.washingtontimes.com/news/2026/nov/18/democrats-debate-block-iran-war-funding-without-causing-government/"
+          "name": "Roll Call",
+          "url": "http://www.rollcall.com/2026/11/19/iran-resolution-blocked-in-first-war-powers-vote-since-midterms"
         },
         {
-          "name": "Semafor",
-          "url": "https://www.semafor.com/article/11/19/2026/democrats-seem-to-back-away-from-shutdown-over-iran-war"
+          "name": "Newsweek",
+          "url": "https://newsweek.com/john-fetterman-iran-war-powers-resolution-democrats-12742994"
+        },
+        {
+          "name": "Middle East Monitor (Anadolu)",
+          "url": "https://www.middleeastmonitor.com/20261119-us-senate-blocks-iran-war-powers-resolution/"
         }
       ],
-      "sources_date": "November 20, 2026",
-      "sources_line": "Sourced from Reuters, CBS News, Washington Times, Semafor, November 20, 2026."
+      "sources_date": "November 21, 2026",
+      "sources_line": "Sourced from CBS News, Roll Call, Newsweek, Middle East Monitor (Anadolu), November 21, 2026."
     },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "CHIP EXPORTS",
-      "headline": "US tightens rules on remote access to advanced AI chips",
-      "dek": "A Commerce rule requires licenses for data centers serving Chinese firms, and Nvidia has halted H200 sales to China.",
+      "kicker": "AI INFRASTRUCTURE",
+      "headline": "Trump Threatens 'Tremendous Tax' on Overseas AI Data Centers",
+      "dek": "The president gave no details, and the threat lands amid public skepticism of data centers and a new Senate bill on their power costs.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "Licenses are now needed for data centers in five countries, including Brazil, which adds friction for US chipmakers' customers abroad.",
-        "Jefferies estimates up to $62 billion of Nvidia data center revenue is exposed next year, and critics say lost scale could weaken US AI leadership.",
-        "Nvidia has already stopped H200 sales to China, about $2.4 billion last quarter, which shows the immediate cost to a US company.",
-        "Beijing is reportedly slowing H200 imports to favor domestic chips, which critics say could speed China's own chip industry."
+        "Trump says keeping data centers and their jobs in the U.S. is needed to stay ahead of China in AI.",
+        "Communities can negotiate tax breaks, lower utility bills and direct payments, so the buildout can bring local gains.",
+        "Faster permitting would help the U.S. build the power and grid capacity that AI needs. Trump praised the Senate's permitting bill.",
+        "Industry voices argue a broad levy could raise costs for firms serving customers abroad. Google's planned $15 billion Finland investment is one example Trump has criticized."
       ],
       "pole_b_bullets": [
-        "Supporters say renting chips offshore let Chinese firms bypass physical export limits, and the rule closes that loophole.",
-        "Bloomberg ties the rule to heightened scrutiny of export curbs after an alleged espionage scandal involving Nvidia.",
-        "Sen. Ron Wyden and Rep. Richard Neal opened an inquiry into allowing H200 sales to China in return for a 25% revenue cut.",
-        "The proposed Remote Access Security Act would give Commerce oversight of cloud-based use of controlled technology."
+        "A majority of Americans oppose large data centers, and AP linked voter concerns about them to the Republican midterm losses.",
+        "A tax announced without a rate, scope or notice to officials shows why clear, written rules are needed.",
+        "The Senate bill would make data centers pay a larger share of grid and infrastructure costs, so ratepayers do not carry them.",
+        "Democrats such as Sen. Mark Warner are pushing AI guardrails, including a bill requiring disclosure of AI-related financing by public companies."
       ],
-      "pole_a_who": "Positions commonly voiced by chipmakers, cloud operators and trade analysts wary of lost sales.",
-      "pole_b_who": "Positions commonly voiced by export-control advocates and lawmakers such as Wyden and Neal.",
+      "pole_a_who": "Positions commonly voiced by the Trump administration, AI-industry groups and permitting-reform backers.",
+      "pole_b_who": "Positions commonly voiced by Democratic lawmakers, consumer advocates and data center critics.",
       "evidence_left": [
-        "Bloomberg: Commerce issued an interim rule Monday requiring licenses for advanced chips going to data centers in Singapore, Malaysia, Thailand, Indonesia and Brazil.",
-        "TECHi: the rule takes effect Nov. 19, the Federal Register publication date; TokenPost: Alibaba is assessing the impact and Tencent warned of reduced AI training capacity."
+        "Trump said Friday that companies building AI data centers abroad would face a 'tremendous tax.' He gave no rate, scope or timeline, and said he had not told his own officials (AP, ABC News, IBTimes).",
+        "A Commerce Department rule that took effect Thursday sets licensing requirements for some advanced chip exports tied to overseas data centers serving China-linked firms (IBTimes)."
       ],
       "evidence_right": [
-        "TECHi, citing TechCrunch: Nvidia's interim CEO said on the earnings call that H200 sales to China have stopped; the Jefferies estimate is relayed second-hand via PCMag.",
-        "Asia Times: Wyden and Neal wrote Commerce Secretary Howard Lutnick on Nov. 12, asking the department to preserve records of the H200 licenses and the 25% levy."
+        "The Senate passed the Bipartisan American Affordability and Jobs Act 62-33 on Nov. 19. It speeds energy permitting and makes data centers pay more of infrastructure costs, and it still needs House passage (CNBC, HuffPost via Yahoo).",
+        "Warner's bill on AI financing disclosures was reported by CNBC alone and was not independently confirmed here."
       ],
       "sources": [
         {
-          "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+          "name": "AP via Yahoo News",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tax-us-companies-003837936.html"
         },
         {
-          "name": "TokenPost",
-          "url": "https://www.tokenpost.com/news/regulation/61900"
+          "name": "ABC News",
+          "url": "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831"
         },
         {
-          "name": "Asia Times",
-          "url": "https://asiatimes.com/2026/11/china-hoards-nvidias-ai-chips-as-us-curbs-remote-access/"
+          "name": "IBTimes",
+          "url": "https://www.ibtimes.com/trump-tax-ai-data-centers-overseas-3810039"
         },
         {
-          "name": "TECHi",
-          "url": "https://www.techi.com/us-chip-export-rule-takes-effect-nvidia-halts-h200-china-sales/"
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
         }
       ],
-      "sources_date": "November 20, 2026",
-      "sources_line": "Sourced from Bloomberg, TokenPost, Asia Times, TECHi, November 20, 2026."
-    },
-    {
-      "category": "sports",
-      "category_label": "SPORTS",
-      "kicker": "NFL",
-      "headline": "Ravens bench Marlon Humphrey for one game over Baltimore comment",
-      "dek": "The cornerback apologized for a podcast remark but was sent home and ruled inactive for Sunday's game at Carolina.",
-      "pole_a_tag": "TAKE",
-      "pole_b_tag": "COUNTER-TAKE",
-      "center_label": "TAKE vs COUNTER-TAKE",
-      "pole_a_label": "Take",
-      "pole_b_label": "Counter-take",
-      "pole_a_bullets": [
-        "The Ravens were right to sit him, since an apology does not erase a public insult to the city the team represents.",
-        "Coach Jesse Minter said the remark is not a reflection of how the organization wants to operate.",
-        "Mayor Brandon Scott said a verbal apology is not enough, because young Black Baltimore fans look up to Ravens players.",
-        "As the longest-tenured defender, Humphrey is held to a high standard, and one game is a proportionate penalty."
-      ],
-      "pole_b_bullets": [
-        "He apologized the same day and deleted the episode, which critics of the benching say should have settled it.",
-        "It was a podcast quip, and a one-game benching hurts the team more than it answers the comment.",
-        "Humphrey said he has spent his whole career and many offseasons in Baltimore, and critics say that record should count.",
-        "Minter described him as very remorseful, and the penalty is one game, so critics see the sit-out as an overreaction."
-      ],
-      "pole_a_who": "Positions commonly voiced by Ravens leadership, Baltimore officials and commentators backing the decision.",
-      "pole_b_who": "Positions commonly voiced by fans and analysts who see the discipline as excessive.",
-      "evidence_left": [
-        "ESPN: on a podcast released Wednesday, Humphrey said Baltimore is 'best at making criminals'; he apologized Wednesday and the episode was deleted.",
-        "Yahoo Sports: Minter announced Thursday that Humphrey was sent home, will not practice, and is inactive Sunday at Carolina."
-      ],
-      "evidence_right": [
-        "Yahoo Sports: Minter said the penalty covers one game only, and Humphrey should return for the trip to Houston.",
-        "UPI: Mayor Brandon Scott criticized the comment and invited Humphrey to meet with Baltimore residents who have re-entered the community."
-      ],
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://www.espn.com/nfl/story/_/id/50532199/ravens-send-marlon-humphrey-home-say-inactive"
-        },
-        {
-          "name": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/ravens-send-marlon-humphrey-home-173423921.html"
-        },
-        {
-          "name": "UPI via Breitbart",
-          "url": "https://www.breitbart.com/news/ravens-send-cornerback-humphrey-home-after-baltimore-criminals-slight/"
-        }
-      ],
-      "sources_date": "November 20, 2026",
-      "sources_line": "Sourced from ESPN, Yahoo Sports, UPI via Breitbart, November 20, 2026."
-    },
-    {
-      "category": "general",
-      "category_label": "GENERAL",
-      "kicker": "DIPLOMACY",
-      "headline": "Trump, Xi and Putin issue four-point declaration at Shenzhen summit",
-      "dek": "The first-ever trilateral meeting produced a joint statement but no announced arms deal, Ukraine plan or ceasefire.",
-      "pole_a_tag": "OPTIMIST",
-      "pole_b_tag": "SKEPTIC",
-      "center_label": "OPTIMIST vs SKEPTIC",
-      "pole_a_label": "Optimist view",
-      "pole_b_label": "Skeptic view",
-      "pole_a_bullets": [
-        "Getting three nuclear powers into one room is an achievement, and Trump called the meeting a 12 on a scale of zero to 10.",
-        "The declaration commits all three countries to dialogue on reducing nuclear risks, and the Kremlin said it would continue that dialogue.",
-        "Xi said nuclear weapons should be comprehensively banned, which supporters see as an opening for future talks.",
-        "Trump described Xi's embrace as a big win and a sign of great respect, and says the summit reflects a different foreign policy course."
-      ],
-      "pole_b_bullets": [
-        "CBS reports there was little concrete to show for the 90-minute meeting, and RFE/RL says it delivered no game-changing accords.",
-        "China ruled out joining denuclearization talks with the US, and the nuclear-war language in the statement is boilerplate Xi has used for years.",
-        "Putin rejected a ceasefire after Ukrainian strikes on the Crimea bridge and invited Europeans to Moscow without giving them a formal role.",
-        "Analysts say Xi and Putin gained prestige while Trump left without the breakthroughs he sought."
-      ],
-      "pole_a_who": "Positions commonly voiced by the Trump administration and summit supporters.",
-      "pole_b_who": "Positions commonly voiced by foreign-policy analysts and commentators, including RFE/RL and CBS reporting.",
-      "evidence_left": [
-        "The Hill: the declaration covers UN reform, oil production and supply, the International Criminal Court and nuclear conflict, per text released by all three countries.",
-        "CBS: the leaders met roughly 90 minutes in Shenzhen on Thursday and issued a joint statement; the Kremlin said dialogue on nuclear risks would continue."
-      ],
-      "evidence_right": [
-        "CBS: China ruled out taking part in denuclearization talks with the US, and Trump left immediately for his return flight.",
-        "10 Things Global News, citing Ukrainska Pravda and AP: Putin rejected calls for a ceasefire and reiterated opposition to foreign troops in Ukraine after the war."
-      ],
-      "sources": [
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
-        },
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/policy/international/6229659-trump-xi-putin-peace-declaration-china-summit/"
-        },
-        {
-          "name": "RFE/RL",
-          "url": "https://www.rferl.org/a/trump-xi-putin-summit-four-key-takeaways/33902100.html"
-        },
-        {
-          "name": "10 Things Global News",
-          "url": "https://www.10things.news/p/10-things-global-news-20th-november-0cb"
-        }
-      ],
-      "sources_date": "November 20, 2026",
-      "sources_line": "Sourced from CBS News, The Hill, RFE/RL, 10 Things Global News, November 20, 2026."
+      "sources_date": "November 21, 2026",
+      "sources_line": "Sourced from AP via Yahoo News, ABC News, IBTimes, CNBC, November 21, 2026."
     }
   ]
 }
