@@ -1,167 +1,159 @@
 {
-  "date": "November 21, 2026",
+  "date": "November 22, 2026",
   "stories": [
     {
       "category": "economy",
       "category_label": "ECONOMY",
       "kicker": "MARKETS",
-      "headline": "AI Sell-Off Drags Nasdaq Below Its 2026 Starting Point",
-      "dek": "Stocks fell sharply Friday as Nvidia dropped on a reported SEC accounting probe, and investors are split on whether it is a reset or a turn.",
+      "headline": "Stocks Enter Correction After AI-Led Sell-Off as Fed Hike Looms",
+      "dek": "The S&P 500 and Dow closed Friday in correction territory, and investors are split on whether the drop is a reset or a top.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "Nvidia's latest quarterly report was another strong one. The sell-off is about sentiment and headlines, not demand.",
-        "An SEC inquiry is not a finding of wrongdoing, and many inquiries close without action.",
-        "Corrections after a big run-up can reset valuations. Defensive sectors such as healthcare rose, which suggests rotation more than panic.",
-        "Consumer data has held up. Gap's stock jumped 12% and its CEO called shoppers resilient but discerning."
+        "The S&P 500's relative strength index fell below 30 Friday, a level that signals oversold conditions and often precedes a bounce.",
+        "Wharton's Jeremy Siegel calls the drop a reset of expectations after three years of double-digit annual stock returns.",
+        "November and December are historically among the best months for the S&P 500, and a cooler inflation reading could ease fears of a half-point hike.",
+        "Nvidia beat revenue estimates and guided higher. Its forward earnings multiple is about 8.2, below Microsoft, Alphabet and Broadcom, per 24/7 Wall St."
       ],
       "pole_b_bullets": [
-        "Nvidia has lost about $2.7 trillion in value since its Oct. 6 record, with CEO turmoil and accounting questions on top.",
-        "Concerns over AI financing and profits are spreading beyond one stock. 58% of Nasdaq-100 members are in a bear market.",
-        "The Fed is expected to raise rates at its Dec. 8-9 meeting. Higher rates pressure richly valued tech stocks.",
-        "New U.S. curbs on remote chip access by Chinese firms add risk to chipmakers' sales."
+        "The Fed is raising rates into a sell-off. Minutes show nearly all officials expect a December hike, and a 'vast majority' fear inflation could persist.",
+        "Fed officials such as Musalem see 'several' more hikes before spring 2027, which raises discount rates on richly valued AI stocks.",
+        "A record Anthropic IPO and a strong Nvidia report failed to stop the slide. Some investors read both as signs of a market top.",
+        "Mortgage rates above 7% and rising borrowing costs are weighing on housing and household spending."
       ],
-      "pole_a_who": "Positions commonly voiced by dip-buying strategists and AI-sector optimists.",
-      "pole_b_who": "Positions commonly voiced by valuation-focused analysts and rate-sensitive market skeptics.",
+      "pole_a_who": "Positions commonly voiced by dip-buying strategists and academics quoted by CNBC, such as Jeremy Siegel.",
+      "pole_b_who": "Positions commonly voiced by rate-hawk Fed officials and cautious strategists quoted by AP, The Hill and TipRanks.",
       "evidence_left": [
-        "The Nasdaq closed down 5.28% Friday, erasing its 2026 gains. The S&P 500 fell 3.7% and the Dow fell 1.93% (CBC).",
-        "The VIX closed at its highest level since April 2025, according to Fox Business."
+        "The S&P 500 fell 3.7% Friday to 6,910.39. For the week it fell 8.6% per Yahoo Finance, and 8.4% per Investing.com. The Dow fell 8% and the Nasdaq about 10%, per Yahoo Finance and CNBC.",
+        "The S&P 500 had seven straight losing sessions, its longest streak since February 2020, per Yahoo Finance. Anthropic closed the week at $88.91 against an $83 IPO price, per CNBC."
       ],
       "evidence_right": [
-        "Reuters reported, citing two people briefed, that the SEC is probing Nvidia's accounting. The SEC declined to comment, and Reuters could not determine when the probe began or what it covers.",
-        "Nvidia fell about 13-14% Friday, according to Reuters and Yahoo Finance. AP reported that Fed minutes show nearly all officials expect a quarter-point hike in December."
+        "Fed minutes from the Oct. 27-28 meeting show nearly all officials expect a quarter-point hike in December. Two floated a half-point, per AP. Governor Waller said core inflation ran about 3.5% annualized over three months.",
+        "The Fed meets Dec. 8-9, per TipRanks. CME FedWatch put the odds of a December hike near 95%, per AP via Yahoo Finance. New York Fed's Williams has pushed back on a half-point move."
       ],
       "sources": [
         {
-          "name": "CBC News",
-          "url": "https://www.cbc.ca/news/business/anthropic-ipo-markets-today-9.7429534"
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
         },
         {
-          "name": "Fox Business",
-          "url": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-suffers-historic-losses-012826644.html"
         },
         {
-          "name": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460"
-        },
-        {
-          "name": "AP via myMotherLode",
-          "url": "https://mymotherlode.com/news/national/11321778/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount.html"
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-fall-as-anthropic-debut-fails-to-revive-ai-trade-5040450"
         }
       ],
-      "sources_date": "November 21, 2026",
-      "sources_line": "Sourced from CBC News, Fox Business, Reuters via Investing.com, AP via myMotherLode, November 21, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "IRAN WAR",
-      "headline": "Senate Rejects Iran War Powers Resolution 48-51",
-      "dek": "The first Senate vote on the war since the Nov. 3 midterms fell short, with three Republicans joining Democrats.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "The War Powers Resolution's concurrent-resolution process is unconstitutional, a position administrations of both parties have taken.",
-        "A concurrent resolution does not go to the president and carries no force of law. Supporters of the vote are seen as seeking a political signal.",
-        "Directing a withdrawal in the middle of a conflict could weaken the U.S. position while the fighting remains unsettled.",
-        "Sen. Thom Tillis, who backed an earlier effort, voted no. He said the push partly reflects a failure to explain the threat from Iran."
-      ],
-      "pole_b_bullets": [
-        "Voters named the war and its toll on the economy among their top concerns in the midterms, and Congress should respond.",
-        "The war is unauthorized, and Congress has not voted to approve it.",
-        "The cost is rising. A Pentagon budget official put it at about $48.3 billion as of Nov. 13.",
-        "Sen. Tammy Duckworth said that nine months in, defunding the war is the only way to force an end. Reps. Ro Khanna and Yassamin Ansari said they would oppose funding that does not bar offensive operations."
-      ],
-      "pole_a_who": "Positions commonly voiced by Republican senators and administration allies.",
-      "pole_b_who": "Positions commonly voiced by Democratic lawmakers and war-powers advocates.",
-      "evidence_left": [
-        "The vote on H.Con.Res. 93 was 48-51. Republicans Collins, Murkowski and Paul voted yes. Democrat John Fetterman voted no, and Sen. Chris Murphy did not vote (CBS News, Roll Call).",
-        "The House passed the resolution in September by 220-204, according to Anadolu."
-      ],
-      "evidence_right": [
-        "The Senate approved a similar resolution 50-48 on June 23 (Hans India/IANS, CBS News). Democrats have forced more than a dozen war powers votes since the war began in late February, per CBS News.",
-        "Pentagon deputy comptroller Arthur Miller told the Senate Armed Services Committee the war had cost about $48.3 billion as of Nov. 13 (Newsweek). Democrats are not set to control the Senate until January."
-      ],
-      "sources": [
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/iran-war-powers-vote-senate-republicans/"
-        },
-        {
-          "name": "Roll Call",
-          "url": "http://www.rollcall.com/2026/11/19/iran-resolution-blocked-in-first-war-powers-vote-since-midterms"
-        },
-        {
-          "name": "Newsweek",
-          "url": "https://newsweek.com/john-fetterman-iran-war-powers-resolution-democrats-12742994"
-        },
-        {
-          "name": "Middle East Monitor (Anadolu)",
-          "url": "https://www.middleeastmonitor.com/20261119-us-senate-blocks-iran-war-powers-resolution/"
-        }
-      ],
-      "sources_date": "November 21, 2026",
-      "sources_line": "Sourced from CBS News, Roll Call, Newsweek, Middle East Monitor (Anadolu), November 21, 2026."
+      "sources_date": "November 22, 2026",
+      "sources_line": "Sourced from CNBC, Yahoo Finance, Investing.com, November 22, 2026."
     },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "AI INFRASTRUCTURE",
-      "headline": "Trump Threatens 'Tremendous Tax' on Overseas AI Data Centers",
-      "dek": "The president gave no details, and the threat lands amid public skepticism of data centers and a new Senate bill on their power costs.",
+      "kicker": "AI & WEAPONS",
+      "headline": "UN Talks on Autonomous Weapons End Without Binding Rules",
+      "dek": "Geneva negotiations extended work to 2028 but stopped short of the treaty commitment that about 100 countries wanted.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "Trump says keeping data centers and their jobs in the U.S. is needed to stay ahead of China in AI.",
-        "Communities can negotiate tax breaks, lower utility bills and direct payments, so the buildout can bring local gains.",
-        "Faster permitting would help the U.S. build the power and grid capacity that AI needs. Trump praised the Senate's permitting bill.",
-        "Industry voices argue a broad levy could raise costs for firms serving customers abroad. Google's planned $15 billion Finland investment is one example Trump has criticized."
+        "Existing international humanitarian law already applies to all weapons, including autonomous systems, per the UN's own guidance.",
+        "Rushing a binding treaty could freeze definitions before the technology is understood. Not every autonomous weapon uses AI.",
+        "Militaries say autonomy can be used responsibly under human command and control. Canada's Defence Department takes this position.",
+        "Major military powers see strategic risk in binding limits, since 'no country wants to come second' in the race to develop new weapons, per NPR."
       ],
       "pole_b_bullets": [
-        "A majority of Americans oppose large data centers, and AP linked voter concerns about them to the Republican midterm losses.",
-        "A tax announced without a rate, scope or notice to officials shows why clear, written rules are needed.",
-        "The Senate bill would make data centers pay a larger share of grid and infrastructure costs, so ratepayers do not carry them.",
-        "Democrats such as Sen. Mark Warner are pushing AI guardrails, including a bill requiring disclosure of AI-related financing by public companies."
+        "UN Secretary-General Guterres sought a legally binding instrument with clear prohibitions and restrictions.",
+        "Humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+        "Campaigners want bans on systems that target people and on weapons that cannot stay under meaningful human control.",
+        "Under the compromise, weapons that can make life-and-death decisions stay unregulated for at least two more years, per NPR."
       ],
-      "pole_a_who": "Positions commonly voiced by the Trump administration, AI-industry groups and permitting-reform backers.",
-      "pole_b_who": "Positions commonly voiced by Democratic lawmakers, consumer advocates and data center critics.",
+      "pole_a_who": "Positions commonly voiced by defense ministries and governments resisting binding limits, as reported by CBC and NPR.",
+      "pole_b_who": "Positions commonly voiced by Guterres, about 100 supportive states and humanitarian groups such as Stop Killer Robots.",
       "evidence_left": [
-        "Trump said Friday that companies building AI data centers abroad would face a 'tremendous tax.' He gave no rate, scope or timeline, and said he had not told his own officials (AP, ABC News, IBTimes).",
-        "A Commerce Department rule that took effect Thursday sets licensing requirements for some advanced chip exports tied to overseas data centers serving China-linked firms (IBTimes)."
+        "The talks ran Monday to Friday at a Convention on Certain Conventional Weapons meeting in Geneva and closed Saturday, Nov. 21, per CBC. Russia resisted binding commitments, per CBC. Reuters, as cited by Business Upturn, reported that Russia was not alone.",
+        "States agreed to 'elaborate' a possible accord on lethal autonomous weapons by 2028, per CBC. The convention has 128 parties, per Business Upturn."
       ],
       "evidence_right": [
-        "The Senate passed the Bipartisan American Affordability and Jobs Act 62-33 on Nov. 19. It speeds energy permitting and makes data centers pay more of infrastructure costs, and it still needs House passage (CNBC, HuffPost via Yahoo).",
-        "Warner's bill on AI financing disclosures was reported by CNBC alone and was not independently confirmed here."
+        "Around 100 countries favored moving quickly toward binding rules, per Reuters as cited by Business Upturn.",
+        "UN disarmament chief Izumi Nakamitsu called the outcome a 'significant achievement' but acknowledged a 'glass half full or half empty' scenario, per CBC. NPR says the compromise leaves such weapons without binding rules."
       ],
       "sources": [
         {
-          "name": "AP via Yahoo News",
-          "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tax-us-companies-003837936.html"
+          "name": "CBC News",
+          "url": "https://cbc.ca/news/world/ai-warfare-regulations-un-talks-9.7431398"
         },
         {
-          "name": "ABC News",
-          "url": "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831"
+          "name": "NPR (via NPR Illinois)",
+          "url": "https://www.nprillinois.org/2026-11-21/killer-robots-u-n-talks-fall-short-of-hopes-for-legally-binding-rules"
         },
         {
-          "name": "IBTimes",
-          "url": "https://www.ibtimes.com/trump-tax-ai-data-centers-overseas-3810039"
-        },
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+          "name": "Business Upturn",
+          "url": "https://businessupturn.com/technology/un-autonomous-weapons-talks-end-without-binding-rule-mandate-as-work-extends-to-2028/"
         }
       ],
-      "sources_date": "November 21, 2026",
-      "sources_line": "Sourced from AP via Yahoo News, ABC News, IBTimes, CNBC, November 21, 2026."
+      "sources_date": "November 22, 2026",
+      "sources_line": "Sourced from CBC News, NPR (via NPR Illinois), Business Upturn, November 22, 2026."
+    },
+    {
+      "category": "business",
+      "category_label": "BUSINESS",
+      "kicker": "NVIDIA",
+      "headline": "Nvidia Posts Record Quarter Without Huang as Scandal and China Scrutiny Weigh",
+      "dek": "Strong results and higher guidance met a CEO vacancy, a board investigation and a House inquiry, and the stock kept falling.",
+      "pole_a_tag": "GROWTH-FOCUSED",
+      "pole_b_tag": "RISK-FOCUSED",
+      "center_label": "GROWTH vs RISK",
+      "pole_a_label": "Growth-focused view",
+      "pole_b_label": "Risk-focused view",
+      "pole_a_bullets": [
+        "Revenue more than doubled to $115.8 billion and beat estimates. Fourth-quarter guidance of about $130 billion topped consensus.",
+        "Interim CEO Colette Kress says it is 'business as usual' and that customers and partners are behind the company.",
+        "Nvidia forecast 75% sales growth for fiscal 2028 and raised its buyback budget, per Bloomberg.",
+        "Nvidia assumes no China data-center revenue in its outlook, so guidance does not depend on the contested market. At about 15 times trailing earnings, the shares trade at their lowest multiple since at least 2014, per 24/7 Wall St."
+      ],
+      "pole_b_bullets": [
+        "The board cites an 'ongoing investigation,' and the chairman says it does not intend to reinstate Huang. The company has no permanent CEO.",
+        "House committee chairs want answers on a 'potential breach of our national security' tied to chip access and a suspected Chinese intelligence asset.",
+        "Nvidia's legal exposure over China access is a concern, and the company has warned chip buyers of legal risks, per CNBC.",
+        "Some customers lack investment-grade ratings and must line up their own demand for the capacity they buy, per Bloomberg. That adds risk to the AI spending cycle."
+      ],
+      "pole_a_who": "Positions commonly voiced by Nvidia management and bullish analysts quoted by CNBC and Yahoo Finance.",
+      "pole_b_who": "Positions commonly voiced by House committee chairs, governance-minded investors and cautious analysts.",
+      "evidence_left": [
+        "Q3 revenue was $115.84 billion against $109.10 billion expected. Adjusted EPS was $2.68 against $2.48 expected, per CNBC. Fourth-quarter guidance was about $130 billion against a $125.1 billion consensus, per CNBC and LSEG.",
+        "CBS News reported profit of $65.3 billion, up 105% year over year. Interim CEO Colette Kress led her first earnings call after Huang resigned."
+      ],
+      "evidence_right": [
+        "Huang will give a closed-door interview to three House committees on Dec. 1. General counsel Tim Teter follows on Dec. 2, per Euronews. Trump said 'Nobody's proven that she's a spy,' per The Washington Sun.",
+        "Nvidia closed at $125.53 Friday, 48% below its record, per 24/7 Wall St. It fell 23% for the week, its worst since October 2008, per Yahoo Finance. Chair Harvey Jones said Huang would not return, per CNBC."
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/17/jensen-huang-to-face-house-interviews-on-nvidias-sales-to-china-on-december-1"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-17/nvidia-third-quarter-earnings-live-updates"
+        }
+      ],
+      "sources_date": "November 22, 2026",
+      "sources_line": "Sourced from CNBC, CBS News, Euronews, Bloomberg, November 22, 2026."
     }
   ]
 }
