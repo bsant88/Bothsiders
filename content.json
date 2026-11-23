@@ -1,159 +1,325 @@
 {
-  "date": "November 22, 2026",
+  "date": "November 23, 2026",
   "stories": [
     {
       "category": "economy",
       "category_label": "ECONOMY",
       "kicker": "MARKETS",
-      "headline": "Stocks Enter Correction After AI-Led Sell-Off as Fed Hike Looms",
-      "dek": "The S&P 500 and Dow closed Friday in correction territory, and investors are split on whether the drop is a reset or a top.",
+      "headline": "Wall Street Futures Rebound After AI-Led Correction",
+      "dek": "The S&P 500 and Dow entered correction territory Friday, and futures pointed sharply higher Monday.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "The S&P 500's relative strength index fell below 30 Friday, a level that signals oversold conditions and often precedes a bounce.",
-        "Wharton's Jeremy Siegel calls the drop a reset of expectations after three years of double-digit annual stock returns.",
-        "November and December are historically among the best months for the S&P 500, and a cooler inflation reading could ease fears of a half-point hike.",
-        "Nvidia beat revenue estimates and guided higher. Its forward earnings multiple is about 8.2, below Microsoft, Alphabet and Broadcom, per 24/7 Wall St."
+        "The selloff was panic, not a broken AI thesis. Nvidia reported strong earnings and Anthropic's IPO drew heavy demand.",
+        "Part of the slide was mechanical. Funds sold other stocks to raise cash for IPO orders, and more than half of about 1,200 institutions got no shares.",
+        "A rebound does not require every problem to be solved. Investors can separate temporary valuation pressure from lasting profit damage.",
+        "Monday's futures jump shows buyers are ready to return to AI-linked shares."
       ],
       "pole_b_bullets": [
-        "The Fed is raising rates into a sell-off. Minutes show nearly all officials expect a December hike, and a 'vast majority' fear inflation could persist.",
-        "Fed officials such as Musalem see 'several' more hikes before spring 2027, which raises discount rates on richly valued AI stocks.",
-        "A record Anthropic IPO and a strong Nvidia report failed to stop the slide. Some investors read both as signs of a market top.",
-        "Mortgage rates above 7% and rising borrowing costs are weighing on housing and household spending."
+        "AI valuations and spending are the core issue. The Anthropic IPO highlighted bubble fears rather than easing them.",
+        "Funding is shifting. A Bank of America survey found 52% of fund managers expect a major cloud company to cut AI spending within six months.",
+        "The Fed is expected to raise rates in December. Some investors fear tightening into a slowdown if earnings and AI investment have peaked.",
+        "The Nvidia leadership and chip-export scandal and the Democratic midterm win were a one-two punch for the AI story."
       ],
-      "pole_a_who": "Positions commonly voiced by dip-buying strategists and academics quoted by CNBC, such as Jeremy Siegel.",
-      "pole_b_who": "Positions commonly voiced by rate-hawk Fed officials and cautious strategists quoted by AP, The Hill and TipRanks.",
+      "pole_a_who": "Positions voiced by strategists such as Dan Ives of Wedbush-style bulls and Saxo's Charu Chanana, as quoted by Reuters and BeInCrypto.",
+      "pole_b_who": "Positions voiced by Renaissance Capital, Treasury Partners and fund-manager survey respondents, as quoted by CNBC, NBC News and BeInCrypto.",
       "evidence_left": [
-        "The S&P 500 fell 3.7% Friday to 6,910.39. For the week it fell 8.6% per Yahoo Finance, and 8.4% per Investing.com. The Dow fell 8% and the Nasdaq about 10%, per Yahoo Finance and CNBC.",
-        "The S&P 500 had seven straight losing sessions, its longest streak since February 2020, per Yahoo Finance. Anthropic closed the week at $88.91 against an $83 IPO price, per CNBC."
+        "On Friday Nov. 20 the S&P 500 fell 3.7% to 6,910.39, the Nasdaq Composite fell 5.3% to 22,617.73, and the Dow fell 1.9% to 48,147.33 (Investing.com).",
+        "The S&P 500 lost 8.6% for the week. ABC Australia called it the worst week in more than six years. Schwab and Seoul Economic Daily called it the worst since April 2025."
       ],
       "evidence_right": [
-        "Fed minutes from the Oct. 27-28 meeting show nearly all officials expect a quarter-point hike in December. Two floated a half-point, per AP. Governor Waller said core inflation ran about 3.5% annualized over three months.",
-        "The Fed meets Dec. 8-9, per TipRanks. CME FedWatch put the odds of a December hike near 95%, per AP via Yahoo Finance. New York Fed's Williams has pushed back on a half-point move."
+        "The Cboe VIX closed at 35.89 Friday, its highest since April 2025 (Investing.com).",
+        "Monday premarket, CNBC reported Dow futures up 1.97% and S&P 500 futures up 2.76%. Reuters at 2:29 a.m. ET had S&P E-minis up 2.24%. CME FedWatch odds of a December quarter-point hike were about 92% (CNBC) versus 98% (Saxo)."
       ],
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+          "url": "https://cnbc.com/2026/11/22/stock-market-today-live-updates.html"
         },
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-suffers-historic-losses-012826644.html"
+          "name": "Investing.com (Reuters)",
+          "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-rebound-after-rough-week-for-ailinked-shares-5044594"
         },
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-fall-as-anthropic-debut-fails-to-revive-ai-trade-5040450"
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
+        },
+        {
+          "name": "BeInCrypto",
+          "url": "https://beincrypto.com/why-ai-tech-stocks-crashing-anthropic-nvidia/"
         }
       ],
-      "sources_date": "November 22, 2026",
-      "sources_line": "Sourced from CNBC, Yahoo Finance, Investing.com, November 22, 2026."
+      "sources_date": "November 23, 2026",
+      "sources_line": "Sourced from CNBC, Investing.com (Reuters), NBC News, BeInCrypto, November 23, 2026."
+    },
+    {
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "OVERSIGHT",
+      "headline": "Trump Orders Federal Contractors to Route Congressional Requests Through White House",
+      "dek": "The Nov. 20 executive order comes weeks before Democrats take control of both chambers.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
+      "pole_a_bullets": [
+        "Executive privilege is a real constitutional protection. The White House says the order guards it from congressional overreach.",
+        "Congress needs a valid legislative purpose to seek executive-branch information. The order says requests that intrude on core executive functions fall outside that.",
+        "Contractors handle sensitive national and homeland security material. Coordinating responses prevents its release to unauthorized parties.",
+        "The White House says some lawmakers have harassed private companies that contract with the government. The order sets one process for responding."
+      ],
+      "pole_b_bullets": [
+        "Oversight is a core congressional power. Rep. Robert Garcia called the order a blatant attack on that right.",
+        "Rep. Jamie Raskin called it totally unprecedented and blatantly unlawful. He said contractors have a duty and a right to speak truthfully when Congress calls.",
+        "The order is seen as shielding top officials, donors and Trump family members from Democratic investigations.",
+        "Threatened contract suspension or termination could deter companies from cooperating with lawful requests."
+      ],
+      "pole_a_who": "Positions stated by the White House in its order and fact sheet, and by White House counsel Will Scharf.",
+      "pole_b_who": "Positions voiced by Reps. Jamie Raskin and Robert Garcia and other congressional Democrats.",
+      "evidence_left": [
+        "Trump signed the order late Friday Nov. 20. It applies to all federal contractors and subcontractors and requires them to notify the White House of congressional requests (ABC News).",
+        "It directs contractors to withhold material the White House deems privileged. Firms that do not comply could have contracts suspended or terminated (Philadelphia Inquirer)."
+      ],
+      "evidence_right": [
+        "Democrats won both chambers in this month's midterms and take control in January (MS NOW, Al Jazeera).",
+        "Courts can intervene in disputes over Congress's authority to obtain information, and a dispute over a privilege claim could end up in court (The Hill, Truthout)."
+      ],
+      "sources": [
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-orders-federal-contractors-coordinate-white-house-congressional/story?id=138344717"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-federal-contractors-check-white-house-responding-congress-rcna610622"
+        },
+        {
+          "name": "Philadelphia Inquirer",
+          "url": "https://www.inquirer.com/politics/trump-executive-order-contractors-white-house-permission-congress-oversight-20261122.html"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://thehill.com/homenews/administration/6235181-trump-executive-privilege-congress-investigations-order/"
+        }
+      ],
+      "sources_date": "November 23, 2026",
+      "sources_line": "Sourced from ABC News, NBC News, Philadelphia Inquirer, The Hill, November 23, 2026."
     },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "AI & WEAPONS",
-      "headline": "UN Talks on Autonomous Weapons End Without Binding Rules",
-      "dek": "Geneva negotiations extended work to 2028 but stopped short of the treaty commitment that about 100 countries wanted.",
+      "kicker": "AI POLICY",
+      "headline": "Trump Says US and China Will Pursue 'Joint Guardrails' on AI",
+      "dek": "Details are thin, while governors press Congress for a national AI framework.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "Existing international humanitarian law already applies to all weapons, including autonomous systems, per the UN's own guidance.",
-        "Rushing a binding treaty could freeze definitions before the technology is understood. Not every autonomous weapon uses AI.",
-        "Militaries say autonomy can be used responsibly under human command and control. Canada's Defence Department takes this position.",
-        "Major military powers see strategic risk in binding limits, since 'no country wants to come second' in the race to develop new weapons, per NPR."
+        "Trump earlier warned that regulation could stifle innovation. Heavy rules risk slowing US AI development.",
+        "Any US-China understanding should stay narrow. Bessent said the military-AI point has nothing to do with competition between the two countries.",
+        "A patchwork of state laws could burden developers. A single national approach would give companies consistency.",
+        "Governors themselves say policy should promote innovation and AI adoption alongside protections."
       ],
       "pole_b_bullets": [
-        "UN Secretary-General Guterres sought a legally binding instrument with clear prohibitions and restrictions.",
-        "Humanitarian groups warn that military AI is advancing far faster than diplomacy.",
-        "Campaigners want bans on systems that target people and on weapons that cannot stay under meaningful human control.",
-        "Under the compromise, weapons that can make life-and-death decisions stay unregulated for at least two more years, per NPR."
+        "Xi told Trump the two countries should keep AI under human control. Guardrails need to be real, not slogans.",
+        "The announced guardrails lack specifics, so enforcement and scope remain unclear.",
+        "States such as California, Colorado, Texas and New York already have AI laws. The governors want federal rules on the most powerful models while states keep consumer, worker and child protections.",
+        "Anti-tech backlash helped drive Republican midterm losses, so public pressure for AI rules is rising."
       ],
-      "pole_a_who": "Positions commonly voiced by defense ministries and governments resisting binding limits, as reported by CBC and NPR.",
-      "pole_b_who": "Positions commonly voiced by Guterres, about 100 supportive states and humanitarian groups such as Stop Killer Robots.",
+      "pole_a_who": "Positions voiced by the Trump administration and industry-friendly AI proponents, as reported by Semafor and SCMP.",
+      "pole_b_who": "Positions voiced by Xi (via Xinhua), the National Governors Association and AI-safety advocates.",
       "evidence_left": [
-        "The talks ran Monday to Friday at a Convention on Certain Conventional Weapons meeting in Geneva and closed Saturday, Nov. 21, per CBC. Russia resisted binding commitments, per CBC. Reuters, as cited by Business Upturn, reported that Russia was not alone.",
-        "States agreed to 'elaborate' a possible accord on lethal autonomous weapons by 2028, per CBC. The convention has 128 parties, per Business Upturn."
+        "Trump said Friday Nov. 20 that the US would work with China on 'joint guardrails' for AI (Semafor).",
+        "Bessent said Trump and Xi agreed humans should always be involved in military decisions involving AI. The Shenzhen APEC meeting was their third in-person meeting this year (SCMP)."
       ],
       "evidence_right": [
-        "Around 100 countries favored moving quickly toward binding rules, per Reuters as cited by Business Upturn.",
-        "UN disarmament chief Izumi Nakamitsu called the outcome a 'significant achievement' but acknowledged a 'glass half full or half empty' scenario, per CBC. NPR says the compromise leaves such weapons without binding rules."
+        "Xinhua reported Xi said the countries should work to ensure AI remains under human control (SCMP). Explainx.ai reported it found no published joint-guardrails agreement; this is not independently confirmed.",
+        "On Nov. 22 the NGA released bipartisan principles calling for a national AI approach that clarifies state and federal roles (National Governors Association)."
       ],
       "sources": [
         {
-          "name": "CBC News",
-          "url": "https://cbc.ca/news/world/ai-warfare-regulations-un-talks-9.7431398"
+          "name": "Semafor",
+          "url": "https://semafor.com/article/11/22/2026/us-china-eye-joint-guardrails-on-ai"
         },
         {
-          "name": "NPR (via NPR Illinois)",
-          "url": "https://www.nprillinois.org/2026-11-21/killer-robots-u-n-talks-fall-short-of-hopes-for-legally-binding-rules"
+          "name": "South China Morning Post",
+          "url": "https://scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says"
         },
         {
-          "name": "Business Upturn",
-          "url": "https://businessupturn.com/technology/un-autonomous-weapons-talks-end-without-binding-rule-mandate-as-work-extends-to-2028/"
+          "name": "National Governors Association",
+          "url": "https://nga.org/news/press-releases/governors-call-for-ai-action"
         }
       ],
-      "sources_date": "November 22, 2026",
-      "sources_line": "Sourced from CBC News, NPR (via NPR Illinois), Business Upturn, November 22, 2026."
+      "sources_date": "November 23, 2026",
+      "sources_line": "Sourced from Semafor, South China Morning Post, National Governors Association, November 23, 2026."
     },
     {
       "category": "business",
       "category_label": "BUSINESS",
       "kicker": "NVIDIA",
-      "headline": "Nvidia Posts Record Quarter Without Huang as Scandal and China Scrutiny Weigh",
-      "dek": "Strong results and higher guidance met a CEO vacancy, a board investigation and a House inquiry, and the stock kept falling.",
+      "headline": "Nvidia Board Rules Out Huang Return as Stock Slides",
+      "dek": "Interim CEO Colette Kress leads the chipmaker as investigations and a push to reinstate its co-founder continue.",
       "pole_a_tag": "GROWTH-FOCUSED",
       "pole_b_tag": "RISK-FOCUSED",
       "center_label": "GROWTH vs RISK",
       "pole_a_label": "Growth-focused view",
       "pole_b_label": "Risk-focused view",
       "pole_a_bullets": [
-        "Revenue more than doubled to $115.8 billion and beat estimates. Fourth-quarter guidance of about $130 billion topped consensus.",
-        "Interim CEO Colette Kress says it is 'business as usual' and that customers and partners are behind the company.",
-        "Nvidia forecast 75% sales growth for fiscal 2028 and raised its buyback budget, per Bloomberg.",
-        "Nvidia assumes no China data-center revenue in its outlook, so guidance does not depend on the contested market. At about 15 times trailing earnings, the shares trade at their lowest multiple since at least 2014, per 24/7 Wall St."
+        "Huang built Nvidia over 33 years. Supporters argue the company's growth depends on his leadership.",
+        "A petition with roughly 180,000-plus signatures, including Elon Musk, argues he may have been forced out without due process.",
+        "Trump publicly urged the board to rehire him, arguing for an apology and a return to work.",
+        "Operations are intact. Kress raised the growth outlook, and the company says customer commitments and its product roadmap continue."
       ],
       "pole_b_bullets": [
-        "The board cites an 'ongoing investigation,' and the chairman says it does not intend to reinstate Huang. The company has no permanent CEO.",
-        "House committee chairs want answers on a 'potential breach of our national security' tied to chip access and a suspected Chinese intelligence asset.",
-        "Nvidia's legal exposure over China access is a concern, and the company has warned chip buyers of legal risks, per CNBC.",
-        "Some customers lack investment-grade ratings and must line up their own demand for the capacity they buy, per Bloomberg. That adds risk to the AI spending cycle."
+        "The board unanimously accepted his resignation and cited conduct inconsistent with company standards. Reinstatement could backfire if more findings emerge.",
+        "Reuters reported regulators are looking into accounting irregularities, a governance risk for a company at the center of the AI economy.",
+        "Huang and the general counsel face closed-door interviews with three House committees over chip-diversion questions.",
+        "Nvidia funds major AI customers, including about $30 billion into OpenAI and $10 billion into Anthropic. Leadership uncertainty adds systemic risk."
       ],
-      "pole_a_who": "Positions commonly voiced by Nvidia management and bullish analysts quoted by CNBC and Yahoo Finance.",
-      "pole_b_who": "Positions commonly voiced by House committee chairs, governance-minded investors and cautious analysts.",
+      "pole_a_who": "Positions voiced by Huang, petition signers including Elon Musk, and President Trump.",
+      "pole_b_who": "Positions voiced by Nvidia's board, congressional investigators and market commentators cited by NBC News and Briefs.",
       "evidence_left": [
-        "Q3 revenue was $115.84 billion against $109.10 billion expected. Adjusted EPS was $2.68 against $2.48 expected, per CNBC. Fourth-quarter guidance was about $130 billion against a $125.1 billion consensus, per CNBC and LSEG.",
-        "CBS News reported profit of $65.3 billion, up 105% year over year. Interim CEO Colette Kress led her first earnings call after Huang resigned."
+        "Nvidia's 8-K dated Nov. 12 says Huang resigned as president, CEO and director, with CFO Colette Kress named interim CEO and Harvey Jones named board chair (SEC).",
+        "On Nov. 17 Jones said on the earnings call the board 'does not intend to reinstate Jensen as CEO' (PBS, SCMP)."
       ],
       "evidence_right": [
-        "Huang will give a closed-door interview to three House committees on Dec. 1. General counsel Tim Teter follows on Dec. 2, per Euronews. Trump said 'Nobody's proven that she's a spy,' per The Washington Sun.",
-        "Nvidia closed at $125.53 Friday, 48% below its record, per 24/7 Wall St. It fell 23% for the week, its worst since October 2008, per Yahoo Finance. Chair Harvey Jones said Huang would not return, per CNBC."
+        "Nvidia shares fell about 14% Friday Nov. 20 (Axios, CNBC, NBC News). ABC News Australia reported a 6.9% decline.",
+        "Huang and Nvidia's general counsel are due for closed-door interviews with three House committees in early December (SCMP)."
+      ],
+      "sources": [
+        {
+          "name": "SEC Form 8-K (NVIDIA)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+        },
+        {
+          "name": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/nation/nvidia-chair-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/20/anthropic-ipo-nvidia-ai-tech-selloff"
+        }
+      ],
+      "sources_date": "November 23, 2026",
+      "sources_line": "Sourced from SEC Form 8-K (NVIDIA), PBS NewsHour (AP), CBS News, Axios, November 23, 2026."
+    },
+    {
+      "category": "tech",
+      "category_label": "TECH",
+      "kicker": "CHIP EXPORTS",
+      "headline": "House Panel Data Shows 879,868 Nvidia and AMD Chips Approved for China",
+      "dek": "The disclosure intensifies scrutiny of Commerce Secretary Lutnick as the administration tightens a remote-access loophole.",
+      "pole_a_tag": "INNOVATION",
+      "pole_b_tag": "OVERSIGHT",
+      "center_label": "INNOVATION vs OVERSIGHT",
+      "pole_a_label": "Innovation view",
+      "pole_b_label": "Oversight view",
+      "pole_a_bullets": [
+        "Nvidia says its limited H200 shipments were legal and authorized, after a licensing process of more than half a year under strict conditions.",
+        "Selling chips abroad can create American jobs and cement American AI as the world standard.",
+        "Sales were limited in practice. An analyst told CNBC that Beijing did not approve large-scale imports.",
+        "Rules should avoid hurting US firms' overseas business, and the Commerce rule is designed to balance that."
+      ],
+      "pole_b_bullets": [
+        "Rep. Gregory Meeks said BIS failed to enforce the rules and approved advanced-chip licenses with little scrutiny.",
+        "The Pentagon has identified some of the buyers as having ties to the Chinese military.",
+        "Bessent said Treasury wanted export controls on Megaspeed, a Singapore firm under scrutiny, but Commerce was in charge.",
+        "Sen. John Kennedy (R-La.) said Lutnick should face hard questions about whether Chinese firms circumvented the rules."
+      ],
+      "pole_a_who": "Positions voiced by Nvidia and AMD spokespeople and administration chip-sales proponents, as reported by CNBC, PBS and CNN.",
+      "pole_b_who": "Positions voiced by House Foreign Affairs Democrats, Sen. John Kennedy, Treasury Secretary Bessent and Sen. Maria Cantwell.",
+      "evidence_left": [
+        "The House Foreign Affairs Committee said BIS approved 879,868 chips across 21 license applications as of May 11 (Epoch Times, CNBC). PBS/AP reported more than 850,000.",
+        "Nvidia said it has since stopped shipping H200s to China (Epoch Times)."
+      ],
+      "evidence_right": [
+        "On Nov. 16 Commerce issued an interim rule requiring licenses for advanced chips to Indonesia, Malaysia, Singapore, Thailand and Brazil. BIS said it was written by and at the direction of Treasury and the NSC (Nextgov, CNBC).",
+        "Trump said he has 'not lost confidence' in Lutnick (PBS). Lutnick is expected to testify before the Senate Banking Committee (Washington Post)."
       ],
       "sources": [
         {
           "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
         },
         {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/nvidia-earnings-jensen-huang-colette-kress/"
+          "name": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china"
         },
         {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/11/17/jensen-huang-to-face-house-interviews-on-nvidias-sales-to-china-on-december-1"
+          "name": "Nextgov/FCW",
+          "url": "https://www.nextgov.com/artificial-intelligence/2026/11/commerce-department-moves-close-ai-chip-loophole/417255/?oref=ng-homepage-river"
         },
         {
-          "name": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/live-blog/2026-11-17/nvidia-third-quarter-earnings-live-updates"
+          "name": "House Foreign Affairs Committee Democrats",
+          "url": "https://democrats-foreignaffairs.house.gov/2026/11/meeks-delivers-remarks-during-hfac-disclosure-of-bis-licenses-of-nvidia-amd-chips-to-china/"
         }
       ],
-      "sources_date": "November 22, 2026",
-      "sources_line": "Sourced from CNBC, CBS News, Euronews, Bloomberg, November 22, 2026."
+      "sources_date": "November 23, 2026",
+      "sources_line": "Sourced from CNBC, PBS NewsHour (AP), Nextgov/FCW, House Foreign Affairs Committee Democrats, November 23, 2026."
+    },
+    {
+      "category": "general",
+      "category_label": "GENERAL",
+      "kicker": "AUTONOMOUS WEAPONS",
+      "headline": "UN Talks on AI 'Killer Robots' Extended Two Years Without Binding Rules",
+      "dek": "Geneva negotiators agreed to 'elaborate' a possible accord by 2028 but made no binding commitment.",
+      "pole_a_tag": "OPTIMIST",
+      "pole_b_tag": "SKEPTIC",
+      "center_label": "OPTIMIST vs SKEPTIC",
+      "pole_a_label": "Optimist view",
+      "pole_b_label": "Skeptic view",
+      "pole_a_bullets": [
+        "The mandate keeps a path to an accord open. Countries agreed to elaborate one by 2028.",
+        "Most countries support work toward a new treaty, so momentum exists.",
+        "UN disarmament chief Izumi Nakamitsu urged work to begin immediately on the strongest possible instrument.",
+        "Consensus bodies are slow by design, and any state can block. Even a softened text is progress in that setting."
+      ],
+      "pole_b_bullets": [
+        "Beatrice Fihn of Lex International called the result 'pushing the can down the road' for two more years.",
+        "Stop Killer Robots called it a watered-down mandate. Activists blamed obstruction mainly by Russia, with the US also seeking a freer hand.",
+        "Armed drones that can strike independently have already been deployed in some conflict zones, according to activists.",
+        "Future of Life Institute's Anna Hehir said a two-year timeline risks letting technology outpace regulation."
+      ],
+      "pole_a_who": "Positions voiced by UN disarmament officials and treaty-supporting states, as reported by AP.",
+      "pole_b_who": "Positions voiced by Stop Killer Robots, Lex International and the Future of Life Institute.",
+      "evidence_left": [
+        "The week-long conference ended Saturday Nov. 21 with a softened agreement to extend talks two years (AP via CP24).",
+        "The talks are under the Convention on Certain Conventional Weapons, ratified by 128 countries, where decisions are made by consensus (AP via CP24)."
+      ],
+      "evidence_right": [
+        "UN Secretary-General António Guterres, who leaves office at year-end, had set a 2026 deadline for launching negotiations toward a binding agreement (1News, AP via CP24).",
+        "Countries did not commit to binding rules (AP via CP24, 1News). Nakamitsu's description of the outcome as a significant achievement was reported by World Today News citing GPB; not independently confirmed."
+      ],
+      "sources": [
+        {
+          "name": "AP via CP24",
+          "url": "https://www.cp24.com/news/world/2026/11/21/nations-agree-to-extend-talks-on-ai-killer-robots-but-no-firm-commitment-to-rein-them-in/"
+        },
+        {
+          "name": "1News",
+          "url": "https://www.1news.co.nz/2026/11/22/nations-extend-talks-on-ai-killer-robots-without-a-deal-on-firm-rules/"
+        },
+        {
+          "name": "KSL (AP)",
+          "url": "https://www.ksl.com/article/news/world/nations-agree-to-extend-talks-on-ai-killer-robots-but-no-firm-commitment-to-rein-them-in/51647299"
+        },
+        {
+          "name": "World Today News",
+          "url": "https://www.world-today-news.com/un-weapons-conference-extends-killer-robot-talks-two-years-no-binding-rules/"
+        }
+      ],
+      "sources_date": "November 23, 2026",
+      "sources_line": "Sourced from AP via CP24, 1News, KSL (AP), World Today News, November 23, 2026."
     }
   ]
 }
