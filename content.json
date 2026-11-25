@@ -1,246 +1,254 @@
 {
-  "date": "November 24, 2026",
+  "date": "November 25, 2026",
   "stories": [
     {
       "category": "tech",
       "category_label": "TECH",
       "kicker": "NVIDIA",
-      "headline": "Nvidia Reinstates Jensen Huang as CEO After Trump Presses Board",
-      "dek": "Huang resigned Nov. 12 and returned Nov. 23, and lawmakers in both parties are demanding answers on national security.",
+      "headline": "Nvidia reinstates Jensen Huang after Trump call to board; Congress presses ahead with hearings",
+      "dek": "The board reversed course about two weeks after his resignation, and lawmakers in both parties say questions about China-bound chips remain.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "Huang is the central figure in keeping the U.S. ahead of China in AI chips, and Trump's defenders say removing him hands rivals an advantage.",
-        "The board voted unanimously after meetings it said left it satisfied on his candor, and Huang has not been charged with any crime.",
-        "His exit hit Nvidia's shares and unsettled the wider AI sector, so a stable CEO matters to the companies and investors building on its chips.",
-        "The new Chief Compliance Officer post and the continuing investigations are presented as safeguards, so reinstatement does not end accountability."
+        "Huang leads the company at the center of U.S. AI chip leadership, and supporters say a leaderless Nvidia weakens American AI capacity. Trump wrote that the country needs his leadership.",
+        "Backers separate his personal conduct from the national-security questions and point to government input the board received. Attorney General Todd Blanche called Nvidia a good corporate citizen.",
+        "Industry voices argue that tight export limits push China toward its own supply. Huang has said before that restrictions have not slowed Chinese AI progress.",
+        "A White House spokesman has said licensed exports to designated end users after national security inspections differ from smuggled chips."
       ],
       "pole_b_bullets": [
-        "A reported affair with a woman alleged to have Chinese intelligence ties is a counterintelligence matter that a brief internal review cannot settle, say Republican Sens. Cornyn and Ricketts and Rep. Bacon.",
-        "Nvidia cited input from senior U.S. officials, and Sen. Warren wants Congress told which officials gave it and what they said.",
-        "Critics say presidential pressure on a private board sets a troubling precedent, especially after the board chair said days earlier that Huang would not return.",
-        "Ricketts says the board still has to answer for unaccounted-for chips, and Warren and Schumer want export-control bills passed and investigations opened when Democrats take control in January."
+        "Lawmakers in both parties say reinstatement does not answer questions about diverted chips or Huang's relationship with a suspected Chinese spy. A House spokesperson said it changes nothing.",
+        "Democrats including Schumer, Warren and Wyden say presidential involvement in a private board decision raises national-security concerns. Wyden said national security is for sale.",
+        "Republican China hawks such as Cotton want statutory limits. Cotton said Congress will pass bipartisan chip export-control bills.",
+        "Gallego and others want scrutiny of stock trades made before the announcement. Blanche and FBI Director Patel avoided questions on the Justice Department's role."
       ],
-      "pole_a_who": "Positions voiced by Trump and administration allies, and by investors who urged the board to keep Huang's return open.",
-      "pole_b_who": "Positions voiced by Republican and Democratic lawmakers including Cornyn, Ricketts, Bacon, Warren and Schumer.",
+      "pole_a_who": "Positions commonly voiced by the White House, Nvidia's board and AI-industry supporters.",
+      "pole_b_who": "Positions commonly voiced by members of both parties, including Schumer, Warren and Cotton.",
       "evidence_left": [
-        "Nvidia's Nov. 23 SEC filing says the board voted unanimously to reinstate Huang as president, CEO and director. It also says Nvidia will cooperate with government investigations and search for a Chief Compliance Officer.",
-        "Huang resigned Nov. 12 after reports of extramarital affairs, one with a woman alleged to work with Chinese intelligence (The Hill). Nvidia's independent probe is ongoing."
+        "Nvidia's board announced on Monday, Nov. 23 that Huang is again president and CEO after resigning earlier in the month. The board said it had input from senior levels of the U.S. government (NBC News, CNBC).",
+        "Trump posted that the board made the correct and proper decision to reinstate Huang, and said he spoke directly with its members (MS NOW, Washington Post)."
       ],
       "evidence_right": [
-        "Nvidia said it acted after input from senior levels of the U.S. government. Trump said he spoke with board members directly and indirectly (NBC News, CNBC).",
-        "Nvidia shares rose more than 30% on Nov. 23 (CNN). The Nasdaq Composite rose 6.51% and the S&P 500 rose 4.73%."
+        "Huang is scheduled for transcribed House committee interviews on Dec. 1 and 2 and a public Senate Banking Committee hearing on Dec. 3 (NBC News, CBS News).",
+        "Nvidia shares fell about 6% on Tuesday after Monday's rally (Yahoo Finance). Blanche largely avoided questions on Justice Department actions related to Huang at a Tuesday news conference (NBC News)."
       ],
       "sources": [
-        {
-          "name": "NVIDIA Form 8-K (SEC)",
-          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
-        },
         {
           "name": "NBC News",
           "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864"
         },
         {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction"
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/jensen-huang-congress-reinstatement-nvidia/"
         },
         {
           "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+          "url": "https://cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+        },
+        {
+          "name": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings"
         }
       ],
-      "sources_date": "November 24, 2026",
-      "sources_line": "Sourced from NVIDIA Form 8-K (SEC), NBC News, Axios, CNBC, November 24, 2026."
+      "sources_date": "November 25, 2026",
+      "sources_line": "Sourced from NBC News, CBS News, CNBC, PBS NewsHour (AP), November 25, 2026."
     },
     {
       "category": "economy",
       "category_label": "ECONOMY",
-      "kicker": "MARKETS",
-      "headline": "Stocks Post Best Day Since April 2025 as Fed Hike Looms",
-      "dek": "A rebound after a steep sell-off collides with expectations of a December rate increase.",
+      "kicker": "MARKETS & FED",
+      "headline": "Stocks swing as AI selloff and Fed hike bets meet the PCE inflation report",
+      "dek": "The Nasdaq fell Tuesday after Monday's surge, and a December rate hike is priced as near-certain ahead of the Fed's preferred inflation gauge.",
       "pole_a_tag": "BULL",
       "pole_b_tag": "BEAR",
       "center_label": "BULL vs BEAR",
       "pole_a_label": "Bull view",
       "pole_b_label": "Bear view",
       "pole_a_bullets": [
-        "The rally was broad. Every S&P 500 sector except energy and consumer staples rose, and 26 of 30 Dow stocks gained.",
-        "The fear gauge fell sharply, and the sell-off looks like a washout after seven straight down days.",
-        "Even after cutting its target, Yardeni's 7,500 year-end S&P 500 forecast implies a gain of more than 8.5% from current levels.",
-        "Commentators describe the economy as resilient, which supports earnings even with higher rates."
+        "Growth is holding up. Third-quarter GDP rose at a 3.4% annualized rate, above the 3.0% economists projected.",
+        "A stronger-than-expected jobs report earlier this month eased worries about a labor-market cooldown.",
+        "Fuel prices have fallen at the pump in recent weeks, and that relief is not yet in October's price data.",
+        "Bulls read the Dow's 423-point gain Tuesday as rotation within the market rather than a retreat. Monday's rally was the best session since April 2025."
       ],
       "pole_b_bullets": [
-        "One headline, Huang's return, drove much of the jump, and a single-company bounce is a thin basis for a durable recovery.",
-        "The Nasdaq remains 12.7% below its Oct. 6 peak, and the Dow is 8.75% below its Aug. 5 peak.",
-        "Fed officials expect a December hike, and markets are pricing out 2027 cuts. Higher borrowing costs weigh on valuations.",
-        "The VIX is still near 27 and futures slipped Tuesday, which suggests the bounce is fragile."
+        "Inflation is well above target. PCE ran 3.6% in September and is expected at 3.8% for October against the Fed's 2% goal.",
+        "October CPI rose more than economists expected, and Iran-war fuel costs have fed overall inflation.",
+        "Real incomes are under pressure. Inflation-adjusted after-tax income fell 0.3% in September.",
+        "AI-linked stocks remain fragile, with Nvidia's comeback reversing Tuesday, and the Fed is expected to keep raising rates."
       ],
-      "pole_a_who": "Positions commonly voiced by equity strategists and dip-buyers, such as Yardeni Research.",
-      "pole_b_who": "Positions commonly voiced by rate strategists and cautious analysts reading the same data.",
+      "pole_a_who": "Positions commonly voiced by growth-oriented strategists and equity bulls.",
+      "pole_b_who": "Positions commonly voiced by inflation-focused economists and market bears.",
       "evidence_left": [
-        "On Nov. 23 the S&P 500 rose 4.73% to 7,237.17, the Nasdaq Composite rose 6.51%, and the Dow rose 1,447.98 points (3.01%) to 49,595.31 (CNN).",
-        "The prior week all three major indexes lost 8% or more. The S&P 500 fell seven straight days, its longest streak since February 2020 (CNN)."
+        "On Tuesday the Dow rose 423.39 points to 50,018.70, the S&P 500 fell 0.5% to 7,201.09 and the Nasdaq fell 1.48% to 23,733.54 (CNBC). 247WallSt reported an S&P 500 finish of 7,198.76.",
+        "CNN reported September core PCE at 3.1% and third-quarter GDP growth at 3.4%. ABC News reported a stronger-than-expected jobs report earlier this month."
       ],
       "evidence_right": [
-        "Fed minutes show nearly all officials expect a quarter-point hike in December. Two floated a half-point move, and CME FedWatch put the odds of a December hike near 95% (ABC News/AP).",
-        "Tuesday premarket, Nasdaq 100 futures were down 0.96% and S&P 500 futures down 0.38% (Benzinga)."
+        "CME FedWatch put the odds of a 25-basis-point hike at the Dec. 9 meeting above 97% (Kiplinger).",
+        "The Commerce Department was due to release October PCE on Wednesday. The consensus was 3.8% annual headline inflation, up from 3.6% (ABC News). The actual figures were not yet in the sources reviewed."
       ],
       "sources": [
         {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Business/inflation-report-provide-feds-preferred-gauge-prices-ahead/story?id=138410424"
+        },
+        {
           "name": "CNN",
-          "url": "https://cnn.com/2026/11/23/markets/us-stocks-rebound-intl"
+          "url": "https://www.cnn.com/2026/10/29/economy/us-economy-pce-inflation-gdp"
         },
         {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833"
-        },
-        {
-          "name": "ABC News/AP",
-          "url": "https://abcnews.com/US/wireStory/fed-minutes-higher-interest-rates-needed-december-inflation-138258781"
-        },
-        {
-          "name": "Benzinga",
-          "url": "https://www.benzinga.com/markets/equities/26/11/63569914/stock-market-today-dow-sp-500-futures-fall-after-scott-bessent-unveils-fresh-iran-sanctions-hormuz-warnings-hpe-smtc-dell-in-focus"
+          "name": "Kiplinger",
+          "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
         }
       ],
-      "sources_date": "November 24, 2026",
-      "sources_line": "Sourced from CNN, NBC News, ABC News/AP, Benzinga, November 24, 2026."
+      "sources_date": "November 25, 2026",
+      "sources_line": "Sourced from CNBC, ABC News, CNN, Kiplinger, November 25, 2026."
     },
     {
       "category": "politics",
       "category_label": "POLITICS",
-      "kicker": "OVERSIGHT",
-      "headline": "Trump Order Tells Contractors to Coordinate With White House on Congressional Probes",
-      "dek": "The order comes weeks before Democrats take the House and promise investigations.",
+      "kicker": "TRADE",
+      "headline": "Administration readies new tariffs on China, EU and 14 other economies",
+      "dek": "WSJ and AP reports citing people familiar say USTR Jamieson Greer could release the excess-capacity findings soon; no final rates were public in the reports reviewed.",
       "pole_a_tag": "CONSERVATIVE",
       "pole_b_tag": "LIBERAL",
       "center_label": "BOTH SIDES",
       "pole_a_label": "Conservative view",
       "pole_b_label": "Liberal view",
       "pole_a_bullets": [
-        "Executive privilege is a recognized presidential power, and the order protects privileged communications held by contractors.",
-        "Contractors that deal with the executive branch should not be exposed to partisan fishing expeditions, as the White House fact sheet argues.",
-        "Coordination is not refusal. Counsel Will Scharf said that whether subpoenas are honored depends on the subpoena.",
-        "Democrats have signaled sweeping probes, and the White House is entitled to prepare for them."
+        "Government-backed overcapacity lets foreign producers sell underpriced goods abroad and undercut U.S. manufacturers, Greer argues.",
+        "China's exports and surplus show the scale of the problem. Its trade surplus reached a record near $1.2 trillion last year, and its overcapacity spans autos, solar, cement and steel.",
+        "The plan includes possible triggers for higher rates if countries do not curb overcapacity. Supporters see that as leverage for policy concessions.",
+        "Using a Section 301 investigation, rather than the emergency powers the Supreme Court rejected, answers the court's ruling by following a defined legal process."
       ],
       "pole_b_bullets": [
-        "Oversight is a core constitutional power of Congress, and Rep. Robert Garcia calls the order a blatant attack on it.",
-        "Letting the White House screen what contractors hand over invites concealment, and Garcia asks what the White House is trying to hide.",
-        "Democrats say the aim is to blunt investigations of alleged corruption, including matters involving Trump's family.",
-        "Rep. Jamie Raskin says the order has the force of an interoffice memo and that courts will back Congress."
+        "Tariffs raise costs for households. The Footwear Distributors and Retailers of America said new 301 duties would raise costs for American families.",
+        "The list reaches close allies, including Japan, South Korea and all 27 EU members, which critics say risks trade conflict.",
+        "Exporters warn of retaliation. The American Soybean Association cautioned about Chinese retaliation.",
+        "Congressional Democrats plan to reclaim tariff authority and use oversight to test the administration's case, noting that the Constitution gives taxing power to Congress."
       ],
-      "pole_a_who": "Positions voiced by the White House counsel's office and administration allies.",
-      "pole_b_who": "Positions voiced by incoming House Democrats including Garcia and Raskin.",
+      "pole_a_who": "Positions commonly voiced by the Trump administration, USTR Greer and tariff supporters. Some free-trade conservatives disagree.",
+      "pole_b_who": "Positions commonly voiced by congressional Democrats, retail groups and farm-export advocates.",
       "evidence_left": [
-        "Trump's order directs federal contractors and subcontractors to consult the administration on congressional inquiries and withhold communications the White House deems privileged (NBC News).",
-        "Scharf told federal agencies they must get approval from his office and the Office of Legislative Affairs before appearing before Congress (NBC News)."
+        "AP, citing two people familiar with the matter, reported the administration is expected to soon announce higher tariffs on China, the EU and 14 other economies. The WSJ reported Greer could unveil findings as soon as this week.",
+        "The Supreme Court struck down tariffs imposed under IEEPA in February 2026 (The Hill). AP described the new move as following that ruling."
       ],
       "evidence_right": [
-        "Scharf told Democrats in writing that their probes may cross into criminality. He told Bloomberg the White House might not honor subpoenas, saying it depends on the subpoena (reported by Raw Story citing Bloomberg).",
-        "Scharf also told Democrats that document-retention requests from ranking members carry no weight (Punchbowl News)."
+        "Per the WSJ, via Investing.com, the duties would cover most products from the targeted countries and exclude steel, aluminum and autos already under national-security tariffs. China would face the steepest rates.",
+        "Industry comments reported by Ecommerce Paradise included the retailers' and soybean growers' objections. Those objections are reported secondhand, and the source cites Reuters for a separate hearing remark."
       ],
       "sources": [
         {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/politics/trump-administration/trump-orders-federal-contractors-check-white-house-responding-congress-rcna610622"
+          "name": "AP via myMotherLode",
+          "url": "https://mymotherlode.com/news/national/us-government/11338046/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources-say.html"
         },
         {
-          "name": "Punchbowl News",
-          "url": "https://punchbowl.news/article/washington/white-house-plan-stymie-dems/"
-        },
-        {
-          "name": "Raw Story",
-          "url": "https://www.rawstory.com/white-house-subepoena/"
-        }
-      ],
-      "sources_date": "November 24, 2026",
-      "sources_line": "Sourced from NBC News, Punchbowl News, Raw Story, November 24, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "DEATH PENALTY",
-      "headline": "Trump Uses DOJ Speech to Attack Newsom Over 548 Death Row Commutations",
-      "dek": "Trump also announced a directive to seek more federal death sentences and to speed federal executions.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "Juries imposed these sentences, and a governor's mass commutation overrides their verdicts.",
-        "Victims' families say Newsom erased their closure without notice, and Trump put several of them on stage.",
-        "California voters just rejected a ballot measure to abolish the death penalty, and critics say Newsom acted against that result.",
-        "The new federal directive targets child murderers and rapists or traffickers who kill, and supporters call that a justified use of capital punishment."
-      ],
-      "pole_b_bullets": [
-        "Newsom says state-sanctioned killing conflicts with California's values and that an imperfect legal system cannot be trusted to execute people.",
-        "Anti-death-penalty advocates say Trump is using the issue for political purposes that do not help victims' families.",
-        "Newsom accuses the administration of using the Justice Department against opponents while pardoning allies.",
-        "Commutation to life without parole keeps these prisoners locked up, and critics say the speech is aimed at a likely 2028 rival."
-      ],
-      "pole_a_who": "Positions voiced by Trump, Attorney General Todd Blanche and victims' family members.",
-      "pole_b_who": "Positions voiced by Newsom and anti-death-penalty advocates such as Natasha Minsker.",
-      "evidence_left": [
-        "Newsom commuted the death sentences of 548 California inmates to life without parole (CNN, The Hill). The cases all stem from state prosecutions (Yahoo News).",
-        "Trump said at the Justice Department on Nov. 23 that the DOJ is working to overturn the commutations (The Hill)."
-      ],
-      "evidence_right": [
-        "Trump announced a directive for the DOJ to seek the death penalty for child murderers and for rapists and traffickers who kill, and to expedite federal executions (Yahoo News, The Hill).",
-        "A California ballot measure to abolish the death penalty was defeated by just over 6 points earlier this month (The Hill). Newsom imposed a moratorium in 2019."
-      ],
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/2026/11/23/politics/trump-newsom-death-penalty-commutations-2028"
+          "name": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/white-house-prepares-sweeping-new-tariffs-on-china-eu-and-dozens-of-nations-5048285"
         },
         {
           "name": "The Hill",
-          "url": "https://thehill.com/homenews/administration/6238764-trump-slams-newsom-commutations/"
+          "url": "https://thehill.com/business/6205219-democrats-target-trump-tariffs/"
+        },
+        {
+          "name": "Ecommerce Paradise",
+          "url": "https://ecommerceparadise.com/section-301-tariffs-china-eu/"
+        }
+      ],
+      "sources_date": "November 25, 2026",
+      "sources_line": "Sourced from AP via myMotherLode, Investing.com, The Hill, Ecommerce Paradise, November 25, 2026."
+    },
+    {
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "SHUTDOWN WATCH",
+      "headline": "Dec. 11 funding deadline splits Democrats over using a stopgap to curb the Iran war",
+      "dek": "The White House sent Congress a stopgap wish list assuming a March 31 extension, while Democrats debate whether to risk a shutdown.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
+      "pole_a_bullets": [
+        "A stopgap should carry no war restrictions. Senate Majority Leader John Thune called Van Hollen's demand short-sighted and said Democrats are risking a shutdown.",
+        "Government and defense programs need continuity. The White House asked for billions for Golden Dome, Navy submarines and Artemis, and said more Pentagon requests are expected amid the war.",
+        "Cutting offensive funding mid-conflict has strategic costs. Democratic Sen. Mark Kelly said he does not want to leave Iran in control of the Strait of Hormuz.",
+        "A shutdown may not end the fighting, and any war powers resolution faces a Trump veto. Some House Democrats make the first point themselves."
+      ],
+      "pole_b_bullets": [
+        "Van Hollen, Duckworth and Gillibrand want any stopgap to bar funds for offensive operations in Iran. Khanna and Ansari said they would vote against a package that does not.",
+        "After a midterm landslide, the funding deadline is the party's first leverage point on the war, and base pressure to use it is intense.",
+        "A pragmatic wing, including senior House Democrats, favors a short-term extension to avoid a shutdown and a fuller fight once Democrats control Congress.",
+        "Schumer has urged an end to the war without specifying a plan. Others suggest narrower limits, such as barring ground troops or limiting transfers to the Pentagon."
+      ],
+      "pole_a_who": "Positions commonly voiced by Senate Majority Leader Thune, Republican appropriators and the White House.",
+      "pole_b_who": "Positions commonly voiced by Democrats including Van Hollen, Khanna and, on the cautious side, DeLauro.",
+      "evidence_left": [
+        "Lawmakers face a Dec. 11 deadline to extend funding for most federal agencies (CBS News).",
+        "The White House sent Congress an anomalies list assuming a stopgap through March 31 (Punchbowl News). It asks for billions for Golden Dome, Navy submarines and Artemis (The Hill)."
+      ],
+      "evidence_right": [
+        "House Democrats are divided over whether to demand an end to war funding or defer the fight to next year, when they control Congress (The Hill).",
+        "Rosa DeLauro, who is set to chair House Appropriations, told CBS before the election she would support cutting off funds for the Iran war. Other top House Democrats are backing away from that approach (CBS News)."
+      ],
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/iran-war-democrats-congress-trump/"
+        },
+        {
+          "name": "Punchbowl News",
+          "url": "https://punchbowl.news/article/washington/white-house-preps-for-march-31-cr"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/"
         },
         {
           "name": "MS NOW",
-          "url": "https://www.ms.now/news/trump-speech-justice-department-gavin-newsom"
+          "url": "https://www.ms.now/news/lawmakers-running-out-of-time-government-shutdown"
         }
       ],
-      "sources_date": "November 24, 2026",
-      "sources_line": "Sourced from CNN, The Hill, MS NOW, November 24, 2026."
+      "sources_date": "November 25, 2026",
+      "sources_line": "Sourced from CBS News, Punchbowl News, The Hill, MS NOW, November 25, 2026."
     },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "AI POLICY",
-      "headline": "Governors Ask Congress for National AI Rules That Leave State Laws Standing",
-      "dek": "The bipartisan NGA principles collide with the White House push to preempt state AI laws.",
+      "kicker": "AI RULES",
+      "headline": "Governors urge Congress to keep state AI powers as preemption push continues",
+      "dek": "Bipartisan National Governors Association principles issued Nov. 22 seek federal oversight of frontier models while states keep authority over consumer and worker protections.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "A patchwork of state rules raises compliance costs for companies operating across state lines, and the White House cites interstate commerce and national security.",
-        "Federal standards for the most advanced models would give developers one set of rules to follow.",
-        "A House discussion draft would preempt state laws for three years and bar state limits on model development, while leaving state rules on AI use (reported by Townhall citing Nextgov).",
-        "Utah Gov. Spencer Cox says states do not have to choose between innovation and safety, and the governors' plan says rules should not favor large firms."
+        "A single national rulebook avoids a patchwork. The White House argues that regulating AI development raises interstate commerce and national security concerns.",
+        "The Great American AI Act discussion draft would preempt state AI laws for three years and bar state laws targeting model development.",
+        "The draft leaves states free to regulate how AI is used, which supporters present as a division of labor that protects competitiveness.",
+        "Trump backed a Republican push to add preemption language to the defense bill, according to Bloomberg via Startup Fortune."
       ],
       "pole_b_bullets": [
-        "States are already acting, and New York's RAISE Act takes effect in January. Gov. Hochul is signing a five-year ban on AI-chatbot toys.",
-        "Governors want Washington to handle national risks, with states keeping authority over how AI is used on workers, consumers and children.",
-        "The NGA asks for independent audits of frontier models and reporting of serious safety incidents, and says any preemption should be approached cautiously.",
-        "No bill text yet combines the governors' split with the White House's preemption language, so broad preemption would leave a gap."
+        "The governors' council, led by Democrats Wes Moore and Josh Stein and Republicans Mike Braun and Spencer Cox, calls for independent audits of frontier models and reporting of serious incidents.",
+        "States should keep authority to protect consumers, workers and children where AI is deployed.",
+        "Congress should approach preemption cautiously, displacing state law only as needed for a clearly stated national objective.",
+        "State action is already under way. New York's governor signed a five-year ban on AI-chatbot toys on Tuesday."
       ],
-      "pole_a_who": "Positions voiced by the White House, congressional preemption backers and industry-aligned commentators.",
-      "pole_b_who": "Positions voiced by the bipartisan governors' council led by Wes Moore and Mike Braun, and by state AI-safety advocates.",
+      "pole_a_who": "Positions commonly voiced by the White House, House sponsors of federal AI framework drafts and industry advocates.",
+      "pole_b_who": "Positions commonly voiced by governors of both parties, state officials and AI-safety advocates.",
       "evidence_left": [
-        "The NGA released six AI principles on Nov. 22, from a council led by Maryland Gov. Wes Moore (D) and Indiana Gov. Mike Braun (R) (MLQ.ai, Townhall).",
-        "The White House asked Congress to override state AI laws that impose undue burdens (Intelligence Report). Its March 2026 framework recommended preempting certain state laws (NGA)."
+        "Townhall, citing Nextgov, reported the Great American AI Act draft would allow federal preemption of state AI laws for three years.",
+        "Startup Fortune reported no bill text combining the governors' division of labor with White House preemption language has been published."
       ],
       "evidence_right": [
-        "The governors urged Congress to approach preemption cautiously and to consult a cross-section of states (PYMNTS).",
-        "New York is set to be the second state, after California, to ban AI-chatbot toys, effective in February (NBC News)."
+        "The NGA released the principles on Sunday, Nov. 22, to inform the incoming Congress (PYMNTS). The council proposes that Washington oversee national-scale risks and states govern how AI is used.",
+        "Gov. Kathy Hochul signed the AI toy ban Tuesday. It takes effect in February, making New York the second state after California to ban such toys (NBC News)."
       ],
       "sources": [
         {
@@ -252,70 +260,70 @@
           "url": "https://startupfortune.com/governors-ask-congress-for-one-ai-rulebook-that-leaves-state-laws-standing/"
         },
         {
-          "name": "NBC News",
-          "url": "https://nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
+          "name": "Townhall",
+          "url": "https://townhall.com/news/jeff-charles/2026/11/23/governors-admit-they-dont-understand-ai-theyre-demanding-a-say-in-regulating-it-anyway-n2686926"
         },
         {
-          "name": "Intelligence Report",
-          "url": "https://intelligencereport.org/2026/11/23/federal-ai-framework-governors-congress/"
+          "name": "NBC News",
+          "url": "https://nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962"
         }
       ],
-      "sources_date": "November 24, 2026",
-      "sources_line": "Sourced from PYMNTS, Startup Fortune, NBC News, Intelligence Report, November 24, 2026."
+      "sources_date": "November 25, 2026",
+      "sources_line": "Sourced from PYMNTS, Startup Fortune, Townhall, NBC News, November 25, 2026."
     },
     {
-      "category": "general",
-      "category_label": "GENERAL",
-      "kicker": "IOWA",
-      "headline": "Trump Pauses Army's Iowa Lead Azide Blast; Appeals Court Clears It",
-      "dek": "The planned detonation of about 9,500 pounds of degraded explosive is set for Nov. 25 amid dispute over the lead plume.",
-      "pole_a_tag": "OPTIMIST",
-      "pole_b_tag": "SKEPTIC",
-      "center_label": "OPTIMIST vs SKEPTIC",
-      "pole_a_label": "Optimist view",
-      "pole_b_label": "Skeptic view",
+      "category": "sports",
+      "category_label": "SPORTS",
+      "kicker": "NFL",
+      "headline": "NFL's first Thanksgiving Eve game puts Packers-Rams on Netflix",
+      "dek": "Both teams are 6-4, Micah Parsons is expected to return, and U2 headlines halftime, while fans are split over the streaming-only format.",
+      "pole_a_tag": "TAKE",
+      "pole_b_tag": "COUNTER-TAKE",
+      "center_label": "TAKE vs COUNTER-TAKE",
+      "pole_a_label": "Take",
+      "pole_b_label": "Counter-take",
       "pole_a_bullets": [
-        "The Army says a controlled detonation is the only way to dispose of the degraded material, and that doing nothing risks something worse.",
-        "Trump wrote that the material could explode on its own and that detonating now is safer.",
-        "The EPA approved an emergency permit, and the Eighth Circuit declined to block the operation.",
-        "Mitigation measures are being put in place, and the date was chosen for optimal weather conditions."
+        "Fans want it. In a survey cited by Yahoo Sports, 66.1% plan to watch and 65.7% support making Thanksgiving Eve an annual tradition.",
+        "The game has real stakes. Both teams are 6-4 and in the NFC playoff race, and Parsons is expected to return from last year's season-ending injury.",
+        "Netflix and the NFL are building an event, with U2 at halftime aimed at reaching beyond core football fans.",
+        "The business case is strong. RotoWire projects $131.7 million in sportsbook wagers, about 47% above the regular-season average."
       ],
       "pole_b_bullets": [
-        "Army modeling shows lead particles traveling up to 40 miles and dust drifting up to 100 miles, and lead is a known neurotoxin.",
-        "State officials, residents and the American Lung Association say communication was late and inadequate, and that eastern Iowa and western Illinois could be exposed.",
-        "Earthjustice sued for the Iowa Environmental Council and the Sierra Club's Iowa chapter to halt the detonation.",
-        "Trump's pause and conditions, including the incoming governor's sign-off, add confusion, and it is unclear whether he will keep insisting on them."
+        "Streaming-only access draws objections. In the same survey, 45.3% oppose the game airing on Netflix rather than cable or broadcast.",
+        "Sen. Tammy Baldwin said the exclusive Netflix airing makes Wisconsin families pay for another service. Fans outside the local market need Netflix or NFL+.",
+        "The holiday week keeps expanding. A Wednesday game now joins the Thursday tripleheader and a Black Friday game.",
+        "Roger Goodell said two years ago he was not a fan of Wednesday games, citing the short recovery time for teams. Both teams here are coming off byes."
       ],
-      "pole_a_who": "Positions voiced by the Army, the Trump administration and the Middletown mayor.",
-      "pole_b_who": "Positions voiced by Earthjustice, Iowa environmental groups, public-health groups and state officials seeking transparency.",
+      "pole_a_who": "Positions commonly voiced by the NFL, Netflix and fans welcoming more holiday football.",
+      "pole_b_who": "Positions commonly voiced by fans frustrated by streaming costs, Sen. Baldwin and critics of schedule expansion.",
       "evidence_left": [
-        "The Army found the degraded lead azide in a March safety review and says controlled detonation is the only disposal option (PBS NewsHour). The EPA approved an emergency permit earlier this month (Yahoo News).",
-        "An appeals court on Nov. 23 declined to block the detonation, hours after Trump's pause (NBC News, CBS News)."
+        "Packers at Rams is set for SoFi Stadium on Wednesday, Nov. 25, exclusively on Netflix. CBS Sports lists an 8 p.m. ET kickoff, while Yahoo Sports lists 8:15 p.m. ET.",
+        "CBS Sports said Parsons is expected to make his return Wednesday night after last year's season-ending injury."
       ],
       "evidence_right": [
-        "Trump said on Nov. 23 that the Army should not proceed without approval from the Eighth Circuit and Gov.-elect Rob Sand (D) (Axios, CBS News).",
-        "The Army scheduled the detonation of 68 barrels, about 9,500 pounds, for Nov. 25 (Iowa Public Radio, PBS NewsHour)."
+        "The Yahoo Sports survey reported 66.1% plan to watch, 65.7% back an annual game and 45.3% oppose Netflix-only airing. RotoWire projects $131.7 million in wagers versus an $89.5 million average.",
+        "Fox News reported Baldwin criticized the Netflix-only airing and promoted her For the Fans Act. AOL reported Goodell's earlier comments on Wednesday games."
       ],
       "sources": [
         {
-          "name": "PBS NewsHour",
-          "url": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know"
+          "name": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/fans-furious-over-netflix-nfl-130000626.html"
         },
         {
-          "name": "Axios",
-          "url": "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump"
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/sports/wisconsin-senator-says-enough-enough-nfl-puts-packers-holiday-game-behind-netflix-paywall"
         },
         {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/"
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-games-2026-schedule-black-friday-rams-packers/"
         },
         {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/science/environment/trump-postpones-planned-detonation-toxic-drums-iowa-army-facility-rcna610945"
+          "name": "AOL",
+          "url": "https://www.aol.com/articles/nfl-schedule-creeps-further-away-110000000.html"
         }
       ],
-      "sources_date": "November 24, 2026",
-      "sources_line": "Sourced from PBS NewsHour, Axios, CBS News, NBC News, November 24, 2026."
+      "sources_date": "November 25, 2026",
+      "sources_line": "Sourced from Yahoo Sports, Fox News, CBS Sports, AOL, November 25, 2026."
     }
   ]
 }
