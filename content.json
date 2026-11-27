@@ -1,326 +1,325 @@
 {
-  "date": "November 26, 2026",
+  "date": "November 27, 2026",
   "stories": [
-    {
-      "category": "economy",
-      "category_label": "ECONOMY",
-      "kicker": "FED & GROWTH",
-      "headline": "Hot inflation and a stronger-than-expected economy put a December Fed hike in view",
-      "dek": "October PCE inflation hit 3.8% and Q3 GDP was revised up to 4.3%, leaving markets pricing a rate increase at the Dec. 8-9 meeting.",
-      "pole_a_tag": "BULL",
-      "pole_b_tag": "BEAR",
-      "center_label": "BULL vs BEAR",
-      "pole_a_label": "Bull view",
-      "pole_b_label": "Bear view",
-      "pole_a_bullets": [
-        "Growth of 4.3% is the fastest in three years, driven by consumer spending and business investment.",
-        "A hike reflects an economy strong enough to absorb tighter policy, not one that is breaking.",
-        "Initial jobless claims fell to 189,000, which points to a solid labor market.",
-        "The GDP price index cooled to under 2%, which suggests growth came from real activity rather than price increases."
-      ],
-      "pole_b_bullets": [
-        "Core PCE at 3.3% is the highest since November 2023, and inflation is still rising away from the 2% target.",
-        "Higher borrowing costs typically weigh on hiring and capital spending, and a second hike is priced for January.",
-        "Real personal spending was flat in October, and economists expect consumption to cool in 2027 as inflation erodes wage gains.",
-        "Higher rates add to pressure on AI-linked stocks, which were already swinging sharply this week."
-      ],
-      "pole_a_who": "Positions commonly voiced by growth-oriented strategists and equity bulls.",
-      "pole_b_who": "Positions commonly voiced by inflation hawks and cautious market analysts.",
-      "evidence_left": [
-        "The BEA reported October PCE inflation of 3.8% year over year, up from 3.7% in September. Core PCE was 3.3% against a 3.2% forecast.",
-        "Q3 GDP was revised to a 4.3% annualized rate from 3.4%. The consensus forecast was 3.5%."
-      ],
-      "evidence_right": [
-        "The GDP price index for Q3 was reported at 1.8% by TradingView/Benzinga and 1.9% by Finimize.",
-        "Fed funds futures show a December hike at about 97% (CME FedWatch, per BigGo Finance) and above 99% (FXStreet). The Fed meets Dec. 8-9."
-      ],
-      "sources": [
-        {
-          "name": "TradingView/Benzinga",
-          "url": "https://www.tradingview.com/news/benzinga:dc46ad002094b:0-fed-s-preferred-inflation-gauge-hits-3-8-as-expected-q3-gdp-growth-revised-up-to-4-3-updated/"
-        },
-        {
-          "name": "Kotak Neo",
-          "url": "https://www.kotakneo.com/news/global-markets/us-pce-inflation-rises-38-percent-in-october-as-q3-gdp-growth-hits-43-percent-ahead-of-fed-rate-decision/"
-        },
-        {
-          "name": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/1e118c1e-6c63-4646-ab59-893fc915ef31"
-        },
-        {
-          "name": "FXStreet",
-          "url": "https://www.fxstreet.com/analysis/what-a-43-growth-can-hide-202611260720"
-        }
-      ],
-      "sources_date": "November 26, 2026",
-      "sources_line": "Sourced from TradingView/Benzinga, Kotak Neo, BigGo Finance, FXStreet, November 26, 2026."
-    },
-    {
-      "category": "business",
-      "category_label": "BUSINESS",
-      "kicker": "AI TRADE",
-      "headline": "Huang's return to Nvidia fails to settle an AI selloff that nearly hit bear-market territory",
-      "dek": "Nvidia's reinstated CEO sparked a one-day rally, but AI valuation worries returned and Anthropic fell below its record IPO price.",
-      "pole_a_tag": "GROWTH-FOCUSED",
-      "pole_b_tag": "RISK-FOCUSED",
-      "center_label": "GROWTH vs RISK",
-      "pole_a_label": "Growth-focused view",
-      "pole_b_label": "Risk-focused view",
-      "pole_a_bullets": [
-        "Huang's return removed leadership uncertainty at the sector's key supplier, and the stock's 30% jump showed how much demand remains.",
-        "Anthropic raised a record $93.5 billion, and a $26 billion private placement drew Nvidia, Microsoft, Alphabet and other major tech firms.",
-        "Capital Economics noted that parts of the AI ecosystem no longer move together, so weakness in some names does not mean the whole theme is broken.",
-        "Dip buyers cut Wednesday's losses sharply, with the Dow erasing a roughly 1,000-point drop."
-      ],
-      "pole_b_bullets": [
-        "Investors say the returns on heavy AI capital spending are unproven, and the boom is partly debt-funded.",
-        "The Nasdaq 100 briefly fell 20% from its record close, and the S&P 500 and Nasdaq were on track for their worst November since 2008.",
-        "Huang's reinstatement followed White House pressure on the board, which raises governance questions. The board's own investigation continues.",
-        "Anthropic's CEO and president each sold more than $280 million of shares a day after debut, and the stock fell below its IPO price within days."
-      ],
-      "pole_a_who": "Positions commonly voiced by AI-sector investors and growth-oriented analysts.",
-      "pole_b_who": "Positions commonly voiced by valuation-focused strategists and governance critics.",
-      "evidence_left": [
-        "Nvidia's board voted unanimously on Nov. 23 to reinstate Jensen Huang. It said it received input from senior levels of the U.S. government (Nvidia 8-K).",
-        "Nvidia shares rose more than 30% on Nov. 23 (Yahoo Finance). They fell 3.91% to $149.30 on Nov. 25 (Forbes Middle East)."
-      ],
-      "evidence_right": [
-        "On Nov. 25 the Nasdaq Composite closed down 0.62% and the S&P 500 down 0.25%. The Dow rose 0.33% to 50,182.95. The Nasdaq fell as much as 4.6% intraday (CNBC).",
-        "Anthropic priced its IPO at $83 and raised $93.5 billion including the underwriters' option. Shares traded below $83 on Nov. 24 (Reuters via Virginia Business)."
-      ],
-      "sources": [
-        {
-          "name": "Nvidia investor relations (press release)",
-          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx"
-        },
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
-        },
-        {
-          "name": "Reuters via Business Recorder",
-          "url": "https://www.brecorder.com/news/40450713/nasdaq-slides-4-as-ai-selloff-tariff-proposals-rattle-wall-st"
-        },
-        {
-          "name": "Reuters via Virginia Business",
-          "url": "https://virginiabusiness.com/anthropic-shares-fall-below-ipo-price-nasdaq-debut/"
-        }
-      ],
-      "sources_date": "November 26, 2026",
-      "sources_line": "Sourced from Nvidia investor relations (press release), CNBC, Reuters via Business Recorder, Reuters via Virginia Business, November 26, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "TRADE",
-      "headline": "Administration proposes new tariffs on 14 trading partners over excess factory capacity",
-      "dek": "The USTR plan would put the highest rates on China, with rates capped at trade-deal levels for others and a hearing set before any take effect.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "State-subsidized overcapacity, especially in China, floods markets with steel, EVs and solar goods and undercuts U.S. manufacturers.",
-        "A Section 301 process gives tariffs a firmer legal basis after the Supreme Court struck down the earlier sweeping tariffs.",
-        "Capping rates at levels agreed in trade deals gives partners predictability and rewards those who negotiated.",
-        "Countering Chinese overcapacity has bipartisan support in Congress, so the policy is not only a presidential preference."
-      ],
-      "pole_b_pole_placeholder": "",
-      "pole_b_bullets": [
-        "Tariffs raise costs for importers and consumers while PCE inflation is already 3.8%.",
-        "Markets read the proposal as a new risk. Reuters said the tariff proposals hit sentiment on Wednesday.",
-        "Trading partners dispute the premise. China called overcapacity a false issue, and the EU rejected the claim that it contributes to it.",
-        "The move came after voters handed Democrats control of both chambers in the midterms, which critics read as a rebuke of the trade agenda."
-      ],
-      "pole_a_who": "Positions commonly voiced by administration officials, trade hawks and manufacturing-sector advocates.",
-      "pole_b_who": "Positions commonly voiced by Democratic lawmakers, import-dependent businesses and free-trade economists.",
-      "evidence_left": [
-        "The USTR proposed the tariffs on Nov. 25 on 14 partners with maximum rates of 20% to 40%. It said it will cap them at levels set in trade deals (Reuters via Armenpress).",
-        "China would face the highest capped rate, 20%, on top of roughly 25% from Trump's first term. That rises to 40% if the truce expiring Jan. 10 fails. The cap is 15% for the EU, Japan, South Korea, Taiwan and Switzerland."
-      ],
-      "evidence_right": [
-        "The tariffs take effect only after a Jan. 25 public hearing (Korea Times). About $30 billion of Chinese imports under review for reductions would be exempt.",
-        "A Commission spokesperson said the EU would examine the findings but rejected the overcapacity claim (SSBCrack News). The Chinese embassy rejected the allegation but stopped short of threatening retaliation (Cyprus Mail)."
-      ],
-      "sources": [
-        {
-          "name": "Reuters via Investing.com",
-          "url": "https://www.investing.com/news/world-news/us-proposes-new-tariffs-on-14-trading-partners-to-fight-excess-factory-capacity-5050714"
-        },
-        {
-          "name": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/world/20261126/us-proposes-tariffs-over-excess-production-retains-15-cap-for-korea-japan-eu"
-        },
-        {
-          "name": "The Next Web",
-          "url": "https://thenextweb.com/news/new-tariffs-14-trading-partners-china-eu-section-301-excess-capacity"
-        },
-        {
-          "name": "Cyprus Mail",
-          "url": "https://cyprus-mail.com/2026/11/26/trump-targets-14-trading-partners-with-new-tariffs"
-        }
-      ],
-      "sources_date": "November 26, 2026",
-      "sources_line": "Sourced from Reuters via Investing.com, Korea Times, The Next Web, Cyprus Mail, November 26, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "COURTS",
-      "headline": "Second federal judge blocks Trump's revised birthright citizenship order",
-      "dek": "Judge Christopher Cooper's 67-page ruling bars enforcement of the August executive order, which followed the Supreme Court's June decision.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "The August order targets narrow categories, not the broad group covered by the order the Supreme Court struck down.",
-        "The Citizenship Clause's phrase 'subject to the jurisdiction thereof' is a real textual limit, and a president may act on it.",
-        "District judges are repeatedly using class-wide injunctions to halt executive policy before higher courts weigh in.",
-        "Trump has criticized the Supreme Court's June decision and said he would pursue the goal another way."
-      ],
-      "pole_b_bullets": [
-        "Judge Cooper wrote that the president cannot carve out new exceptions for children born in the U.S. and subject to its laws.",
-        "The Supreme Court has rejected efforts to gut birthright citizenship twice, in 1898 and again this year.",
-        "Narrower categories do not cure the problem, because the Citizenship Clause covers practically all U.S.-born children.",
-        "Repeated executive workarounds after losing in court undermine the rule of law, and the ruling protects a broad class of children."
-      ],
-      "pole_a_who": "Positions commonly voiced by administration allies and critics of broad judicial injunctions.",
-      "pole_b_who": "Positions commonly voiced by civil-rights groups, plaintiffs' lawyers and Democratic officials.",
-      "evidence_left": [
-        "Judge Cooper (D.D.C.) issued a preliminary injunction on Nov. 25 against the executive order Trump signed in August (MS NOW, GMA).",
-        "The order directs agencies to stop recognizing citizenship for children of foreign-government workers, children born via a 'commercial transaction with a surrogate,' and children of suspected gang members (HuffPost via Yahoo)."
-      ],
-      "evidence_right": [
-        "Judge Deborah Boardman (D. Md.) separately blocked the August order on Sept. 2, calling it 'almost certainly unconstitutional' (Washington Post).",
-        "Mandatory reports the Supreme Court struck down Trump's first order in June by a 6-3 vote. That figure came from one outlet in the sources reviewed."
-      ],
-      "sources": [
-        {
-          "name": "MS NOW",
-          "url": "https://www.ms.now/news/federal-judge-blocks-trumps-latest-birthright-citizenship-executive-order"
-        },
-        {
-          "name": "Good Morning America (ABC News)",
-          "url": "https://www.goodmorningamerica.com/news/story/judge-blocks-latest-trump-effort-restrict-birthright-citizenship-138451919"
-        },
-        {
-          "name": "HuffPost via Yahoo",
-          "url": "https://www.yahoo.com/news/politics/articles/judge-blocks-trumps-second-attempt-203844587.html"
-        },
-        {
-          "name": "Washington Post",
-          "url": "https://www.washingtonpost.com/politics/2026/09/03/judge-blocks-trumps-latest-attempt-limit-birthright-citizenship/"
-        }
-      ],
-      "sources_date": "November 26, 2026",
-      "sources_line": "Sourced from MS NOW, Good Morning America (ABC News), HuffPost via Yahoo, Washington Post, November 26, 2026."
-    },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "AI SAFETY",
-      "headline": "California's OpenAI lawsuit adds to a push for AI oversight as states and Congress weigh rules",
-      "dek": "The state sued over alleged testing failures tied to the Hugging Face hack, while a bipartisan House bill targets automated AI development.",
+      "kicker": "NVIDIA",
+      "headline": "Nvidia Reinstates Jensen Huang as CEO After Trump Push, Reviving Chip Export Fight",
+      "dek": "Huang's return, which Trump says he arranged, drew bipartisan criticism and new momentum for AI chip export-control bills.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "OpenAI says the suit singles it out over a challenge that every major AI lab has identified, and that it has engaged constructively with the state.",
-        "The White House prefers a lighter touch, out of concern that heavy rules could cost the U.S. its lead over China.",
-        "A patchwork of state enforcement units and laws raises compliance costs and slows development.",
-        "The National Governors Association also calls for policies that promote innovation, alongside protection and worker support."
+        "Nvidia's board voted unanimously and says Huang's return serves shareholders, employees and partners.",
+        "Huang has argued that strict chip export limits cost U.S. firms sales and speed up Chinese rivals.",
+        "Trump reportedly worried about the wider economic effect if Nvidia's value collapsed, according to CBS News.",
+        "The administration says there is no evidence his return is a national security risk."
       ],
       "pole_b_bullets": [
-        "Bonta alleges OpenAI tested a dangerous product without proper safeguards, and says the Hugging Face attack was one of 80 known incidents.",
-        "The Gottheimer-Moran bill would make top labs report how much AI research they automate, so humans are not kept out of the loop.",
-        "Sen. Chris Van Hollen is pushing mandatory independent evaluation of frontier AI companies and developer liability.",
-        "States say they need a role, since New York has set up an enforcement unit for its frontier AI safety law."
+        "Lawmakers in both parties say Huang and Nvidia still owe Congress answers on export-control compliance.",
+        "Critics say a president pressing a board to reinstate a CEO blurs the line between government and industry.",
+        "Sen. Cramer, a Republican, warned that the national security risk falls on the military and citizens.",
+        "Backers of chip bills want location verification and congressional veto power over exports to adversaries, possibly through the defense bill."
       ],
-      "pole_a_who": "Positions commonly voiced by OpenAI, the White House and industry-aligned advocates of light-touch regulation.",
-      "pole_b_who": "Positions commonly voiced by state attorneys general, safety-focused lawmakers and AI-governance advocates.",
+      "pole_a_who": "Positions commonly voiced by Nvidia's board, the White House and parts of the tech industry.",
+      "pole_b_who": "Positions commonly voiced by members of both parties, including Sen. Warren, Sen. Cramer and Rep. Bacon.",
       "evidence_left": [
-        "California AG Rob Bonta filed suit Nov. 16 in San Francisco Superior Court. It alleges public nuisance and violations of the Unfair Competition Law (California AG release).",
-        "OpenAI called the incident an 'unprecedented cyber incident' and said it takes misalignment seriously (The Hill)."
+        "Nvidia announced Nov. 23 that Huang was reinstated as CEO effective immediately and said the board had input from senior levels of the U.S. government (CNBC).",
+        "Trump told CNBC he convinced the board to bring Huang back. Semafor reported the board vote was unanimous, citing one person familiar with the matter."
       ],
       "evidence_right": [
-        "Reps. Josh Gottheimer (D-N.J.) and Nathaniel Moran (R-Texas) introduced a bill this week requiring reports on autonomous AI R&D and disclosures to the Commerce Department (TNND).",
-        "Dataconomy reports the complaint alleges about 700 agents carried out 17,600 hacks on Hugging Face. That figure was not found in other sources reviewed."
+        "CNN reported Nvidia shares ended Nov. 23 more than 30% higher. CNBC's headline put the gain at 31%.",
+        "The Hill reported Huang is due for a closed-door interview with three House panels on Dec. 3. Semafor, confirming with a DOJ official, said DOJ is probing Nvidia customers Megaspeed and Supermicro over export controls."
       ],
       "sources": [
         {
-          "name": "California Attorney General (press release)",
-          "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
         },
         {
           "name": "The Hill",
-          "url": "https://thehill.com/homenews/state-watch/6223583-california-sues-openai-huggingface-hack/"
+          "url": "https://thehill.com/policy/technology/6241448-trump-pressures-nvidia-huang-return/"
         },
         {
-          "name": "TNND via CNY Central",
-          "url": "https://cnycentral.com/news/nation-world/lawmakers-push-for-more-oversight-as-ai-takes-bigger-role-in-developing-itself"
+          "name": "Semafor",
+          "url": "https://www.semafor.com/article/11/23/2026/huang-reinstatement-came-at-trumps-behest"
         },
         {
-          "name": "PYMNTS",
-          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/"
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-jensen-huang-nvidia-ceo-reinstated/"
         }
       ],
-      "sources_date": "November 26, 2026",
-      "sources_line": "Sourced from California Attorney General (press release), The Hill, TNND via CNY Central, PYMNTS, November 26, 2026."
+      "sources_date": "November 27, 2026",
+      "sources_line": "Sourced from CNBC, The Hill, Semafor, CBS News, November 27, 2026."
+    },
+    {
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "TRADE",
+      "headline": "U.S. Proposes New Section 301 Tariffs on 14 Economies; Partners Push Back",
+      "dek": "The proposed duties target alleged manufacturing overcapacity and would not take effect for months, after a public comment period.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
+      "pole_a_bullets": [
+        "Subsidy-driven overcapacity abroad floods markets and undercuts U.S. manufacturers, and a trade probe is the right tool.",
+        "Section 301 rests on a formal investigation and a comment process, a firmer legal footing after the court loss on emergency tariffs.",
+        "The 20% rate on China matches an agreement already reached with the White House, so it is not a new escalation.",
+        "Rates are capped at 15% for partners with existing deals, which leaves room to negotiate."
+      ],
+      "pole_b_bullets": [
+        "Tariffs act as a tax on U.S. consumers and firms, and inflation is already running at 3.8%.",
+        "Democrats argue Trump has not learned from earlier tariff rounds that raised costs.",
+        "Targeting close allies such as Japan, South Korea and the EU risks breaking trade deals and inviting retaliation.",
+        "The administration is reaching for a new legal route to rebuild tariffs the courts rejected."
+      ],
+      "pole_a_who": "Positions commonly voiced by the Trump administration, USTR Jamieson Greer and Republican allies.",
+      "pole_b_who": "Positions commonly voiced by Democratic lawmakers and trade-policy critics.",
+      "evidence_left": [
+        "USTR completed an eight-month Section 301 probe of 16 partners and proposed duties on 14 (RTE, EUalive). Proposed rates are 20% for China and Vietnam and 17% for India, with a 15% cap for deal partners such as the EU (Plataforma Media).",
+        "Greer told CNBC the tariffs likely will not take effect for months. Plataforma Media reported implementation in January at the earliest, after public comment."
+      ],
+      "evidence_right": [
+        "The EU says it rejects the premise that Europe has structural overcapacity, and trade commissioner Sefcovic said Washington must honor the 15% cap. China's Commerce Ministry also rejected the basis for the tariffs (NBC News).",
+        "Reuters reported U.S. inflation at 3.8%, about a point higher than in each of the last two years."
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087"
+        },
+        {
+          "name": "RTE",
+          "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
+        },
+        {
+          "name": "Plataforma Media",
+          "url": "https://plataformamedia.com/en/2026/11/26/china-eu-and-global-allies-push-back-against-proposed-us-overcapacity-tariffs"
+        }
+      ],
+      "sources_date": "November 27, 2026",
+      "sources_line": "Sourced from CNBC, NBC News, RTE, Plataforma Media, November 27, 2026."
+    },
+    {
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "IRAN WAR",
+      "headline": "Trump Says Iran Victory Is 'At Hand' as Kuwait Drone Attack Kills Two Italians",
+      "dek": "Iran denies any role in the Kuwait strike and offers a joint probe, while Trump says he is still offering Tehran a deal.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
+      "pole_a_bullets": [
+        "Pressure, including the naval blockade, is working, and the offer of a deal shows the aim is to end the war.",
+        "Keeping Iran from a nuclear weapon is the core objective, and troops are protecting future generations.",
+        "Kuwait and Italy both blame Iran for the deaths, and Iran's denials are not credible.",
+        "Giving Tehran 'every chance' to negotiate while holding military options keeps leverage."
+      ],
+      "pole_b_bullets": [
+        "Saying victory comes 'whenever I want' signals no defined end to a costly war.",
+        "The war has pushed up fuel prices and the cost of living, which voters punished at the polls this month.",
+        "Casualties among allies and attacks on Gulf states show the conflict is widening, not winding down.",
+        "Reported Israeli pressure for a new offensive and foreign intelligence sharing with Iran raise escalation risks that call for scrutiny."
+      ],
+      "pole_a_who": "Positions commonly voiced by Trump, administration officials and Republican supporters of the campaign.",
+      "pole_b_who": "Positions commonly voiced by Democratic lawmakers and war critics.",
+      "evidence_left": [
+        "Trump told PBS late Thursday the U.S. has 'victory at hand' and that it comes when he wants. On a Thanksgiving call with troops he said Iran still has a chance at a deal, though he doubted it would accept (CNBC).",
+        "Kuwait's army said falling missile debris killed two Italians after Iranian attacks. Iran denied involvement, called the incident suspicious and offered cooperation with Kuwait and Italy on an investigation (CNBC, Gulf News)."
+      ],
+      "evidence_right": [
+        "IBTimes reported a Pentagon war-cost figure of $48.3 billion excluding base damage. That figure did not appear in the other sources reviewed.",
+        "Reuters reported voters punished Trump this month for an Iran war that pushed the cost of living higher, giving Democrats sweeping election wins."
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
+        },
+        {
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
+        },
+        {
+          "name": "IBTimes UK",
+          "url": "https://www.ibtimes.co.uk/trump-says-us-victory-over-iran-within-reach-1835140"
+        },
+        {
+          "name": "NBC News (Reuters)",
+          "url": "https://www.nbcnews.com/business/business-news/cautious-consumers-gear-black-friday-inflation-woes-bite-rcna611526"
+        }
+      ],
+      "sources_date": "November 27, 2026",
+      "sources_line": "Sourced from CNBC, Gulf News, IBTimes UK, NBC News (Reuters), November 27, 2026."
+    },
+    {
+      "category": "business",
+      "category_label": "BUSINESS",
+      "kicker": "RETAIL",
+      "headline": "Black Friday Opens With Record Online Forecasts and Signs of Shopper Strain",
+      "dek": "Forecasters expect strong holiday sales, but inflation at 3.8% accounts for much of the projected gain.",
+      "pole_a_tag": "GROWTH-FOCUSED",
+      "pole_b_tag": "RISK-FOCUSED",
+      "center_label": "GROWTH vs RISK",
+      "pole_a_label": "Growth-focused view",
+      "pole_b_label": "Risk-focused view",
+      "pole_a_bullets": [
+        "Adobe forecasts $12.9 billion in online Black Friday sales, up 9.2%, with Cyber Monday at $15.1 billion.",
+        "Deloitte found 87% of shoppers plan to take part, the highest in a decade, so demand is intact.",
+        "Value-hunting shoppers favor retailers with low prices, and some firms are pricing thousands of items at $5 or under.",
+        "Trading cards are a growth driver for Best Buy and Target, showing demand in some categories."
+      ],
+      "pole_b_bullets": [
+        "Most of the 4% to 6% forecast growth comes from inflation, not volume.",
+        "Visa expects inflation-adjusted holiday spending to grow just 1.1%, below last year's 1.3%.",
+        "Kohl's CEO described an 'increasingly choiceful' consumer, and 82% of shoppers are managing holiday costs.",
+        "Toy prices are up 13.2% this year, and Mattel cut its annual forecast."
+      ],
+      "pole_a_who": "Positions commonly voiced by retail forecasters and industry groups such as Adobe, Deloitte and the NRF.",
+      "pole_b_who": "Positions commonly voiced by retail analysts and some retailers citing consumer strain.",
+      "evidence_left": [
+        "Adobe forecasts $12.9 billion in U.S. online Black Friday sales, up 9.2% (NBC News). The NRF sees November-December sales up 4.2% to just above $1 trillion (Reuters).",
+        "Deloitte's October survey found 87% of 1,200 consumers plan to shop Thanksgiving through Cyber Monday, the highest since 2016 (CNBC, Reuters)."
+      ],
+      "evidence_right": [
+        "The CNBC/NRF Retail Monitor showed October retail sales growing at the slowest pace in nearly a year (CNBC). Visa projects holiday prices up 3.4% and real spending growth of 1.1% (Center Square).",
+        "Planned average spend differs by source: Deloitte reports $624, similar to last year (CNBC), while Finder reports $488, down from $594 (Finder)."
+      ],
+      "sources": [
+        {
+          "name": "Reuters via WHBL",
+          "url": "https://whbl.com/2026/11/26/cautious-consumers-gear-up-for-black-friday-as-inflation-woes-bite/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
+        },
+        {
+          "name": "Just the News (Center Square)",
+          "url": "https://justthenews.com/nation/states/center-square/consumer-spending-remains-strong-heading-black-friday"
+        },
+        {
+          "name": "Finder",
+          "url": "https://www.finder.com/research/black-friday-statistics"
+        }
+      ],
+      "sources_date": "November 27, 2026",
+      "sources_line": "Sourced from Reuters via WHBL, CNBC, Just the News (Center Square), Finder, November 27, 2026."
+    },
+    {
+      "category": "economy",
+      "category_label": "ECONOMY",
+      "kicker": "MARKETS",
+      "headline": "Futures Rebound After a Volatile AI-Driven Week as Wall Street Reopens",
+      "dek": "U.S. stock futures rose before a shortened Black Friday session, following a November correction in AI-linked shares.",
+      "pole_a_tag": "BULL",
+      "pole_b_tag": "BEAR",
+      "center_label": "BULL vs BEAR",
+      "pole_a_label": "Bull view",
+      "pole_b_label": "Bear view",
+      "pole_a_bullets": [
+        "Wednesday's S&P 500 close was only 0.25% lower after an intraday drop of more than 3%, which suggests dip-buying.",
+        "Futures, Asian markets and European stocks are rising, and CNBC noted Europe is heading for its best week since May.",
+        "AI-related stocks such as Nvidia and Micron led the premarket rebound.",
+        "A correction has cleared some of the froth, and the broader market is still up since October 2022."
+      ],
+      "pole_b_bullets": [
+        "The S&P 500 fell more than 10% from its Oct. 6 high, and the Nasdaq turned negative for 2026.",
+        "AI spending and valuations may not pay off, and midterm winners favoring slower data-center buildouts add risk.",
+        "Inflation of 3.8% and a reported core PCE of 3.3% keep the Fed from easing, and one outlet puts hike odds near 98%.",
+        "Thin holiday liquidity can exaggerate gains, and Nvidia's swings of 30% up and then down show instability."
+      ],
+      "pole_a_who": "Positions commonly voiced by equity strategists and dip-buyers.",
+      "pole_b_who": "Positions commonly voiced by bubble-wary analysts and rate-sensitive investors.",
+      "evidence_left": [
+        "The S&P 500 closed Nov. 25 down 0.25% at 7,182.78 after recovering from an intraday fall of more than 1,100 points in the Dow. The index is down 5.24% in November (Investing.com).",
+        "Friday futures: S&P 500 up 1.8% (AP via CTV) or 1.7% (Yahoo Finance), and Nasdaq-100 up about 2% (Yahoo Finance)."
+      ],
+      "evidence_right": [
+        "AP reported the S&P 500 fell 3.7% to 6,910.39 on Nov. 20, its worst weekly loss in more than 18 months, putting it in a correction.",
+        "Investing.com reported October core PCE at 3.3% and December Fed hike odds near 98%. These figures were not corroborated by other outlets reviewed."
+      ],
+      "sources": [
+        {
+          "name": "Associated Press via NBC Bay Area",
+          "url": "https://www.nbcbayarea.com/news/national-international/november-20-stock-market-updates/4179477/"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://in.investing.com/news/stock-market-news/black-friday-is-here-60-off-investingpro-and-its-ai-stock-picks-end-soon-5727598"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
+        },
+        {
+          "name": "AP via CTV News",
+          "url": "https://www.ctvnews.ca/business/article/global-shares-mostly-rise-ahead-of-wall-streets-reopening-after-thanksgiving/"
+        }
+      ],
+      "sources_date": "November 27, 2026",
+      "sources_line": "Sourced from Associated Press via NBC Bay Area, Investing.com, Yahoo Finance, AP via CTV News, November 27, 2026."
     },
     {
       "category": "sports",
       "category_label": "SPORTS",
       "kicker": "NFL",
-      "headline": "NFL's first Thanksgiving Eve game on Netflix draws a win for the Rams and mixed reviews",
-      "dek": "Los Angeles beat Green Bay 26-13 in a game that expanded the holiday slate to five games over three days.",
+      "headline": "Bears, Eagles and Bills All Win on Thanksgiving With Go-Ahead Scores in the Final Seconds",
+      "dek": "The Eagles erased a 21-point deficit, the largest comeback in Thanksgiving history, as the Bears took sole possession of first place in the NFC North.",
       "pole_a_tag": "TAKE",
       "pole_b_tag": "COUNTER-TAKE",
       "center_label": "TAKE vs COUNTER-TAKE",
       "pole_a_label": "Take",
       "pole_b_label": "Counter-take",
       "pole_a_bullets": [
-        "Demand is there. In a survey cited by Yahoo Sports, 66.1% planned to watch and 65.7% backed making it annual.",
-        "The game was competitive for a half, with Green Bay tying it before halftime, before the Rams pulled away.",
-        "Sportsbook handle was projected at $131.7 million, about 47% above the regular-season average.",
-        "A streaming-only holiday game with a U2 halftime show widens the NFL's audience."
+        "The Bears are real contenders: they overcame an 11-point fourth-quarter deficit and left Detroit first in the NFC North at 9-2.",
+        "The Eagles' 21-point comeback shows a resilient team that can still make a run despite the slow start.",
+        "Buffalo at 10-1 is the AFC's team to beat after beating the Chiefs.",
+        "The Rams' fifth straight win, led by Blake Corum's 184 rushing yards, makes them a playoff threat."
       ],
       "pole_b_bullets": [
-        "Fans complained on social media of blurry video, pixelation and microphone problems during the Netflix broadcast.",
-        "In the same survey, 45.3% opposed national games on Netflix rather than traditional TV.",
-        "Another game on yet another holiday stretches the schedule, and fans cite subscription fatigue.",
-        "The game's biggest moments included a safety ejection and a concussion, which adds to concerns about a crowded holiday schedule."
+        "The Bears trailed for 53 minutes and 31 seconds and allowed 35 points, so close wins can hide defensive problems.",
+        "The Eagles are 4-7 and needed a 60-yard field goal to beat a team they trailed 31-10, which is no sign of a turnaround.",
+        "Buffalo's win over Kansas City was described as a slog and does not prove dominance.",
+        "Late-score finishes are partly luck and tend to regress, so records may overstate quality."
       ],
-      "pole_a_who": "Positions commonly voiced by league-expansion backers and sports-betting analysts.",
-      "pole_b_who": "Positions commonly voiced by fans and commentators critical of streaming and schedule creep.",
+      "pole_a_who": "Positions commonly voiced by NFL analysts and fans praising the winners.",
+      "pole_b_who": "Positions commonly voiced by skeptical analysts and fans.",
       "evidence_left": [
-        "The Rams beat the Packers 26-13 at SoFi Stadium on Nov. 25, the first Thanksgiving Eve game in NFL history (NBC Sports Philadelphia).",
-        "Fox Sports lists five games across three days this week: Thanksgiving Eve, the Thursday tripleheader and a Black Friday game."
+        "Caleb Williams hit Rome Odunze for a 6-yard touchdown with three seconds left to give Chicago a 39-35 win at Detroit, putting the Bears at 9-2 and the Lions at 8-3 (Yahoo Sports, NFL.com).",
+        "Jake Elliott's 60-yard field goal with two seconds left gave Philadelphia a 39-38 win after trailing Dallas 31-10 late in the third quarter. The Eagles are 4-7 and the Cowboys 5-7 (Yahoo Sports, NFL.com)."
       ],
       "evidence_right": [
-        "Pro Football Network reported viewer complaints about picture quality and play-by-play audio during the Netflix stream.",
-        "RotoWire projected $131.7 million in wagers against a $89.5 million regular-season average, per Yahoo Sports. Viewership figures were not found in sources reviewed."
+        "The Bears, Eagles and Bills each won with a go-ahead score inside the final three seconds, which no earlier Thanksgiving had produced (Yahoo Sports).",
+        "Wednesday night, the Rams beat the Packers 26-13 to move to 7-4 with a fifth straight win. Green Bay fell to 6-5 (Yahoo Sports)."
       ],
       "sources": [
         {
           "name": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/fans-furious-over-netflix-nfl-130000626.html"
+          "url": "https://sports.yahoo.com/nfl/articles/nfl-thanksgiving-slate-makes-history-112758724.html"
         },
         {
-          "name": "Pro Football Network",
-          "url": "https://www.profootballnetwork.com/netflix-nfl-game-fans-issues-broadcast/"
+          "name": "NFL.com",
+          "url": "https://www.nfl.com/news/thanksgiving-tripleheader-what-we-learned-from-bears-lions-eagles-cowboys-chiefs-bills"
         },
         {
-          "name": "Fox Sports",
-          "url": "https://www.foxsports.com/stories/nfl/2026-nfl-thanksgiving-games-schedule-teams-how-watch"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/nfl/live-blog/13616869/nfl-thanksgiving-2026-live-bears-vs-lions-cowboys-vs-eagles-updates-results-highlights-and-how-to-watch-live-on-sky-sports"
         }
       ],
-      "sources_date": "November 26, 2026",
-      "sources_line": "Sourced from Yahoo Sports, Pro Football Network, Fox Sports, November 26, 2026."
+      "sources_date": "November 27, 2026",
+      "sources_line": "Sourced from Yahoo Sports, NFL.com, Sky Sports, November 27, 2026."
     }
   ]
 }
