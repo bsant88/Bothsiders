@@ -1,325 +1,167 @@
 {
-  "date": "November 27, 2026",
+  "date": "November 28, 2026",
   "stories": [
+    {
+      "category": "politics",
+      "category_label": "POLITICS",
+      "kicker": "EXECUTIVE POWER",
+      "headline": "Trump order routes contractor replies to Congress through the White House",
+      "dek": "Executive Order 14438 arrives weeks before Democrats take over Congress and plan investigations.",
+      "pole_a_tag": "CONSERVATIVE",
+      "pole_b_tag": "LIBERAL",
+      "center_label": "BOTH SIDES",
+      "pole_a_label": "Conservative view",
+      "pole_b_label": "Liberal view",
+      "pole_a_bullets": [
+        "Executive privilege is a constitutional protection, and contractors often hold confidential executive-branch material that the president must be able to review first.",
+        "Congress needs a valid legislative purpose, and the order says requests that intrude on core executive functions fall outside that.",
+        "Presidents of both parties have invoked privilege to resist congressional inquiries, so the order extends an old practice to a new setting.",
+        "Incoming Democratic investigators have signaled probes of contracts, so a coordinated process guards against what the White House calls harassment of private companies."
+      ],
+      "pole_b_bullets": [
+        "The order lets the president screen what Congress learns about his own administration's contracts, which critics say defeats the purpose of oversight.",
+        "Companies are caught between Congress and the executive, and the White House warns of contract termination if they do not comply.",
+        "Only the executive branch can invoke privilege. Extending it to contractors' communications is an untested legal theory.",
+        "The timing, weeks before Democrats take the majority, suggests the aim is to shield the administration from scrutiny, not to protect confidentiality."
+      ],
+      "pole_a_who": "Positions commonly voiced by the White House, administration allies and defenders of executive privilege.",
+      "pole_b_who": "Positions commonly voiced by congressional Democrats such as Rep. Jamie Raskin and Rep. Robert Garcia, and by civil liberties and oversight advocates.",
+      "evidence_left": [
+        "Trump signed EO 14438 on Nov. 20, 2026. It requires federal contractors and subcontractors to notify the White House and contracting agencies right away of congressional requests (ABC News, Wiley).",
+        "Contractors must follow White House or agency instructions to withhold communications deemed privileged. The White House warned that noncompliance could lead to contract termination (ABC News, AP via NPR)."
+      ],
+      "evidence_right": [
+        "A White House fact sheet calls the order protection of executive privileges from congressional overreach (CBS News, Government Executive).",
+        "Garcia called it an attack on oversight, and Raskin called it unprecedented and unlawful (AP via NPR, HuffPost). Wiley notes only the executive branch can invoke privilege, and the order's reach remains open to legal dispute."
+      ],
+      "sources": [
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Politics/trump-orders-federal-contractors-coordinate-white-house-congressional/story?id=138344717"
+        },
+        {
+          "name": "NPR (AP)",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://www.wiley.law/alert-New-Executive-Order-Places-Federal-Contractors-Between-Congress-and-the-Executive-Branch"
+        },
+        {
+          "name": "Government Executive",
+          "url": "https://www.govexec.com/oversight/2026/11/trump-exec-order-pushes-white-house-gatekeeper-between-contractors-and-congress/417429/"
+        }
+      ],
+      "sources_date": "November 28, 2026",
+      "sources_line": "Sourced from ABC News, NPR (AP), Wiley, Government Executive, November 28, 2026."
+    },
     {
       "category": "tech",
       "category_label": "TECH",
-      "kicker": "NVIDIA",
-      "headline": "Nvidia Reinstates Jensen Huang as CEO After Trump Push, Reviving Chip Export Fight",
-      "dek": "Huang's return, which Trump says he arranged, drew bipartisan criticism and new momentum for AI chip export-control bills.",
+      "kicker": "AI & NATIONAL SECURITY",
+      "headline": "Nvidia reinstates Jensen Huang after Trump presses board; Congress demands answers",
+      "dek": "The chip giant's CEO returned two weeks after resigning over a scandal with national security overtones.",
       "pole_a_tag": "INNOVATION",
       "pole_b_tag": "OVERSIGHT",
       "center_label": "INNOVATION vs OVERSIGHT",
       "pole_a_label": "Innovation view",
       "pole_b_label": "Oversight view",
       "pole_a_bullets": [
-        "Nvidia's board voted unanimously and says Huang's return serves shareholders, employees and partners.",
-        "Huang has argued that strict chip export limits cost U.S. firms sales and speed up Chinese rivals.",
-        "Trump reportedly worried about the wider economic effect if Nvidia's value collapsed, according to CBS News.",
-        "The administration says there is no evidence his return is a national security risk."
+        "Huang is central to Nvidia's AI chip leadership, and his return steadies a company whose stock fell sharply after he left.",
+        "Nvidia's value carries wide weight in the U.S. economy and AI race, so a prolonged leadership vacuum is costly.",
+        "The administration says its review found no national security risk, and Trump has called Huang exonerated.",
+        "Personal conduct and national security export questions can be handled by continuing probes without sidelining the executive who built the company."
       ],
       "pole_b_bullets": [
-        "Lawmakers in both parties say Huang and Nvidia still owe Congress answers on export-control compliance.",
-        "Critics say a president pressing a board to reinstate a CEO blurs the line between government and industry.",
-        "Sen. Cramer, a Republican, warned that the national security risk falls on the military and citizens.",
-        "Backers of chip bills want location verification and congressional veto power over exports to adversaries, possibly through the defense bill."
+        "A president personally lobbying a company board to reinstate a CEO under scrutiny is highly unusual and invites questions about motives.",
+        "Huang's relationship with a woman U.S. intelligence believes is a Chinese spy raises unresolved questions about export compliance.",
+        "Lawmakers in both parties say reinstatement does not answer the questions, and they want hearings and stronger chip export controls.",
+        "Critics want to know what legal assurances the administration offered the board and whether anyone traded stock before the announcement."
       ],
-      "pole_a_who": "Positions commonly voiced by Nvidia's board, the White House and parts of the tech industry.",
-      "pole_b_who": "Positions commonly voiced by members of both parties, including Sen. Warren, Sen. Cramer and Rep. Bacon.",
+      "pole_a_who": "Positions commonly voiced by Trump, administration officials and AI-industry and market-stability advocates.",
+      "pole_b_who": "Positions commonly voiced by Democratic lawmakers such as Sens. Warren, Wyden and Schumer, and by some Republicans such as Sen. Kevin Cramer and Rep. Don Bacon.",
       "evidence_left": [
-        "Nvidia announced Nov. 23 that Huang was reinstated as CEO effective immediately and said the board had input from senior levels of the U.S. government (CNBC).",
-        "Trump told CNBC he convinced the board to bring Huang back. Semafor reported the board vote was unanimous, citing one person familiar with the matter."
+        "Nvidia's board announced Nov. 23, 2026 that Huang was reinstated as president and CEO, effective immediately, about two weeks after he resigned (NBC News).",
+        "Trump told CNBC \"I convinced them.\" CBS News reported Trump was privately concerned about the U.S. economy if Nvidia's value collapsed. CBC reported tech stocks surged Monday after the announcement."
       ],
       "evidence_right": [
-        "CNN reported Nvidia shares ended Nov. 23 more than 30% higher. CNBC's headline put the gain at 31%.",
-        "The Hill reported Huang is due for a closed-door interview with three House panels on Dec. 3. Semafor, confirming with a DOJ official, said DOJ is probing Nvidia customers Megaspeed and Supermicro over export controls."
+        "Huang resigned after revelations of extramarital affairs, including one with a woman U.S. intelligence believes is a Chinese spy (NBC News). Nvidia said the board acted after input from senior levels of the U.S. government.",
+        "AP reported bipartisan anger in Congress, with senior Republicans mostly quiet. CBS reported Nvidia's board chair had told investors a week earlier that Huang would not return. CBC quoted a tech adviser saying reinstatement is not exoneration."
       ],
       "sources": [
         {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
-        },
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/policy/technology/6241448-trump-pressures-nvidia-huang-return/"
-        },
-        {
-          "name": "Semafor",
-          "url": "https://www.semafor.com/article/11/23/2026/huang-reinstatement-came-at-trumps-behest"
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864"
         },
         {
           "name": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-jensen-huang-nvidia-ceo-reinstated/"
-        }
-      ],
-      "sources_date": "November 27, 2026",
-      "sources_line": "Sourced from CNBC, The Hill, Semafor, CBS News, November 27, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "TRADE",
-      "headline": "U.S. Proposes New Section 301 Tariffs on 14 Economies; Partners Push Back",
-      "dek": "The proposed duties target alleged manufacturing overcapacity and would not take effect for months, after a public comment period.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "Subsidy-driven overcapacity abroad floods markets and undercuts U.S. manufacturers, and a trade probe is the right tool.",
-        "Section 301 rests on a formal investigation and a comment process, a firmer legal footing after the court loss on emergency tariffs.",
-        "The 20% rate on China matches an agreement already reached with the White House, so it is not a new escalation.",
-        "Rates are capped at 15% for partners with existing deals, which leaves room to negotiate."
-      ],
-      "pole_b_bullets": [
-        "Tariffs act as a tax on U.S. consumers and firms, and inflation is already running at 3.8%.",
-        "Democrats argue Trump has not learned from earlier tariff rounds that raised costs.",
-        "Targeting close allies such as Japan, South Korea and the EU risks breaking trade deals and inviting retaliation.",
-        "The administration is reaching for a new legal route to rebuild tariffs the courts rejected."
-      ],
-      "pole_a_who": "Positions commonly voiced by the Trump administration, USTR Jamieson Greer and Republican allies.",
-      "pole_b_who": "Positions commonly voiced by Democratic lawmakers and trade-policy critics.",
-      "evidence_left": [
-        "USTR completed an eight-month Section 301 probe of 16 partners and proposed duties on 14 (RTE, EUalive). Proposed rates are 20% for China and Vietnam and 17% for India, with a 15% cap for deal partners such as the EU (Plataforma Media).",
-        "Greer told CNBC the tariffs likely will not take effect for months. Plataforma Media reported implementation in January at the earliest, after public comment."
-      ],
-      "evidence_right": [
-        "The EU says it rejects the premise that Europe has structural overcapacity, and trade commissioner Sefcovic said Washington must honor the 15% cap. China's Commerce Ministry also rejected the basis for the tariffs (NBC News).",
-        "Reuters reported U.S. inflation at 3.8%, about a point higher than in each of the last two years."
-      ],
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+          "url": "https://cbsnews.com/news/trump-jensen-huang-nvidia-ceo-reinstated"
         },
         {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087"
-        },
-        {
-          "name": "RTE",
-          "url": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/"
-        },
-        {
-          "name": "Plataforma Media",
-          "url": "https://plataformamedia.com/en/2026/11/26/china-eu-and-global-allies-push-back-against-proposed-us-overcapacity-tariffs"
-        }
-      ],
-      "sources_date": "November 27, 2026",
-      "sources_line": "Sourced from CNBC, NBC News, RTE, Plataforma Media, November 27, 2026."
-    },
-    {
-      "category": "politics",
-      "category_label": "POLITICS",
-      "kicker": "IRAN WAR",
-      "headline": "Trump Says Iran Victory Is 'At Hand' as Kuwait Drone Attack Kills Two Italians",
-      "dek": "Iran denies any role in the Kuwait strike and offers a joint probe, while Trump says he is still offering Tehran a deal.",
-      "pole_a_tag": "CONSERVATIVE",
-      "pole_b_tag": "LIBERAL",
-      "center_label": "BOTH SIDES",
-      "pole_a_label": "Conservative view",
-      "pole_b_label": "Liberal view",
-      "pole_a_bullets": [
-        "Pressure, including the naval blockade, is working, and the offer of a deal shows the aim is to end the war.",
-        "Keeping Iran from a nuclear weapon is the core objective, and troops are protecting future generations.",
-        "Kuwait and Italy both blame Iran for the deaths, and Iran's denials are not credible.",
-        "Giving Tehran 'every chance' to negotiate while holding military options keeps leverage."
-      ],
-      "pole_b_bullets": [
-        "Saying victory comes 'whenever I want' signals no defined end to a costly war.",
-        "The war has pushed up fuel prices and the cost of living, which voters punished at the polls this month.",
-        "Casualties among allies and attacks on Gulf states show the conflict is widening, not winding down.",
-        "Reported Israeli pressure for a new offensive and foreign intelligence sharing with Iran raise escalation risks that call for scrutiny."
-      ],
-      "pole_a_who": "Positions commonly voiced by Trump, administration officials and Republican supporters of the campaign.",
-      "pole_b_who": "Positions commonly voiced by Democratic lawmakers and war critics.",
-      "evidence_left": [
-        "Trump told PBS late Thursday the U.S. has 'victory at hand' and that it comes when he wants. On a Thanksgiving call with troops he said Iran still has a chance at a deal, though he doubted it would accept (CNBC).",
-        "Kuwait's army said falling missile debris killed two Italians after Iranian attacks. Iran denied involvement, called the incident suspicious and offered cooperation with Kuwait and Italy on an investigation (CNBC, Gulf News)."
-      ],
-      "evidence_right": [
-        "IBTimes reported a Pentagon war-cost figure of $48.3 billion excluding base damage. That figure did not appear in the other sources reviewed.",
-        "Reuters reported voters punished Trump this month for an Iran war that pushed the cost of living higher, giving Democrats sweeping election wins."
-      ],
-      "sources": [
-        {
-          "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
-        },
-        {
-          "name": "Gulf News",
-          "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
-        },
-        {
-          "name": "IBTimes UK",
-          "url": "https://www.ibtimes.co.uk/trump-says-us-victory-over-iran-within-reach-1835140"
-        },
-        {
-          "name": "NBC News (Reuters)",
-          "url": "https://www.nbcnews.com/business/business-news/cautious-consumers-gear-black-friday-inflation-woes-bite-rcna611526"
-        }
-      ],
-      "sources_date": "November 27, 2026",
-      "sources_line": "Sourced from CNBC, Gulf News, IBTimes UK, NBC News (Reuters), November 27, 2026."
-    },
-    {
-      "category": "business",
-      "category_label": "BUSINESS",
-      "kicker": "RETAIL",
-      "headline": "Black Friday Opens With Record Online Forecasts and Signs of Shopper Strain",
-      "dek": "Forecasters expect strong holiday sales, but inflation at 3.8% accounts for much of the projected gain.",
-      "pole_a_tag": "GROWTH-FOCUSED",
-      "pole_b_tag": "RISK-FOCUSED",
-      "center_label": "GROWTH vs RISK",
-      "pole_a_label": "Growth-focused view",
-      "pole_b_label": "Risk-focused view",
-      "pole_a_bullets": [
-        "Adobe forecasts $12.9 billion in online Black Friday sales, up 9.2%, with Cyber Monday at $15.1 billion.",
-        "Deloitte found 87% of shoppers plan to take part, the highest in a decade, so demand is intact.",
-        "Value-hunting shoppers favor retailers with low prices, and some firms are pricing thousands of items at $5 or under.",
-        "Trading cards are a growth driver for Best Buy and Target, showing demand in some categories."
-      ],
-      "pole_b_bullets": [
-        "Most of the 4% to 6% forecast growth comes from inflation, not volume.",
-        "Visa expects inflation-adjusted holiday spending to grow just 1.1%, below last year's 1.3%.",
-        "Kohl's CEO described an 'increasingly choiceful' consumer, and 82% of shoppers are managing holiday costs.",
-        "Toy prices are up 13.2% this year, and Mattel cut its annual forecast."
-      ],
-      "pole_a_who": "Positions commonly voiced by retail forecasters and industry groups such as Adobe, Deloitte and the NRF.",
-      "pole_b_who": "Positions commonly voiced by retail analysts and some retailers citing consumer strain.",
-      "evidence_left": [
-        "Adobe forecasts $12.9 billion in U.S. online Black Friday sales, up 9.2% (NBC News). The NRF sees November-December sales up 4.2% to just above $1 trillion (Reuters).",
-        "Deloitte's October survey found 87% of 1,200 consumers plan to shop Thanksgiving through Cyber Monday, the highest since 2016 (CNBC, Reuters)."
-      ],
-      "evidence_right": [
-        "The CNBC/NRF Retail Monitor showed October retail sales growing at the slowest pace in nearly a year (CNBC). Visa projects holiday prices up 3.4% and real spending growth of 1.1% (Center Square).",
-        "Planned average spend differs by source: Deloitte reports $624, similar to last year (CNBC), while Finder reports $488, down from $594 (Finder)."
-      ],
-      "sources": [
-        {
-          "name": "Reuters via WHBL",
-          "url": "https://whbl.com/2026/11/26/cautious-consumers-gear-up-for-black-friday-as-inflation-woes-bite/"
+          "name": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings"
         },
         {
           "name": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
-        },
-        {
-          "name": "Just the News (Center Square)",
-          "url": "https://justthenews.com/nation/states/center-square/consumer-spending-remains-strong-heading-black-friday"
-        },
-        {
-          "name": "Finder",
-          "url": "https://www.finder.com/research/black-friday-statistics"
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
         }
       ],
-      "sources_date": "November 27, 2026",
-      "sources_line": "Sourced from Reuters via WHBL, CNBC, Just the News (Center Square), Finder, November 27, 2026."
-    },
-    {
-      "category": "economy",
-      "category_label": "ECONOMY",
-      "kicker": "MARKETS",
-      "headline": "Futures Rebound After a Volatile AI-Driven Week as Wall Street Reopens",
-      "dek": "U.S. stock futures rose before a shortened Black Friday session, following a November correction in AI-linked shares.",
-      "pole_a_tag": "BULL",
-      "pole_b_tag": "BEAR",
-      "center_label": "BULL vs BEAR",
-      "pole_a_label": "Bull view",
-      "pole_b_label": "Bear view",
-      "pole_a_bullets": [
-        "Wednesday's S&P 500 close was only 0.25% lower after an intraday drop of more than 3%, which suggests dip-buying.",
-        "Futures, Asian markets and European stocks are rising, and CNBC noted Europe is heading for its best week since May.",
-        "AI-related stocks such as Nvidia and Micron led the premarket rebound.",
-        "A correction has cleared some of the froth, and the broader market is still up since October 2022."
-      ],
-      "pole_b_bullets": [
-        "The S&P 500 fell more than 10% from its Oct. 6 high, and the Nasdaq turned negative for 2026.",
-        "AI spending and valuations may not pay off, and midterm winners favoring slower data-center buildouts add risk.",
-        "Inflation of 3.8% and a reported core PCE of 3.3% keep the Fed from easing, and one outlet puts hike odds near 98%.",
-        "Thin holiday liquidity can exaggerate gains, and Nvidia's swings of 30% up and then down show instability."
-      ],
-      "pole_a_who": "Positions commonly voiced by equity strategists and dip-buyers.",
-      "pole_b_who": "Positions commonly voiced by bubble-wary analysts and rate-sensitive investors.",
-      "evidence_left": [
-        "The S&P 500 closed Nov. 25 down 0.25% at 7,182.78 after recovering from an intraday fall of more than 1,100 points in the Dow. The index is down 5.24% in November (Investing.com).",
-        "Friday futures: S&P 500 up 1.8% (AP via CTV) or 1.7% (Yahoo Finance), and Nasdaq-100 up about 2% (Yahoo Finance)."
-      ],
-      "evidence_right": [
-        "AP reported the S&P 500 fell 3.7% to 6,910.39 on Nov. 20, its worst weekly loss in more than 18 months, putting it in a correction.",
-        "Investing.com reported October core PCE at 3.3% and December Fed hike odds near 98%. These figures were not corroborated by other outlets reviewed."
-      ],
-      "sources": [
-        {
-          "name": "Associated Press via NBC Bay Area",
-          "url": "https://www.nbcbayarea.com/news/national-international/november-20-stock-market-updates/4179477/"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://in.investing.com/news/stock-market-news/black-friday-is-here-60-off-investingpro-and-its-ai-stock-picks-end-soon-5727598"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
-        },
-        {
-          "name": "AP via CTV News",
-          "url": "https://www.ctvnews.ca/business/article/global-shares-mostly-rise-ahead-of-wall-streets-reopening-after-thanksgiving/"
-        }
-      ],
-      "sources_date": "November 27, 2026",
-      "sources_line": "Sourced from Associated Press via NBC Bay Area, Investing.com, Yahoo Finance, AP via CTV News, November 27, 2026."
+      "sources_date": "November 28, 2026",
+      "sources_line": "Sourced from NBC News, CBS News, PBS NewsHour (AP), CNBC, November 28, 2026."
     },
     {
       "category": "sports",
       "category_label": "SPORTS",
       "kicker": "NFL",
-      "headline": "Bears, Eagles and Bills All Win on Thanksgiving With Go-Ahead Scores in the Final Seconds",
-      "dek": "The Eagles erased a 21-point deficit, the largest comeback in Thanksgiving history, as the Bears took sole possession of first place in the NFC North.",
+      "headline": "Bills beat Chiefs 13-10 on Thanksgiving amid replay and clock disputes",
+      "dek": "An overturned catch and extra seconds on the final drive have fans and analysts arguing over what decided the game.",
       "pole_a_tag": "TAKE",
       "pole_b_tag": "COUNTER-TAKE",
       "center_label": "TAKE vs COUNTER-TAKE",
       "pole_a_label": "Take",
       "pole_b_label": "Counter-take",
       "pole_a_bullets": [
-        "The Bears are real contenders: they overcame an 11-point fourth-quarter deficit and left Detroit first in the NFC North at 9-2.",
-        "The Eagles' 21-point comeback shows a resilient team that can still make a run despite the slow start.",
-        "Buffalo at 10-1 is the AFC's team to beat after beating the Chiefs.",
-        "The Rams' fifth straight win, led by Blake Corum's 184 rushing yards, makes them a playoff threat."
+        "The league office overturned Rashee Rice's catch without clear and obvious evidence, as Andy Reid argued, and that call cost Kansas City a drive in a tied game.",
+        "The on-field crew ruled it a catch, so the New York overrule removed a decision the officials on the field had made.",
+        "Analysts say the clock was reset after multiple plays in the final 26 seconds, which gave Buffalo enough time for its 57-yard field goal.",
+        "Together the calls swung a game that decided the AFC's top seed, so the league owes a public explanation."
       ],
       "pole_b_bullets": [
-        "The Bears trailed for 53 minutes and 31 seconds and allowed 35 points, so close wins can hide defensive problems.",
-        "The Eagles are 4-7 and needed a 60-yard field goal to beat a team they trailed 31-10, which is no sign of a turnaround.",
-        "Buffalo's win over Kansas City was described as a slog and does not prove dominance.",
-        "Late-score finishes are partly luck and tend to regress, so records may overstate quality."
+        "Replay reviewed whether Rice kept control through the ground, and the league office ruled he lost it, so the ruling was within the rules.",
+        "Counts of added clock time vary, and CBS Sports said Tyler Bass would still have had a shot with one second left.",
+        "CBS also said it cannot be known whether the extra time cost the Chiefs the win.",
+        "Kansas City's own choices mattered, including the fumbled snap and a conservative approach on its last two possessions, which fans and commentators criticized."
       ],
-      "pole_a_who": "Positions commonly voiced by NFL analysts and fans praising the winners.",
-      "pole_b_who": "Positions commonly voiced by skeptical analysts and fans.",
+      "pole_a_who": "Positions commonly voiced by Chiefs coach Andy Reid, Brittany Mahomes, ESPN's Mina Kimes, former players and Chiefs fans.",
+      "pole_b_who": "Positions commonly voiced by neutral analysts, Bills fans and critics of Kansas City's late-game management.",
       "evidence_left": [
-        "Caleb Williams hit Rome Odunze for a 6-yard touchdown with three seconds left to give Chicago a 39-35 win at Detroit, putting the Bears at 9-2 and the Lions at 8-3 (Yahoo Sports, NFL.com).",
-        "Jake Elliott's 60-yard field goal with two seconds left gave Philadelphia a 39-38 win after trailing Dallas 31-10 late in the third quarter. The Eagles are 4-7 and the Cowboys 5-7 (Yahoo Sports, NFL.com)."
+        "Buffalo won 13-10 on Nov. 26, 2026 when Tyler Bass kicked a 57-yard field goal on the final play (CBS Sports).",
+        "On third-and-10, the officials ruled an 11-yard Rice catch, and the league's New York office overturned it, forcing a punt (NBC Sports). NBC timed it at 1:51 left and The Spun at about 1:47. Reid said it was not clear and obvious."
       ],
       "evidence_right": [
-        "The Bears, Eagles and Bills each won with a go-ahead score inside the final three seconds, which no earlier Thanksgiving had produced (Yahoo Sports).",
-        "Wednesday night, the Rams beat the Packers 26-13 to move to 7-4 with a fifth straight win. Green Bay fell to 6-5 (Yahoo Sports)."
+        "Chiefs had the ball at their own 11 with 26 seconds left and Buffalo held all three timeouts (CBS Sports). Mahomes fell on a dropped snap and Buffalo took a timeout.",
+        "Estimates of extra clock time differ. ProFootball Talk counted four seconds and CBS Sports counted three (via Yahoo Sports). Analyst Warren Sharp alleged seven seconds across two plays (Heavy)."
       ],
       "sources": [
         {
-          "name": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/nfl/articles/nfl-thanksgiving-slate-makes-history-112758724.html"
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/nfl/news/did-chiefs-get-hosed-by-nfl-clock-controversy-breaking-down-the-final-seconds-of-bills-wild-thanksgiving-win/"
         },
         {
-          "name": "NFL.com",
-          "url": "https://www.nfl.com/news/thanksgiving-tripleheader-what-we-learned-from-bears-lions-eagles-cowboys-chiefs-bills"
+          "name": "NBC Sports",
+          "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andy-reid-new-york-overturned-rashee-rice-catch-not-a-call-i-agree-with"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/nfl/live-blog/13616869/nfl-thanksgiving-2026-live-bears-vs-lions-cowboys-vs-eagles-updates-results-highlights-and-how-to-watch-live-on-sky-sports"
+          "name": "Yahoo Sports (The Spun)",
+          "url": "https://sports.yahoo.com/nfl/articles/nfl-refs-accused-rigging-chiefs-131948239.html"
+        },
+        {
+          "name": "Heavy",
+          "url": "https://heavy.com/sports/nfl/buffalo-bills/bills-chiefs-controversy-ending-clock-operator/"
         }
       ],
-      "sources_date": "November 27, 2026",
-      "sources_line": "Sourced from Yahoo Sports, NFL.com, Sky Sports, November 27, 2026."
+      "sources_date": "November 28, 2026",
+      "sources_line": "Sourced from CBS Sports, NBC Sports, Yahoo Sports (The Spun), Heavy, November 28, 2026."
     }
   ]
 }
